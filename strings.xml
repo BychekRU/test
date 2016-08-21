@@ -148,7 +148,7 @@
 		<polish>Tabela zwycięzców: Perfekcjoniści</polish>
 		<portuguese>Tabela vencedores: Perfeitos</portuguese>
 		<italian>Classifica: Perfetti</italian>
-		<russian>Доска почёта: Идеальных</russian>
+		<russian>Доска почёта: Идеальные</russian>
 		<chinese>排行：完美数</chinese>
 		<korean>리더보드: 퍼펙트레벨</korean>
 		<taiwanese>排行榜:完美過關</taiwanese>
@@ -216,7 +216,7 @@
 		<polish>Kredyty</polish>
 		<portuguese>Créditos</portuguese>
 		<italian>Riconoscimenti</italian>
-		<russian>Благодарности</russian>
+		<russian>Создатели</russian>
 		<chinese>开发团队</chinese>
 		<korean>제작정보</korean>
 		<taiwanese>製作團隊</taiwanese>
@@ -350,7 +350,7 @@
 		<polish>Etap wyboru</polish>
 		<portuguese>Selec.Cenário</portuguese>
 		<italian>Scegli schema</italian>
-		<russian>Выберите стадию</russian>
+		<russian>Выберите раздел</russian>
 		<chinese>选择关卡</chinese>
 		<korean>스테이지 선택</korean>
 		<taiwanese>選擇關卡</taiwanese>
@@ -366,7 +366,7 @@
 		<polish>Zbierz  %d więcej ^09, aby odblokować</polish>
 		<portuguese>Recolha + %d ^09 p/desbloq.</portuguese>
 		<italian>Ancora %d ^09 per sbloccare</italian>
-		<russian>Соберите %d больше ^09, чтобы разблокировать</russian>
+		<russian>Соберите %d больше ^09, чтобы открыть</russian>
 		<chinese>再收集 %d 个 ^09 解锁</chinese>
 		<korean>%d를 ^09보다 더 모아서 해제합니다</korean>
 		<taiwanese>還需要%d個^09才能解鎖</taiwanese>
@@ -382,7 +382,7 @@
 		<polish>Przejdź poprzedni etap, aby odblokować</polish>
 		<portuguese>Termine o cenário ant. p/desbloq.</portuguese>
 		<italian>Sblocca completando il precedente</italian>
-		<russian>Завершите предыдущую стадию, чтобы разблокировать</russian>
+		<russian>Завершите предыдущий раздел, чтобы раблокировать</russian>
 		<chinese>完成之前的关卡解锁</chinese>
 		<korean>이전 스테이지를 완료하면 해제됩니다</korean>
 		<taiwanese>必須先通過先前的關卡</taiwanese>
@@ -462,7 +462,7 @@
 		<polish>Etap ukończony</polish>
 		<portuguese>Cenário Concluído</portuguese>
 		<italian>Schema completato</italian>
-		<russian>Стадия завершена</russian>
+		<russian>Этап завершен</russian>
 		<chinese>已完成该关卡</chinese>
 		<korean>스테이지 완료</korean>
 		<taiwanese>已通過關卡</taiwanese>
@@ -478,7 +478,7 @@
 		<polish>Odblokowany nowy etap</polish>
 		<portuguese>Novo Cenário Desbloq.</portuguese>
 		<italian>Hai un nuovo schema!</italian>
-		<russian>Разблокирована новая стадия</russian>
+		<russian>Разблокирован новый этап</russian>
 		<chinese>已开启新关卡</chinese>
 		<korean>새로운 스테이지가 열렸습니다</korean>
 		<taiwanese>已開啟新的關卡</taiwanese>
@@ -494,7 +494,7 @@
 		<polish>Odblokowane nowe etapy</polish>
 		<portuguese>Novos Cenários Desbloq.</portuguese>
 		<italian>Nuovi schemi sbloccati</italian>
-		<russian>Разблокированы новые стадии</russian>
+		<russian>Разблокированы новые этапы</russian>
 		<chinese>已开启新关卡</chinese>
 		<korean>새로운 스테이지가 열렸습니다</korean>
 		<taiwanese>已開啟新的關卡</taiwanese>
@@ -550,7 +550,7 @@
 		<polish>Bardzo dobrze!</polish>
 		<portuguese>Muito Bem!</portuguese>
 		<italian>Complimenti!</italian>
-		<russian>Готово!</russian>
+		<russian>Отлично!</russian>
 		<chinese>干得漂亮！</chinese>
 		<korean>잘 하셨습니다!</korean>
 		<taiwanese>你做得很好！</taiwanese>
@@ -582,7 +582,7 @@
 		<polish>Odblokowany etap premiowy</polish>
 		<portuguese>Cenário Bónus Desbloq.</portuguese>
 		<italian>Schema bonus sbloccato</italian>
-		<russian>Разблокирована бонусная стадия</russian>
+		<russian>Разблокирован бонусный этап</russian>
 		<chinese>奖励关卡解锁</chinese>
 		<korean>보너스 스테이지 해제</korean>
 		<taiwanese>已開啟獎勵關卡</taiwanese>
@@ -598,7 +598,7 @@
 		<polish>Perfekcyjne ruchy %d</polish>
 		<portuguese>Perfeito! %d jogadas</portuguese>
 		<italian>Perfetto! %d mosse</italian>
-		<russian>Отлично! Движений: %d</russian>
+		<russian>Идеально! Ходов: %d</russian>
 		<chinese>完美！ %d 次移动</chinese>
 		<korean>퍼펙트! %d번 이동</korean>
 		<taiwanese>完美過關! %d次移動</taiwanese>
@@ -614,7 +614,7 @@
 		<polish>Ruchy %d</polish>
 		<portuguese>%d jogadas</portuguese>
 		<italian>%d mosse</italian>
-		<russian>движений: %d</russian>
+		<russian>ходов: %d</russian>
 		<chinese>%d 次移动</chinese>
 		<korean>%d번 이동</korean>
 		<taiwanese>%d次移動</taiwanese>
@@ -662,7 +662,7 @@
 		<polish>Uzyskane wskazówki ^09</polish>
 		<portuguese>Ganhou uma pista ^09</portuguese>
 		<italian>Aiuto ottenuto ^09</italian>
-		<russian>Монет заработано ^09</russian>
+		<russian>Монета заработана ^09</russian>
 		<chinese>提示奖励 ^09</chinese>
 		<korean>힌트 획득 ^09</korean>
 		<taiwanese>獎勵點數^09</taiwanese>
@@ -761,7 +761,7 @@
 		<polish>Gra firmy Fallen Tree Games</polish>
 		<portuguese>Um jogo da Fallen Tree Games</portuguese>
 		<italian>Un gioco Fallen Tree Games</italian>
-		<russian>Игра от Fallen Tree Games</russian>
+		<russian>Разработка - Fallen Tree Games</russian>
 		<chinese>Fallen Tree Games开发</chinese>
 		<korean>A game by Fallen Tree Games</korean>
 		<taiwanese>A game by Fallen Tree Games</taiwanese>
@@ -783,7 +783,7 @@
 		<polish>Muzyka: Steven Cravis</polish>
 		<portuguese>Música de Steven Cravis</portuguese>
 		<italian>Musica di Steven Cravis</italian>
-		<russian>Саундтрек - Steven Cravis</russian>
+		<russian>Звуковое оформление - Steven Cravis</russian>
 		<chinese>音乐Steven Cravis</chinese>
 		<korean>Music by Steven Cravis</korean>
 		<taiwanese>音樂: Steven Cravis</taiwanese>
@@ -1385,7 +1385,7 @@
 		<polish>Oceń, aby pomóc stworzyć nam więcej gier!</polish>
 		<portuguese>Classifique para nos ajudar a produzir mais jogos!</portuguese>
 		<italian>Votaci e realizzeremo nuovi giochi!</italian>
-		<russian>Оцените нас, чтобы помочь нам делать больше игр.</russian>
+		<russian>Поставьте оценку, чтобы помочь нам делать больше игр.</russian>
 		<chinese>投票支持让我们做得更好</chinese>
 		<korean>별점 등록은 더 많은 게임을 개발하는데 도움이 됩니다!</korean>
 		<taiwanese>您的評分能使我們不斷進步!</taiwanese>
@@ -1401,7 +1401,7 @@
 		<polish>Oceń teraz</polish>
 		<portuguese>Classificar já</portuguese>
 		<italian>Vota subito</italian>
-		<russian>Оценить нас</russian>
+		<russian>Оценить сейчас</russian>
 		<chinese>现在投票</chinese>
 		<korean>별점 주기</korean>
 		<taiwanese>立即評分</taiwanese>
@@ -1450,7 +1450,7 @@
 		<polish>Wskazówki ^09 są udostępniane po zakończeniu poziomu z minimalną liczbą ruchów</polish>
 		<portuguese>As pistas ^09 são obtidas através da conclusão dum nível c/poucas jogadas</portuguese>
 		<italian>Gli aiuti ^09 si ottengono completando i livelli nel numero di mosse minimo</italian>
-		<russian>Идеально завершив уровень вы заработали ^09 подсказок</russian>
+		<russian>За идеальное прохождение уровеня заработано подсказок: ^09</russian>
 		<chinese>当每次以最少移动次数通关后，会奖励提示点数^09</chinese>
 		<korean>목표 이동 횟수로 레벨을 완료하여 힌트 ^09를 획득하였습니다.</korean>
 		<taiwanese>當每次以最少移動次數通過任務時，會獎勵您提示點數^09</taiwanese>
@@ -1498,7 +1498,7 @@
 		<polish>pokazanych rozwiązań</polish>
 		<portuguese>A mostrar solução</portuguese>
 		<italian>Mostra soluzione</italian>
-		<russian>Показывается решение</russian>
+		<russian>Решение</russian>
 		<chinese>显示指引</chinese>
 		<korean>해결방법 보이기</korean>
 		<taiwanese>正在顯示解答</taiwanese>
@@ -1538,7 +1538,7 @@
 		<polish>Wykonałeś inny ruch dla rozwiązania</polish>
 		<portuguese>Efetuou uma jogada diferente para a solução</portuguese>
 		<italian>Hai fatto una mossa diversa per la soluzione</italian>
-		<russian>Вы сделали отличное от решения движение</russian>
+		<russian>Вы сделали отличный от решения ход</russian>
 		<chinese>您的操作和指示不一致</chinese>
 		<korean>다른 해결책을 만들었습니다</korean>
 		<taiwanese>您的操作與提示不相同</taiwanese>
@@ -1586,7 +1586,7 @@
 		<polish>Można je uzyskać przechodząc poziom z minimalną liczbą ruchów</polish>
 		<portuguese>Estas são obtidas pela conclusão de 1 nível no número mín. de jogadas.</portuguese>
 		<italian>Queste si ottengono completando i livelli nel numero di mosse minimo.</italian>
-		<russian>Они зарабатываются при идеальном завершении уровня.</russian>
+		<russian>Они зарабатываются при идеальном прохождении уровня.</russian>
 		<chinese>每次以最少移动次所过关后，可以获得提示奖励。</chinese>
 		<korean>코인은 퍼펙트로 레벨을 완료하면 얻을 수 있습니다.</korean>
 		<taiwanese>每次以最少移動次數通過任務時，都可以獲得提示獎勵</taiwanese>
@@ -1722,7 +1722,7 @@
 		<polish>Zbierz %d pereł</polish>
 		<portuguese>Recolher %d pérolas</portuguese>
 		<italian>Raccogli %d perle</italian>
-		<russian>Соберите %d жемчужин(ы)</russian>
+		<russian>Соберите %d жемчужин</russian>
 		<chinese>收集 %d 颗珍珠</chinese>
 		<korean>진주 %d 획득</korean>
 		<taiwanese>收集%d個珍珠</taiwanese>
@@ -1754,7 +1754,7 @@
 		<polish>Zbierz %d pereł</polish>
 		<portuguese>Recolher %d pérolas</portuguese>
 		<italian>Raccogli %d perle</italian>
-		<russian>Соберите %d жемчужин(ы)</russian>
+		<russian>Соберите %d жемчужин</russian>
 		<chinese>收集 %d 颗珍珠</chinese>
 		<korean>진주 %d 획득</korean>
 		<taiwanese>收集%d個珍珠</taiwanese>
@@ -1770,7 +1770,7 @@
 		<polish>Zbieracz</polish>
 		<portuguese>Acumulador</portuguese>
 		<italian>Collezionista di perle</italian>
-		<russian>Накопитель</russian>
+		<russian>Скопидом</russian>
 		<chinese>囤积者</chinese>
 		<korean>수집가</korean>
 		<taiwanese>收藏家</taiwanese>
@@ -1786,7 +1786,7 @@
 		<polish>Zbierz %d pereł</polish>
 		<portuguese>Recolher %d pérolas</portuguese>
 		<italian>Raccogli %d perle</italian>
-		<russian>Соберите %d жемчужин(ы)</russian>
+		<russian>Соберите %d жемчужин</russian>
 		<chinese>收集 %d 颗珍珠</chinese>
 		<korean>진주 %d 획득</korean>
 		<taiwanese>收集%d個珍珠</taiwanese>
@@ -1818,7 +1818,7 @@
 		<polish>Zbierz %d pereł</polish>
 		<portuguese>Recolher %d pérolas</portuguese>
 		<italian>Raccogli %d perle</italian>
-		<russian>Соберите %d жемчужин(ы)</russian>
+		<russian>Соберите %d жемчужин</russian>
 		<chinese>收集 %d 颗珍珠</chinese>
 		<korean>진주 %d 획득</korean>
 		<taiwanese>收集%d個珍珠</taiwanese>
@@ -1834,7 +1834,7 @@
 		<polish>Pearl Harbor</polish>
 		<portuguese>Abrigo de Pérolas</portuguese>
 		<italian>Conquistatore di perle</italian>
-		<russian>Гавань жемчужин</russian>
+		<russian>Жемчужная гавань</russian>
 		<chinese>珍珠收藏大师</chinese>
 		<korean>진주 매니아</korean>
 		<taiwanese>珍珠狂熱者</taiwanese>
@@ -1850,7 +1850,7 @@
 		<polish>Zbierz %d pereł</polish>
 		<portuguese>Recolher %d pérolas</portuguese>
 		<italian>Raccogli %d perle</italian>
-		<russian>Соберите %d жемчужин(ы)</russian>
+		<russian>Соберите %d жемчужин</russian>
 		<chinese>收集 %d 颗珍珠</chinese>
 		<korean>진주 %d 획득</korean>
 		<taiwanese>收集%d個珍珠</taiwanese>
@@ -1882,7 +1882,7 @@
 		<polish>Nakłuty %d razy</polish>
 		<portuguese>Encravado %d vezes</portuguese>
 		<italian>Punto %d volte</italian>
-		<russian>Проткнитесь %d раз(а)</russian>
+		<russian>Проткнитесь %d раза</russian>
 		<chinese>撞钉 %d 次</chinese>
 		<korean>%d 번 가시에 충돌</korean>
 		<taiwanese>被刺破%d次</taiwanese>
@@ -1914,7 +1914,7 @@
 		<polish>Nakłuty %d razy</polish>
 		<portuguese>Encravado %d vezes</portuguese>
 		<italian>Puntp %d volte</italian>
-		<russian>Проткнитесь %d раз(а)</russian>
+		<russian>Проткнитесь %d раз</russian>
 		<chinese>撞钉 %d 次</chinese>
 		<korean>%d 번 가시에 충돌</korean>
 		<taiwanese>被刺破%d次</taiwanese>
@@ -1930,7 +1930,7 @@
 		<polish>Bilans strat</polish>
 		<portuguese>Funeral Bill</portuguese>
 		<italian>Pompe funebri</italian>
-		<russian>Похоронный счёт</russian>
+		<russian>Счёт за похороны</russian>
 		<chinese>百折不挠</chinese>
 		<korean>도전자</korean>
 		<taiwanese>喪禮歌手</taiwanese>
@@ -1946,7 +1946,7 @@
 		<polish>Nakłuty %d razy</polish>
 		<portuguese>Encravado %d vezes</portuguese>
 		<italian>Punto %d volte</italian>
-		<russian>Проткнитесь %d раз(а)</russian>
+		<russian>Проткнитесь %d раз</russian>
 		<chinese>撞钉 %d 次</chinese>
 		<korean>%d 번 가시에 충돌</korean>
 		<taiwanese>被刺破%d次</taiwanese>
@@ -1978,7 +1978,7 @@
 		<polish>Zalicz perfekcyjnie %d poziomów</polish>
 		<portuguese>Concluídos %d níveis de modo perfeito</portuguese>
 		<italian>Completa %d livelli perfetti</italian>
-		<russian>Идеально завершите %d уровней</russian>
+		<russian>Идеально завершите %d уровня</russian>
 		<chinese>完美通关%d个任务</chinese>
 		<korean>%d 퍼펙트 레벨 완료</korean>
 		<taiwanese>完美通過%d個任務</taiwanese>
@@ -2010,7 +2010,7 @@
 		<polish>Przejdź etap perfekcyjnymi ruchami</polish>
 		<portuguese>Concluir um cenário em jogadas perfeitas</portuguese>
 		<italian>Completa uno schema con mosse perfette</italian>
-		<russian>Завершите стадию идеально</russian>
+		<russian>Завершите этап идеально</russian>
 		<chinese>完美完成一关</chinese>
 		<korean>퍼펙트로 하나의 스테이지 완료</korean>
 		<taiwanese>完美通過一個關卡</taiwanese>
@@ -2058,7 +2058,7 @@
 		<polish>Uzyskane liny</polish>
 		<portuguese>Descobrir as Cordas</portuguese>
 		<italian>Maestria</italian>
-		<russian>Узнавший канаты</russian>
+		<russian>Освоившийся</russian>
 		<chinese>寻找窍门</chinese>
 		<korean>입문생</korean>
 		<taiwanese>新手上路</taiwanese>
@@ -2074,7 +2074,7 @@
 		<polish>Przejdź 1928 sekcji</polish>
 		<portuguese>Concluir a plataforma 1928</portuguese>
 		<italian>Completa il ripiano 1928</italian>
-		<russian>Завершите 1928-ю полку</russian>
+		<russian>Завершите полку 1928</russian>
 		<chinese>完成1928关卡层</chinese>
 		<korean>1928 선반 완료</korean>
 		<taiwanese>完成1928年度</taiwanese>
@@ -2106,7 +2106,7 @@
 		<polish>Przejdź 1937 sekcji</polish>
 		<portuguese>Concluir a prateleira 1937</portuguese>
 		<italian>Completa il ripiano 1937</italian>
-		<russian>Завершите 1937-ю полку</russian>
+		<russian>Завершите полку 1937</russian>
 		<chinese>完成1937关卡层</chinese>
 		<korean>1937 선반 완료</korean>
 		<taiwanese>完成1937年度</taiwanese>
@@ -2138,7 +2138,7 @@
 		<polish>Przejdź 1939 sekcji</polish>
 		<portuguese>Concluir a plataforma 1939</portuguese>
 		<italian>Completa il ripiano 1939</italian>
-		<russian>Завершите 1939-ю полку</russian>
+		<russian>Завершите полку 1939</russian>
 		<chinese>完成1939关卡层</chinese>
 		<korean>1939 선반 완료</korean>
 		<taiwanese>完成1939年度</taiwanese>
@@ -2154,7 +2154,7 @@
 		<polish>Pro</polish>
 		<portuguese>Profissional</portuguese>
 		<italian>Pro</italian>
-		<russian>Про</russian>
+		<russian>Профессионал</russian>
 		<chinese>专业</chinese>
 		<korean>프로</korean>
 		<taiwanese>專業</taiwanese>
@@ -2170,7 +2170,7 @@
 		<polish>Przejdź 1941 sekcji</polish>
 		<portuguese>Concluir a plataforma 1941</portuguese>
 		<italian>Completa il ripiano 1941</italian>
-		<russian>Завершите 1941-ю полку</russian>
+		<russian>Завершите полку 1941</russian>
 		<chinese>完成1941关卡层</chinese>
 		<korean>1941 선반 완료</korean>
 		<taiwanese>完成1941年度</taiwanese>
@@ -2202,7 +2202,7 @@
 		<polish>Przejdź 1943 sekcji</polish>
 		<portuguese>Concluir a plataforma 1943</portuguese>
 		<italian>Completa il ripiano 1943</italian>
-		<russian>Завершите 1943-ю полку</russian>
+		<russian>Завершите полку 1943</russian>
 		<chinese>完成1943关卡层</chinese>
 		<korean>1943 선반 완료</korean>
 		<taiwanese>完成1943年度</taiwanese>
@@ -2234,7 +2234,7 @@
 		<polish>Przejdź 1945 sekcji</polish>
 		<portuguese>Concluir a plataforma 1945</portuguese>
 		<italian>Completa il ripiano 1945</italian>
-		<russian>Завершите 1945-ю полку</russian>
+		<russian>Завершите полку 1945</russian>
 		<chinese>完成1945关卡层</chinese>
 		<korean>1945 선반 완료</korean>
 		<taiwanese>完成1945年度</taiwanese>
@@ -2282,7 +2282,7 @@
 		<polish>Perfekcyjnie</polish>
 		<portuguese>Perfeito</portuguese>
 		<italian>Perfetto</italian>
-		<russian>Отличник</russian>
+		<russian>Перфекционист</russian>
 		<chinese>演绎完美</chinese>
 		<korean>퍼펙트 종결자</korean>
 		<taiwanese>完美</taiwanese>
@@ -2378,7 +2378,7 @@
 		<polish>Znakomicie</polish>
 		<portuguese>Perfeito</portuguese>
 		<italian>Impeccabile</italian>
-		<russian>Непогрешимый</russian>
+		<russian>Безукоризненный</russian>
 		<chinese>无可挑剔</chinese>
 		<korean>완벽주의자</korean>
 		<taiwanese>無懈可擊</taiwanese>
@@ -2410,7 +2410,7 @@
 		<polish>Szybkie myślenie</polish>
 		<portuguese>Pensamento Rápido</portuguese>
 		<italian>Neuroni da corsa</italian>
-		<russian>Быстро думающий</russian>
+		<russian>Сообразительный</russian>
 		<chinese>思维敏捷</chinese>
 		<korean>똑똑이</korean>
 		<taiwanese>思維敏銳</taiwanese>
@@ -2426,7 +2426,7 @@
 		<polish>Przejdź poziom w %d sekund</polish>
 		<portuguese>Concluir 1 nível em menos de %d seg.</portuguese>
 		<italian>Completa un livello in meno di %d secondi</italian>
-		<russian>Завершите уровень быстрее, чем за %d секунд</russian>
+		<russian>Завершите уровень меньше, чем за %d секунд</russian>
 		<chinese>在%d 秒内完成一关。</chinese>
 		<korean>%d 초 이내로 레벨 완료</korean>
 		<taiwanese>在%d秒內通過任務</taiwanese>
@@ -2442,7 +2442,7 @@
 		<polish>Wyzywająco</polish>
 		<portuguese>Desafiante</portuguese>
 		<italian>Insolente</italian>
-		<russian>Дерзкий</russian>
+		<russian>Непокорный</russian>
 		<chinese>目中无人</chinese>
 		<korean>분발해</korean>
 		<taiwanese>目中無人</taiwanese>
@@ -2506,7 +2506,7 @@
 		<polish>Samobójstwo</polish>
 		<portuguese>Suicida</portuguese>
 		<italian>Suicida</italian>
-		<russian>Суицидник</russian>
+		<russian>Самоубийца</russian>
 		<chinese>自我毁灭</chinese>
 		<korean>신중하게</korean>
 		<taiwanese>自殺行為</taiwanese>
@@ -2522,7 +2522,7 @@
 		<polish>Zgiń przy pierwszym ruchu</polish>
 		<portuguese>Morrer na 1ª jogada</portuguese>
 		<italian>Muori in una mossa</italian>
-		<russian>Умрите от первого движения</russian>
+		<russian>Умрите после первого хода</russian>
 		<chinese>第一次移动就死亡</chinese>
 		<korean>첫 이동에 게임 실패</korean>
 		<taiwanese>第一次移動就失敗</taiwanese>
@@ -2538,7 +2538,7 @@
 		<polish>Władca pierścienia</polish>
 		<portuguese>Líder dos Anéis</portuguese>
 		<italian>Cerchi</italian>
-		<russian>Глава колец</russian>
+		<russian>Властелин колец</russian>
 		<chinese>传送高手</chinese>
 		<korean>링을 다룰줄 아는</korean>
 		<taiwanese>傳送高手</taiwanese>
@@ -2570,7 +2570,7 @@
 		<polish>Łącznik</polish>
 		<portuguese>Solucionador de pares</portuguese>
 		<italian>A coppie</italian>
-		<russian>Сват</russian>
+		<russian>Сводник</russian>
 		<chinese>牵线搭桥</chinese>
 		<korean>블록 파괴자</korean>
 		<taiwanese>月下老人</taiwanese>
@@ -2586,7 +2586,7 @@
 		<polish>Ustaw %d zestawów bloków razem</polish>
 		<portuguese>Empurrar %d conj. de blocos juntos</portuguese>
 		<italian>Unisci %d set di blocchi</italian>
-		<russian>Соберите %d блоков вместе</russian>
+		<russian>Соедините %d набора вместе</russian>
 		<chinese>将%d对方块组合在一起</chinese>
 		<korean>%d 블록을 파괴</korean>
 		<taiwanese>湊成%d對方塊組合</taiwanese>
@@ -2650,7 +2650,7 @@
 		<polish>Zablokuj pętlę %d razy</polish>
 		<portuguese>Ficar preso num ciclo de %d vezes</portuguese>
 		<italian>Bloccati %d volte</italian>
-		<russian>Застряньте в цикле %d раз(а)</russian>
+		<russian>Зациклитесь %d раз</russian>
 		<chinese>在关卡中被困住 %d 次</chinese>
 		<korean>링 이동에서 %d 번 무한 이동</korean>
 		<taiwanese>被困住%d次</taiwanese>
@@ -2682,7 +2682,7 @@
 		<polish>Powtórz poziom %d razy</polish>
 		<portuguese>Tentar um nível %d vezes</portuguese>
 		<italian>Riprova un livello %d volte</italian>
-		<russian>Переиграйте уровень %d раз(а)</russian>
+		<russian>Переиграйте уровень %d раз</russian>
 		<chinese>在一关中重玩 %d 次</chinese>
 		<korean>한 레벨에서 %d 번 재시도</korean>
 		<taiwanese>重試同一個任務%d次</taiwanese>
@@ -2714,7 +2714,7 @@
 		<polish>Graj przez 10 minut</polish>
 		<portuguese>Jogar por  10 min.</portuguese>
 		<italian>Gioca per 10 minuti</italian>
-		<russian>Проиграйте 10 минут</russian>
+		<russian>Проведите в игре 10 минут</russian>
 		<chinese>游戏时间超过十分钟</chinese>
 		<korean>10분 플레이</korean>
 		<taiwanese>遊戲時間超過10分鐘</taiwanese>
@@ -2730,7 +2730,7 @@
 		<polish>Czas płynie</polish>
 		<portuguese>O tempo voa</portuguese>
 		<italian>Il tempo vola</italian>
-		<russian>Время проходит</russian>
+		<russian>Пролетело время</russian>
 		<chinese>时光飞逝</chinese>
 		<korean>시간을 잊어버린</korean>
 		<taiwanese>時光飛逝</taiwanese>
@@ -2746,7 +2746,7 @@
 		<polish>Graj przez 30 minut</polish>
 		<portuguese>Jogar por  30 min.</portuguese>
 		<italian>Gioca per 30 minuti</italian>
-		<russian>Проиграйте 30 минут</russian>
+		<russian>Проведите в игре 30 минут</russian>
 		<chinese>游戏时间超过三十分钟</chinese>
 		<korean>30분 플레이</korean>
 		<taiwanese>遊戲時間超過30分鐘</taiwanese>
@@ -2778,7 +2778,7 @@
 		<polish>Graj przez 1 godzinę</polish>
 		<portuguese>Jogar durante 1 hora</portuguese>
 		<italian>Gioca per 1 ora</italian>
-		<russian>Проиграйте 1 час</russian>
+		<russian>Проведите в игре 1 час</russian>
 		<chinese>玩游戏时间超过一小时</chinese>
 		<korean>1시간 플레이</korean>
 		<taiwanese>遊戲時間超過一個小時</taiwanese>
@@ -2794,7 +2794,7 @@
 		<polish>Lepszy od nas</polish>
 		<portuguese>Melhor do que nós</portuguese>
 		<italian>Ci hai superati</italian>
-		<russian>Лучше, чем мы</russian>
+		<russian>Лучше нас</russian>
 		<chinese>超越极限</chinese>
 		<korean>능력자</korean>
 		<taiwanese>青出於藍</taiwanese>
@@ -2810,7 +2810,7 @@
 		<polish>Popraw naszą perfekcyjną liczbę ruchów</polish>
 		<portuguese>Bater o nosso número de jogadas perfeito</portuguese>
 		<italian>Supera il nostro minimo di mosse</italian>
-		<russian>Побейте идеальное количество движений</russian>
+		<russian>Побейте идеальное количество ходов</russian>
 		<chinese>在游戏规定的完美次数限制之内就完成关卡</chinese>
 		<korean>퍼펙트 이동 수보다 적게 이동</korean>
 		<taiwanese>用比預設最佳步數更低的成績過關</taiwanese>
@@ -2826,7 +2826,7 @@
 		<polish>Nagroda</polish>
 		<portuguese>Prémio</portuguese>
 		<italian>Bottino</italian>
-		<russian>Щедрый подарок</russian>
+		<russian>Вознаграждение</russian>
 		<chinese>大收藏家</chinese>
 		<korean>포상금</korean>
 		<taiwanese>賞金</taiwanese>
@@ -2842,7 +2842,7 @@
 		<polish>Zbierz %d pereł</polish>
 		<portuguese>Recolher %d pérolas</portuguese>
 		<italian>Raccogli %d perle</italian>
-		<russian>Соберите %d жемчужин(ы)</russian>
+		<russian>Соберите %d жемчужин</russian>
 		<chinese>收集 %d 颗珍珠</chinese>
 		<korean>%d 진주 획득</korean>
 		<taiwanese>收集%d個珍珠</taiwanese>
@@ -2858,7 +2858,7 @@
 		<polish>Znalezione nie kradzione</polish>
 		<portuguese>Achado não é roubado</portuguese>
 		<italian>Accumuliamo!</italian>
-		<russian>Теперь моё</russian>
+		<russian>Что упало, то пропало.</russian>
 		<chinese>超级收藏家</chinese>
 		<korean>찾는 사람이 임자</korean>
 		<taiwanese>找到就是你的</taiwanese>
@@ -2874,7 +2874,7 @@
 		<polish>Zbierz %d pereł</polish>
 		<portuguese>Recolher %d pérolas</portuguese>
 		<italian>Raccogli %d perle</italian>
-		<russian>Соберите %d жемчужин(ы)</russian>
+		<russian>Соберите %d жемчужин</russian>
 		<chinese>收集 %d 颗珍珠</chinese>
 		<korean>%d 진주 획득</korean>
 		<taiwanese>收集%d個珍珠</taiwanese>
@@ -2890,7 +2890,7 @@
 		<polish>Stulecie</polish>
 		<portuguese>Século</portuguese>
 		<italian>Miniera</italian>
-		<russian>Век</russian>
+		<russian>Сотня</russian>
 		<chinese>终极收藏家</chinese>
 		<korean>대가</korean>
 		<taiwanese>百年傳奇</taiwanese>
@@ -2906,7 +2906,7 @@
 		<polish>Zbierz %d pereł</polish>
 		<portuguese>Recolher %d pérolas</portuguese>
 		<italian>Raccogli %d perle</italian>
-		<russian>Соберите %d жемчужин(ы)</russian>
+		<russian>Соберите %d жемчужин</russian>
 		<chinese>收集 %d 颗珍珠</chinese>
 		<korean>%d 진주 획득</korean>
 		<taiwanese>收集%d個珍珠</taiwanese>
@@ -2938,7 +2938,7 @@
 		<polish>Zbierz %d pereł</polish>
 		<portuguese>Recolher %d pérolas</portuguese>
 		<italian>Raccogli %d perle</italian>
-		<russian>Соберите %d жемчужин(ы)</russian>
+		<russian>Соберите %d жемчужин</russian>
 		<chinese>收集 %d 颗珍珠</chinese>
 		<korean>%d 진주 획득</korean>
 		<taiwanese>收集%d個珍珠</taiwanese>
@@ -2954,7 +2954,7 @@
 		<polish>Quellowiec</polish>
 		<portuguese>Quellectible</portuguese>
 		<italian>Ricchezza</italian>
-		<russian>Коллекционер</russian>
+		<russian>Квеллекционер</russian>
 		<chinese>收集天王</chinese>
 		<korean>진주 마스터</korean>
 		<taiwanese>Quell收藏家</taiwanese>
@@ -2970,7 +2970,7 @@
 		<polish>Zbierz %d pereł</polish>
 		<portuguese>Recolher %d pérolas</portuguese>
 		<italian>Raccogli %d perle</italian>
-		<russian>Соберите %d жемчужин(ы)</russian>
+		<russian>Соберите %d жемчужин</russian>
 		<chinese>收集 %d 颗珍珠</chinese>
 		<korean>%d 진주 획득</korean>
 		<taiwanese>收集%d個珍珠</taiwanese>
@@ -3034,7 +3034,7 @@
 		<polish>Przejdź 1962 sekcji</polish>
 		<portuguese>Concluir a plataforma 1962</portuguese>
 		<italian>Completa il ripiano 1962</italian>
-		<russian>Завершите 1962-ю полку</russian>
+		<russian>Завершите полку 1962</russian>
 		<chinese>完成1962关卡层</chinese>
 		<korean>1962 선반 완료</korean>
 		<taiwanese>完成1962年度</taiwanese>
@@ -3066,7 +3066,7 @@
 		<polish>Przejdź 1964 sekcji</polish>
 		<portuguese>Concluir a plataforma 1964</portuguese>
 		<italian>Completa il ripiano 1964</italian>
-		<russian>Завершите 1964-ю полку</russian>
+		<russian>Завершите полку 1964</russian>
 		<chinese>完成1964关卡层</chinese>
 		<korean>1964 선반 완료</korean>
 		<taiwanese>完成1964年度</taiwanese>
@@ -3098,7 +3098,7 @@
 		<polish>Przejdź 1967 sekcji</polish>
 		<portuguese>Concluir a plataforma 1967</portuguese>
 		<italian>Completa il ripiano 1967</italian>
-		<russian>Завершите 1967-ю полку</russian>
+		<russian>Завершите полку 1967</russian>
 		<chinese>完成1967关卡层</chinese>
 		<korean>1967 선반 완료</korean>
 		<taiwanese>完成1967年度</taiwanese>
@@ -3114,7 +3114,7 @@
 		<polish>Proste żeglowanie</polish>
 		<portuguese>Viagem sem problemas</portuguese>
 		<italian>Vento in poppa</italian>
-		<russian>Планируй плавание</russian>
+		<russian>Как по маслу</russian>
 		<chinese>一帆风顺</chinese>
 		<korean>순항중</korean>
 		<taiwanese>一帆風順</taiwanese>
@@ -3130,7 +3130,7 @@
 		<polish>Przejdź 1970 sekcji</polish>
 		<portuguese>Concluir a plataforma 1970</portuguese>
 		<italian>Completa il ripiano 1970</italian>
-		<russian>Завершите 1970-ю полку</russian>
+		<russian>Завершите полку 1970</russian>
 		<chinese>完成1970关卡层</chinese>
 		<korean>1970 선반 완료</korean>
 		<taiwanese>完成1970年度</taiwanese>
@@ -3162,7 +3162,7 @@
 		<polish>Przejdź 1972 sekcji</polish>
 		<portuguese>Concluir a plataforma 1972</portuguese>
 		<italian>Completa il ripiano 1972</italian>
-		<russian>Завершите 1972-ю полку</russian>
+		<russian>Завершите полку 1972</russian>
 		<chinese>完成1972关卡层</chinese>
 		<korean>1972 선반 완료</korean>
 		<taiwanese>完成1972年度</taiwanese>
@@ -3178,7 +3178,7 @@
 		<polish>Wyjątkowy</polish>
 		<portuguese>Excecional</portuguese>
 		<italian>Eccezionale</italian>
-		<russian>Исключительный</russian>
+		<russian>Незаурядный</russian>
 		<chinese>天下无双</chinese>
 		<korean>능력이 있는</korean>
 		<taiwanese>特別優秀</taiwanese>
@@ -3194,7 +3194,7 @@
 		<polish>Przejdź 1974 sekcji</polish>
 		<portuguese>Concluir a plataforma 1974</portuguese>
 		<italian>Completa il ripiano 1974</italian>
-		<russian>Завершите 1974-ю полку</russian>
+		<russian>Завершите полку 1974</russian>
 		<chinese>完成1974关卡层</chinese>
 		<korean>1974 선반 완료</korean>
 		<taiwanese>完成1974年度</taiwanese>
@@ -3210,7 +3210,7 @@
 		<polish>Odkrywca</polish>
 		<portuguese>Excelente</portuguese>
 		<italian>Centro</italian>
-		<russian>Попадающий в цель</russian>
+		<russian>В яблочко</russian>
 		<chinese>技术纯熟</chinese>
 		<korean>꼼꼼한 사람</korean>
 		<taiwanese>準確無誤</taiwanese>
@@ -3226,7 +3226,7 @@
 		<polish>Przejdź %d poziomy perfekcyjnie</polish>
 		<portuguese>Concluídos %d níveis de forma perfeita</portuguese>
 		<italian>Completa %d livelli perfetti</italian>
-		<russian>Завершите %d уровней идеально</russian>
+		<russian>Завершите %d уровня идеально</russian>
 		<chinese>完美完成 %d 关</chinese>
 		<korean>%d 퍼펙트 레벨 완료</korean>
 		<taiwanese>完美通過%d個任務</taiwanese>
@@ -3242,7 +3242,7 @@
 		<polish>Dokładnie</polish>
 		<portuguese>Exatamente</portuguese>
 		<italian>Esattamente</italian>
-		<russian>Точный</russian>
+		<russian>Точно</russian>
 		<chinese>驾轻就熟</chinese>
 		<korean>정확하시네요</korean>
 		<taiwanese>恰到好處</taiwanese>
@@ -3354,7 +3354,7 @@
 		<polish>Przejdź etap perfekcyjnymi ruchami</polish>
 		<portuguese>Concluir um cenário em jogadas perfeitas</portuguese>
 		<italian>Completa uno schema con mosse perfette</italian>
-		<russian>Завершите стадию идеально</russian>
+		<russian>Завершите этап идеально</russian>
 		<chinese>以完美的移动步数完成一大关</chinese>
 		<korean>퍼펙트로 하나의 스테이지 완료</korean>
 		<taiwanese>完美通過一個關卡</taiwanese>
@@ -3402,7 +3402,7 @@
 		<polish>Perfekcyjne odzwierciedlenie</polish>
 		<portuguese>Perfeitamente refletivo</portuguese>
 		<italian>Riflesso perfetto</italian>
-		<russian>Идеально мыслящий</russian>
+		<russian>Отлично мыслящий</russian>
 		<chinese>极致完美</chinese>
 		<korean>Reflective 종결자</korean>
 		<taiwanese>完美無缺!</taiwanese>
@@ -3466,7 +3466,7 @@
 		<polish>Praca zepołowa</polish>
 		<portuguese>Trabalho de equipa</portuguese>
 		<italian>Squadra</italian>
-		<russian>Работа в команде</russian>
+		<russian>Командная работа</russian>
 		<chinese>合作大师</chinese>
 		<korean>팀워크</korean>
 		<taiwanese>團隊合作</taiwanese>
@@ -3546,7 +3546,7 @@
 		<polish>Nakłuty %d razy</polish>
 		<portuguese>Encravado %d vezes</portuguese>
 		<italian>Punto %d volte</italian>
-		<russian>Проткнитесь %d раз(а)</russian>
+		<russian>Уколитесь %d раз</russian>
 		<chinese>被刺破 %d 次</chinese>
 		<korean>%d 번 가시에 충돌</korean>
 		<taiwanese>被刺破%d次</taiwanese>
@@ -3562,7 +3562,7 @@
 		<polish>Bez żartów z jeżami</polish>
 		<portuguese>Sem piadas de ouriço</portuguese>
 		<italian>Scherzi da ricci</italian>
-		<russian>Без шуток про ежей</russian>
+		<russian>Не шутите про ежей</russian>
 		<chinese>迎难而上</chinese>
 		<korean>고슴도치의 장난</korean>
 		<taiwanese>刺蝟也瘋狂</taiwanese>
@@ -3578,7 +3578,7 @@
 		<polish>Nakłuty %d razy</polish>
 		<portuguese>Encravado %d vezes</portuguese>
 		<italian>Punto %d volte</italian>
-		<russian>Проткнитесь %d раз(а)</russian>
+		<russian>Уколитесь %d раз</russian>
 		<chinese>被刺破 %d 次</chinese>
 		<korean>%d 번 가시에 충돌</korean>
 		<taiwanese>被刺破%d次</taiwanese>
@@ -3610,7 +3610,7 @@
 		<polish>Zablokuj pętlę %d razy</polish>
 		<portuguese>Ficar preso num ciclo de %d vezes</portuguese>
 		<italian>Bloccati %d volte</italian>
-		<russian>Застряньте в цикле %d раз(а)</russian>
+		<russian>Зациклитесь %d раз</russian>
 		<chinese>被困住 %d 次</chinese>
 		<korean>%d 번 링에 갇히기</korean>
 		<taiwanese>被無限迴圈困住%d次</taiwanese>
@@ -3642,7 +3642,7 @@
 		<polish>Powtórz poziom %d razy</polish>
 		<portuguese>Tentar um nível %d vezes</portuguese>
 		<italian>Riprova un livello %d volte</italian>
-		<russian>Переиграйте уровень %d раз(а)</russian>
+		<russian>Переиграйте уровень %d раз</russian>
 		<chinese>在一关重玩 %d 次</chinese>
 		<korean>%d 번 한 개의 레벨 재시도</korean>
 		<taiwanese>重試同一任務%d次</taiwanese>
@@ -3658,7 +3658,7 @@
 		<polish>Magik</polish>
 		<portuguese>Mágico</portuguese>
 		<italian>Magia</italian>
-		<russian>Фокусник</russian>
+		<russian>Волшебник</russian>
 		<chinese>魔术师</chinese>
 		<korean>격파의 대가</korean>
 		<taiwanese>魔術師</taiwanese>
@@ -3674,7 +3674,7 @@
 		<polish>Ustaw %d zestawów bloków razem</polish>
 		<portuguese>Empurrar %d conjuntos de blocos juntos</portuguese>
 		<italian>Unisci %d set di blocchi</italian>
-		<russian>Соберите %d блоков вместе</russian>
+		<russian>Столкните %d набора блоков вместе</russian>
 		<chinese>把 %d 组方块堆到一起</chinese>
 		<korean>%d 개의 블록세트를 부수기</korean>
 		<taiwanese>湊成%d對方塊組合</taiwanese>
@@ -3690,7 +3690,7 @@
 		<polish>Zuchwały</polish>
 		<portuguese>Audacioso</portuguese>
 		<italian>Senza paura</italian>
-		<russian>Дерзновенный</russian>
+		<russian>Наглый</russian>
 		<chinese>鲁莽</chinese>
 		<korean>용감무쌍</korean>
 		<taiwanese>膽大妄為</taiwanese>
@@ -3706,7 +3706,7 @@
 		<polish>Pchnij %d kolców</polish>
 		<portuguese>Empurrar %d estacas</portuguese>
 		<italian>Spingi %d punte</italian>
-		<russian>Натолкнитесь на %d шипов</russian>
+		<russian>Толкните %d шипов</russian>
 		<chinese>向尖刺推进%d次</chinese>
 		<korean>%d 가시 밀기</korean>
 		<taiwanese>推動%d個方塊</taiwanese>
@@ -3722,7 +3722,7 @@
 		<polish>Nazbyt przyjazny</polish>
 		<portuguese>Demasiado Amigável</portuguese>
 		<italian>Appiccicoso</italian>
-		<russian>Очень дружелюбный</russian>
+		<russian>Слишком дружелюбный</russian>
 		<chinese>融为一体</chinese>
 		<korean>넘치는 배려</korean>
 		<taiwanese>過度友善</taiwanese>
@@ -3738,7 +3738,7 @@
 		<polish>Połącz krople %d razy</polish>
 		<portuguese>Unir gotas %d vezes</portuguese>
 		<italian>Unisci gocce %d volte</italian>
-		<russian>Соедините капли %d раз(а)</russian>
+		<russian>Соедините капли %d раза</russian>
 		<chinese>融合水滴%d 次</chinese>
 		<korean>%d 번 물방울 합치기</korean>
 		<taiwanese>融合水滴%d次</taiwanese>
@@ -3754,7 +3754,7 @@
 		<polish>Rewanż</polish>
 		<portuguese>Vingança</portuguese>
 		<italian>Vendetta</italian>
-		<russian>Мститель</russian>
+		<russian>Месть</russian>
 		<chinese>复仇</chinese>
 		<korean>복수</korean>
 		<taiwanese>復仇</taiwanese>
@@ -3770,7 +3770,7 @@
 		<polish>Nakłuj zatrute krople</polish>
 		<portuguese>Furar uma gota com veneno</portuguese>
 		<italian>Pungi una goccia avvelenata</italian>
-		<russian>Проткните отравленную каплю</russian>
+		<russian>Уколите отравленную каплю</russian>
 		<chinese>消灭一滴危险水滴</chinese>
 		<korean>중독된 물방울 가시에 터뜨리기</korean>
 		<taiwanese>刺破有毒的水滴</taiwanese>
@@ -3786,7 +3786,7 @@
 		<polish>Waga ciężka</polish>
 		<portuguese>Peso-pesado</portuguese>
 		<italian>Peso massimo</italian>
-		<russian>Тяжелый</russian>
+		<russian>Тяжеловес</russian>
 		<chinese>重中之重</chinese>
 		<korean>뚱뚱보</korean>
 		<taiwanese>重量級</taiwanese>
@@ -3802,7 +3802,7 @@
 		<polish>Rozbij %d bloków</polish>
 		<portuguese>Partir %d blocos</portuguese>
 		<italian>Rompi %d blocchi</italian>
-		<russian>Разломите %d блоков</russian>
+		<russian>Разбейте %d блоков</russian>
 		<chinese>消除 %d 个方块</chinese>
 		<korean>%d 블록 부수기</korean>
 		<taiwanese>打破%d個方塊</taiwanese>
@@ -3818,7 +3818,7 @@
 		<polish>Nigdy się nie cofaj</polish>
 		<portuguese>Nunca mais é convidado</portuguese>
 		<italian>Terrore delle feste</italian>
-		<russian>Неприглашённый снова</russian>
+		<russian>Неприглашённый</russian>
 		<chinese>无法重来</chinese>
 		<korean>초대받지 못한 자</korean>
 		<taiwanese>不速之客</taiwanese>
@@ -3898,7 +3898,7 @@
 		<polish>Zatruj 2 krople, aby kontynuować</polish>
 		<portuguese>Envenenar 2 gotas para continuar</portuguese>
 		<italian>Avvelena 2 gocce per continuare</italian>
-		<russian>Отправите 2 капли, чтобы продолжить</russian>
+		<russian>Отравите 2 капли, чтобы продолжить</russian>
 		<chinese>让两颗水滴中毒为代价过关</chinese>
 		<korean>2개의 물방울을 중독시켜 게임 이어가기</korean>
 		<taiwanese>讓兩顆水滴中毒</taiwanese>
@@ -3914,7 +3914,7 @@
 		<polish>Pierścienie w deszczu</polish>
 		<portuguese>Tocar à Chuva</portuguese>
 		<italian>Cerchi che passione</italian>
-		<russian>Вызываем дождь</russian>
+		<russian>Звонящий под дождём</russian>
 		<chinese>传送通道</chinese>
 		<korean>빗속의 링</korean>
 		<taiwanese>傳送高手</taiwanese>
@@ -3930,7 +3930,7 @@
 		<polish>Użyj pierścienia %d razy</polish>
 		<portuguese>Utilizar o anel %d vezes</portuguese>
 		<italian>Usa il cerchio %d volte</italian>
-		<russian>Используйте кольца %d раз(а)</russian>
+		<russian>Используйте кольца %d раз</russian>
 		<chinese>使用传送环 %d 次</chinese>
 		<korean>%d 번 링 이용하기</korean>
 		<taiwanese>使用傳送環%d次</taiwanese>
@@ -3994,7 +3994,7 @@
 		<polish>Owiń krawędź %d razy</polish>
 		<portuguese>Embrulhar à volta da extremidade %d vezes</portuguese>
 		<italian>Esci dai bordi %d volte</italian>
-		<russian>Проскочи край %d раз(а)</russian>
+		<russian>Проскочи край %d раз</russian>
 		<chinese>穿越边界 %d 次</chinese>
 		<korean>경계선을 %d 번 닫기</korean>
 		<taiwanese>穿越邊境%d次</taiwanese>
@@ -4010,7 +4010,7 @@
 		<polish>Bramkarz</polish>
 		<portuguese>Porteiro</portuguese>
 		<italian>Portiere</italian>
-		<russian>Сторож</russian>
+		<russian>Страж</russian>
 		<chinese>守门人</chinese>
 		<korean>문지기</korean>
 		<taiwanese>守門員</taiwanese>
@@ -4026,7 +4026,7 @@
 		<polish>Zamknij %d bram</polish>
 		<portuguese>Fechar %d portas</portuguese>
 		<italian>Chiudi %d porte</italian>
-		<russian>Закройте %d ворот</russian>
+		<russian>Закройте %d врат</russian>
 		<chinese>关 %d 次门</chinese>
 		<korean>%d 번 통로 닫기</korean>
 		<taiwanese>關閉%d道門</taiwanese>
@@ -4139,7 +4139,7 @@
 		<polish>To jest otwarta brama ^02, którą można przejść tylko jeden raz</polish>
 		<portuguese>Este ^02 é uma porta aberta, que apenas pode ser transposta uma vez</portuguese>
 		<italian>Questa ^02 è una porta aperta che puoi superare una sola volta</italian>
-		<russian>Эти ^02 ворота открыты, но через него можно пройти только 1 раз</russian>
+		<russian>Это ^02 открытые врата, но через них можно пройти только один раз</russian>
 		<chinese>这是 ^02 一个打开的大门, 只能通过一次</chinese>
 		<korean>^02는 한번 통과하면, 닫혀지게 되어 다시 통과할 수 없습니다</korean>
 		<taiwanese>這是^02一道開啟的門，只能通行一次</taiwanese>
@@ -4155,7 +4155,7 @@
 		<polish>Teraz brama jest zamknięta</polish>
 		<portuguese>Agora a porta está fechada</portuguese>
 		<italian>La porta adesso è chiusa</italian>
-		<russian>Теперь ворота закрыты</russian>
+		<russian>Теперь врата закрыты</russian>
 		<chinese>现在大门关上了</chinese>
 		<korean>통로가 닫혔습니다</korean>
 		<taiwanese>現在，門已經關上了</taiwanese>
@@ -4187,7 +4187,7 @@
 		<polish>Boki i tył kolca nie są niebezpieczne</polish>
 		<portuguese>As partes laterais e traseira das estacas são inofensivas</portuguese>
 		<italian>Il retro e i lati delle punte sono innocui</italian>
-		<russian>Сразу и сбоку шипы безвредны</russian>
+		<russian>Сзади и сбоку шипы безвредны</russian>
 		<chinese>钉子的背部和两侧是不会造成伤害的</chinese>
 		<korean>가시의 옆이나 뒤는 닿아도 괜찮습니다</korean>
 		<taiwanese>觸碰釘子的側邊和背面不會造成傷害</taiwanese>
@@ -4204,7 +4204,7 @@
 		<polish>Na drugą stronę można przejść wychodząc poza ekran</polish>
 		<portuguese>Lembre-se de que pode chegar ao outro lado saindo do ecrã</portuguese>
 		<italian>Ricorda che puoi raggiungere l'altro lato uscendo dallo schermo</italian>
-		<russian>Запомните, что вы можете попасть на другую строну, выйдя за пределы экрана</russian>
+		<russian>Помните, что вы можете попасть на другую строну, выйдя за пределы экрана</russian>
 		<chinese>记住你可以从屏幕边缘到达另一端</chinese>
 		<korean>경계선을 통과하여 반대편으로 갈 수 있다는 걸 기억하세요</korean>
 		<taiwanese>別忘了可以穿過螢幕達到另一端</taiwanese>
@@ -4268,7 +4268,7 @@
 		<polish>Ten ^06 można popchnąć.  Ustaw dwa razem, a znikną</polish>
 		<portuguese>Estes ^06 podem ser empurrados. Empurre-os ao mesmo tempo e desaparecerão</portuguese>
 		<italian>Questi ^06 possono essere spinti: accostane due e spariranno</italian>
-		<russian>^06 можно двигать. Столкните 2 вместе и они изчезнут</russian>
+		<russian>^06 можно толкать. Столкните два вместе и они изчезнут</russian>
 		<chinese>^06方块可以被推动，把两个推到一起它们就会消失</chinese>
 		<korean>상자는 ^06는 밀 수 있습니다. 서로 닿으면 사라집니다</korean>
 		<taiwanese>這些^06方塊能夠被推動，當兩個碰在一起時將會消失</taiwanese>
@@ -4284,7 +4284,7 @@
 		<polish>^06 również działa z bramami i pierścieniami</polish>
 		<portuguese>^06 também interagem com portas e anéis</portuguese>
 		<italian>^06 interagiscono con porte e cerchi</italian>
-		<russian>^06 также может взаимодействовать с воротами и кольцами</russian>
+		<russian>^06 также может взаимодействовать с вратами и кольцами</russian>
 		<chinese>^06方块也触发门与传送环的功能</chinese>
 		<korean>^06는 통로와 링의 효과를 받습니다</korean>
 		<taiwanese>^06也會讓門和傳送環發生反應</taiwanese>
@@ -4332,7 +4332,7 @@
 		<polish>Jeśli będziesz naprawdę zablokowany, naciśnij ^08 i znajdź wskazówkę</polish>
 		<portuguese>Se alguma vez estiver mesmo encravado, prima ^08 e procure uma sugestão</portuguese>
 		<italian>Se non sai cosa fare, premi ^08 e guarda un aiuto</italian>
-		<russian>Если вы действительно застряли, нажмите ^08</russian>
+		<russian>Если вы застряли, нажмите ^08</russian>
 		<chinese>如果你被困住了，就按 ^08 查看提示</chinese>
 		<korean>해결하는데 어려움이 있다면 ^08 버튼을 눌러 힌트를 확인해보세요</korean>
 		<taiwanese>如果您真的卡關了，試試^08看看提示吧</taiwanese>
@@ -4396,7 +4396,7 @@
 		<polish>Drewniane kolce ^20 mogą być popychane</polish>
 		<portuguese>As estacas de madeira ^20 podem ser empurradas</portuguese>
 		<italian>Puoi spingere le punte ^20 di legno</italian>
-		<russian>Деревянные шипы ^20 можно двигать</russian>
+		<russian>Деревянные шипы ^20 можно толкать</russian>
 		<chinese>钉子 ^20 可以被推动</chinese>
 		<korean>나무 가시는 ^20 밀 수 있습니다</korean>
 		<taiwanese>木釘^20是可以被推動的</taiwanese>
@@ -4412,7 +4412,7 @@
 		<polish>Czasami dobrze mieć towarzystwo</polish>
 		<portuguese>Por vezes é bom ter uma companhia</portuguese>
 		<italian>A volte fa comodo avere compagnia</italian>
-		<russian>Иногда здорово иметь компанию</russian>
+		<russian>Иногда здорово иметь помошника</russian>
 		<chinese>有时候有个同伴挺好的</chinese>
 		<korean>가끔 친구가 있는 것도 좋습니다</korean>
 		<taiwanese>有時候，有個同伴是令人開心的</taiwanese>
@@ -4444,7 +4444,7 @@
 		<polish>Pamiętaj, że tył i boki kolców nie są niebezpieczne ^03</polish>
 		<portuguese>Lembre-se que as partes laterais e traseira das estacas são inofensivas ^03</portuguese>
 		<italian>Ricorda che il retro e i lati delle punte sono innocui ^03</italian>
-		<russian>Запомните, что сзади по бокам шипы безвредны ^03</russian>
+		<russian>Помните, что сзади по бокам шипы безвредны ^03</russian>
 		<chinese>记住钉子的背部和旁边是无害的 ^03</chinese>
 		<korean>기억하세요 가시의 뒤와 옆은 안전합니다 ^03</korean>
 		<taiwanese>別忘了釘子的側邊和背面不會造成傷害 ^03</taiwanese>
@@ -4461,7 +4461,7 @@
 		<polish>Jeśli jedna kropla dotknie kolca, inne mogą ciągle zakończyć poziom</polish>
 		<portuguese>Se uma gota for picada, a outra pode ainda concluir o nível</portuguese>
 		<italian>Se una goccia viene infilzata, l'altra può ancora finire il livello</italian>
-		<russian>Если 1 капля протыкается, другие смогут завершить уровень</russian>
+		<russian>Если одна капля протыкается, другие смогут завершить уровень</russian>
 		<chinese>如果一颗水滴破碎了, 其他的水滴仍然可以完成关卡</chinese>
 		<korean>만약 빗방울이 가시에 찔리더라도, 다른 빗방울로 레벨을 완료할 수 있습니다</korean>
 		<taiwanese>即使一個水滴沒了，另一個也能通過任務</taiwanese>
@@ -4493,7 +4493,7 @@
 		<polish>Jedna kropla deszczu musi wchłonąć ^21, aby inne mogły kontynuować</polish>
 		<portuguese>Uma gota deve absorver esta ^21 para que a outra continue</portuguese>
 		<italian>Una goccia assorbe questa ^21 per far continuare le altre</italian>
-		<russian>1 ^00 нужно отправить ^21, чтобы другие смогли продолжить</russian>
+		<russian>Одну ^00 нужно отравить ^21, чтобы другие смогли продолжить</russian>
 		<chinese>一颗水滴^00必须和红水滴 ^21碰撞牺牲才能继续游戏</chinese>
 		<korean>빗방울은 반드시 이 ^21를 흡수하여 게임을 계속 이어가야합니다</korean>
 		<taiwanese>必須先消滅^21才能讓同伴前進</taiwanese>
@@ -4605,7 +4605,7 @@
 		<polish>Przechyl kroplę deszczu ^00 w kierunku pokazanym strzałką</polish>
 		<portuguese>Bata na gota ^00 na direção da seta</portuguese>
 		<italian>Strofina la goccia ^00 nella direzione della freccia</italian>
-		<russian>Двигайте ^00 по направлению стрелки</russian>
+		<russian>Проведите ^00 по направлению стрелки</russian>
 		<chinese>按照箭头的方向移动水滴 ^00</chinese>
 		<korean>빗방울을 ^00 화살표 방향으로 밀어서 이동시킵니다</korean>
 		<taiwanese>朝著箭頭的方向滑過去來移動水滴 ^00</taiwanese>
@@ -4637,7 +4637,7 @@
 		<polish>Złoto głupców</polish>
 		<portuguese>Ouro dos Tolos</portuguese>
 		<italian>Pirite</italian>
-		<russian>Золото дурака</russian>
+		<russian>Золото дураков</russian>
 		<chinese>愚人的宝藏</chinese>
 		<korean>개살구</korean>
 		<taiwanese>愚人的黃金</taiwanese>
@@ -4669,7 +4669,7 @@
 		<polish>Skarb</polish>
 		<portuguese>Tesouro</portuguese>
 		<italian>Tesoro</italian>
-		<russian>Сокровище</russian>
+		<russian>Сокровищница</russian>
 		<chinese>宝库</chinese>
 		<korean>획득</korean>
 		<taiwanese>寶庫</taiwanese>
@@ -4685,7 +4685,7 @@
 		<polish>Łatwo idzie</polish>
 		<portuguese>Confortável</portuguese>
 		<italian>Spensierato</italian>
-		<russian>Скопокойный</russian>
+		<russian>Спокойный</russian>
 		<chinese>轻松随意</chinese>
 		<korean>아직은 쉬워요</korean>
 		<taiwanese>隨遇而安</taiwanese>
@@ -4749,7 +4749,7 @@
 		<polish>Formacja</polish>
 		<portuguese>Formação</portuguese>
 		<italian>Formazione</italian>
-		<russian>Создание</russian>
+		<russian>Образование</russian>
 		<chinese>队形</chinese>
 		<korean>배치</korean>
 		<taiwanese>成群結隊</taiwanese>
@@ -4861,7 +4861,7 @@
 		<polish>Dźwignia</polish>
 		<portuguese>Alavancagem</portuguese>
 		<italian>Leve</italian>
-		<russian>Рычаги</russian>
+		<russian>Влияние</russian>
 		<chinese>杠杆作用</chinese>
 		<korean>지렛대</korean>
 		<taiwanese>槓桿原理</taiwanese>
@@ -4877,7 +4877,7 @@
 		<polish>Zmiana podejścia</polish>
 		<portuguese>Arrependimento</portuguese>
 		<italian>Cambio di cuore</italian>
-		<russian>Изменение сердца</russian>
+		<russian>Перемена чувств</russian>
 		<chinese>变心</chinese>
 		<korean>변심</korean>
 		<taiwanese>變心</taiwanese>
@@ -4893,7 +4893,7 @@
 		<polish>Główna lokalizacja</polish>
 		<portuguese>Localização privilegiada</portuguese>
 		<italian>Posizione Privilegiata</italian>
-		<russian>Лучшее расположение</russian>
+		<russian>Превосходное расположение</russian>
 		<chinese>黄金地带</chinese>
 		<korean>최고의 위치</korean>
 		<taiwanese>黃金地帶</taiwanese>
@@ -4925,7 +4925,7 @@
 		<polish>Obrona</polish>
 		<portuguese>À Defensiva</portuguese>
 		<italian>Sulla difensiva</italian>
-		<russian>В обороне</russian>
+		<russian>Настороже</russian>
 		<chinese>防御</chinese>
 		<korean>방어 태세</korean>
 		<taiwanese>認真防守</taiwanese>
@@ -4973,7 +4973,7 @@
 		<polish>Fabrykacja</polish>
 		<portuguese>Fabrico</portuguese>
 		<italian>Menzogna</italian>
-		<russian>Обман</russian>
+		<russian>Фабрикация</russian>
 		<chinese>制造</chinese>
 		<korean>조립</korean>
 		<taiwanese>虛構的謊言</taiwanese>
@@ -4989,7 +4989,7 @@
 		<polish>Co dwie głowy, to nie jedna</polish>
 		<portuguese>Companhia de Dois</portuguese>
 		<italian>In due</italian>
-		<russian>Компания двоих</russian>
+		<russian>Двое – компания, трое – толпа</russian>
 		<chinese>两人作伴</chinese>
 		<korean>둘이면 딱이에요</korean>
 		<taiwanese>兩人同行</taiwanese>
@@ -5021,7 +5021,7 @@
 		<polish>Przy popchnięciu</polish>
 		<portuguese>Por empurrão</portuguese>
 		<italian>Una spinta</italian>
-		<russian>Толчок</russian>
+		<russian>В крайнем случае</russian>
 		<chinese>紧急时刻</chinese>
 		<korean>위기</korean>
 		<taiwanese>向前推</taiwanese>
@@ -5037,7 +5037,7 @@
 		<polish>Spadanie na elementy</polish>
 		<portuguese>Desmoronar</portuguese>
 		<italian>A pezzi</italian>
-		<russian>Развалиться на части</russian>
+		<russian>Упасть духом</russian>
 		<chinese>支离破碎</chinese>
 		<korean>풍전등화</korean>
 		<taiwanese>殘破不堪</taiwanese>
@@ -5085,7 +5085,7 @@
 		<polish>Impulsywny</polish>
 		<portuguese>Dedo no gatilho</portuguese>
 		<italian>Impulsività</italian>
-		<russian>Переключатель счастья</russian>
+		<russian>Неуравновешенный</russian>
 		<chinese>一触即发</chinese>
 		<korean>폭력</korean>
 		<taiwanese>好戰份子</taiwanese>
@@ -5117,7 +5117,7 @@
 		<polish>Poduszka powietrzna</polish>
 		<portuguese>Amortecer a pancada</portuguese>
 		<italian>Attutire il colpo</italian>
-		<russian>Смягчение удара</russian>
+		<russian>Смягчить удар</russian>
 		<chinese>缓冲</chinese>
 		<korean>충격완화</korean>
 		<taiwanese>減弱衝擊</taiwanese>
@@ -5149,7 +5149,7 @@
 		<polish>Do góry nogami pod spodem</polish>
 		<portuguese>Ao contrário inverso</portuguese>
 		<italian>Sottosopra</italian>
-		<russian>Вверх ногами</russian>
+		<russian>Вверх дном</russian>
 		<chinese>上下颠倒</chinese>
 		<korean>거꾸로 반대로</korean>
 		<taiwanese>頭上腳下</taiwanese>
@@ -5181,7 +5181,7 @@
 		<polish>Popchnięcia przechodzą w uderzenia</polish>
 		<portuguese>Momento Decisivo</portuguese>
 		<italian>Insistenza</italian>
-		<russian>Дело доходит до драки</russian>
+		<russian>На худой конец</russian>
 		<chinese>紧要关头</chinese>
 		<korean>막다른 길</korean>
 		<taiwanese>迫在眉睫</taiwanese>
@@ -5229,7 +5229,7 @@
 		<polish>Wieża z kości słoniowej</polish>
 		<portuguese>Torre de Marfim</portuguese>
 		<italian>Torre d'avorio</italian>
-		<russian>Башня из слоновых костей</russian>
+		<russian>Башня из слоновой кости</russian>
 		<chinese>象牙塔</chinese>
 		<korean>덩굴 타워</korean>
 		<taiwanese>象牙塔</taiwanese>
@@ -5437,7 +5437,7 @@
 		<polish>Doceń jego ciężar</polish>
 		<portuguese>Vale o seu Peso</portuguese>
 		<italian>Vale quanto pesa</italian>
-		<russian>Стоит своего веса</russian>
+		<russian>Стоит своего</russian>
 		<chinese>分量十足</chinese>
 		<korean>귀중품</korean>
 		<taiwanese>物有所值</taiwanese>
@@ -5485,7 +5485,7 @@
 		<polish>Spotkanie</polish>
 		<portuguese>Compromisso</portuguese>
 		<italian>Impegno</italian>
-		<russian>Бой</russian>
+		<russian>Помолвка</russian>
 		<chinese>约定</chinese>
 		<korean>약속</korean>
 		<taiwanese>訂婚</taiwanese>
@@ -5549,7 +5549,7 @@
 		<polish>Klatka</polish>
 		<portuguese>A Gaiola</portuguese>
 		<italian>La Gabbia</italian>
-		<russian>Решётка</russian>
+		<russian>Клетка</russian>
 		<chinese>笼子</chinese>
 		<korean>새장</korean>
 		<taiwanese>籠子</taiwanese>
@@ -5613,7 +5613,7 @@
 		<polish>Ostry wzrok</polish>
 		<portuguese>Olhar com Atenção</portuguese>
 		<italian>Furbizia</italian>
-		<russian>Смотри в оба</russian>
+		<russian>Поторопись</russian>
 		<chinese>特别留神</chinese>
 		<korean>주의</korean>
 		<taiwanese>目光犀利</taiwanese>
@@ -5661,7 +5661,7 @@
 		<polish>Czysty i prosty</polish>
 		<portuguese>Puro e Simples</portuguese>
 		<italian>Puro e semplice</italian>
-		<russian>Простой и ясный</russian>
+		<russian>Просто и ясно</russian>
 		<chinese>单纯而简单</chinese>
 		<korean>이보다 좋은 순 없어요</korean>
 		<taiwanese>簡單而純粹</taiwanese>
@@ -5677,7 +5677,7 @@
 		<polish>Więcej pośpiechu</polish>
 		<portuguese>Mais Depressa</portuguese>
 		<italian>Impazienza</italian>
-		<russian>Больше ускорения</russian>
+		<russian>Не спеши</russian>
 		<chinese>欲速则不达</chinese>
 		<korean>점점 조급해지네요</korean>
 		<taiwanese>欲速則不達</taiwanese>
@@ -5789,7 +5789,7 @@
 		<polish>Zła stopa</polish>
 		<portuguese>Pé Errado</portuguese>
 		<italian>Passo falso</italian>
-		<russian>Не та нога</russian>
+		<russian>Не с той нога</russian>
 		<chinese>措手不及</chinese>
 		<korean>기습 공격</korean>
 		<taiwanese>出師不利</taiwanese>
@@ -5853,7 +5853,7 @@
 		<polish>Do tyłu i do przodu</polish>
 		<portuguese>Para trás e para a frente</portuguese>
 		<italian>Avanti e indietro</italian>
-		<russian>Назад и вперёд</russian>
+		<russian>Вперёд-назад</russian>
 		<chinese>往返</chinese>
 		<korean>왔다갔다</korean>
 		<taiwanese>來來回回</taiwanese>
@@ -5869,7 +5869,7 @@
 		<polish>Możliwość wyboru</polish>
 		<portuguese>Demasiadas Escolhas</portuguese>
 		<italian>Aria viziata</italian>
-		<russian>Избалованный для выбора</russian>
+		<russian>Избалованный выбором</russian>
 		<chinese>眼花缭乱</chinese>
 		<korean>선택의 어려움</korean>
 		<taiwanese>難以取捨</taiwanese>
@@ -5885,7 +5885,7 @@
 		<polish>Uczucie tonięcia</polish>
 		<portuguese>Sentimento de Perda</portuguese>
 		<italian>Angoscia</italian>
-		<russian>Тонущее чувство</russian>
+		<russian>Плохое предчувствие</russian>
 		<chinese>心沉如水</chinese>
 		<korean>철렁</korean>
 		<taiwanese>不詳預感</taiwanese>
@@ -5901,7 +5901,7 @@
 		<polish>Dylemat</polish>
 		<portuguese>Dilema</portuguese>
 		<italian>Dilemma</italian>
-		<russian>Дилема</russian>
+		<russian>Дилемма</russian>
 		<chinese>进退两难</chinese>
 		<korean>딜레마</korean>
 		<taiwanese>困境</taiwanese>
@@ -5997,7 +5997,7 @@
 		<polish>Biegnij wokół</polish>
 		<portuguese>Andar às voltas</portuguese>
 		<italian>Passeggiata</italian>
-		<russian>Бег вокруг</russian>
+		<russian>Бег по кругу</russian>
 		<chinese>东奔西跑</chinese>
 		<korean>어울림</korean>
 		<taiwanese>四處奔波</taiwanese>
@@ -6013,7 +6013,7 @@
 		<polish>Iluzja wspaniałości</polish>
 		<portuguese>Ilusão impressionante</portuguese>
 		<italian>Grande illusione</italian>
-		<russian>Важная иллюзия</russian>
+		<russian>Грандиозная иллюзия</russian>
 		<chinese>强烈的幻觉</chinese>
 		<korean>위대한 환상</korean>
 		<taiwanese>偉大幻影</taiwanese>
@@ -6045,7 +6045,7 @@
 		<polish>Złoty klucz</polish>
 		<portuguese>Chave Dourada</portuguese>
 		<italian>Chiave d'oro</italian>
-		<russian>Золотой ключик</russian>
+		<russian>Золотой ключ</russian>
 		<chinese>金钥匙</chinese>
 		<korean>황금열쇠</korean>
 		<taiwanese>金色鑰匙</taiwanese>
@@ -6093,7 +6093,7 @@
 		<polish>Strych</polish>
 		<portuguese>Espaço do Sótão</portuguese>
 		<italian>Attico</italian>
-		<russian>Чердачное пространство</russian>
+		<russian>Мансарда</russian>
 		<chinese>顶楼空间</chinese>
 		<korean>위쪽 공간</korean>
 		<taiwanese>閣樓空間</taiwanese>
@@ -6125,7 +6125,7 @@
 		<polish>Szlaban na wejściu</polish>
 		<portuguese>Entrada Barrada</portuguese>
 		<italian>Ingresso sbarrato</italian>
-		<russian>Барьер для входа</russian>
+		<russian>Входной порог</russian>
 		<chinese>进入壁垒</chinese>
 		<korean>진입 장벽</korean>
 		<taiwanese>進入障礙</taiwanese>
@@ -6141,7 +6141,7 @@
 		<polish>Labirynt</polish>
 		<portuguese>Encruzilhada</portuguese>
 		<italian>Groviglio</italian>
-		<russian>Место кроликов</russian>
+		<russian>Кроличья нора</russian>
 		<chinese>密集街区</chinese>
 		<korean>사육장</korean>
 		<taiwanese>兔子窩</taiwanese>
@@ -6189,7 +6189,7 @@
 		<polish>Fałszywy</polish>
 		<portuguese>Estranho</portuguese>
 		<italian>Impreciso</italian>
-		<russian>Нескладный</russian>
+		<russian>Невпопад</russian>
 		<chinese>不合拍</chinese>
 		<korean>불일치</korean>
 		<taiwanese>走調</taiwanese>
@@ -6205,7 +6205,7 @@
 		<polish>W chińskim sklepie</polish>
 		<portuguese>Numa Loja Chinesa</portuguese>
 		<italian>Bazar cinese</italian>
-		<russian>В китайском магазине</russian>
+		<russian>В китайской лавке</russian>
 		<chinese>小心周围</chinese>
 		<korean>거친 게임</korean>
 		<taiwanese>毛手毛腳</taiwanese>
@@ -6221,7 +6221,7 @@
 		<polish>Rozbijanie i wchodzenie</polish>
 		<portuguese>Partir e Entrar</portuguese>
 		<italian>Sfondamento</italian>
-		<russian>Взлом и проникновение</russian>
+		<russian>Взлом с проникновением</russian>
 		<chinese>破门而入</chinese>
 		<korean>무단 침입</korean>
 		<taiwanese>破門而入</taiwanese>
@@ -6397,7 +6397,7 @@
 		<polish>Ekipa ratownicza</polish>
 		<portuguese>Festa de Procura</portuguese>
 		<italian>Ricerca</italian>
-		<russian>Поиск вечеринки</russian>
+		<russian>Поисковая группа</russian>
 		<chinese>搜索队</chinese>
 		<korean>수색대</korean>
 		<taiwanese>搜救隊</taiwanese>
@@ -6461,7 +6461,7 @@
 		<polish>9 do 5</polish>
 		<portuguese>9 às 5</portuguese>
 		<italian>Dal 9 al 5</italian>
-		<russian>с 9 до 5</russian>
+		<russian>От 9 до 5</russian>
 		<chinese>朝九晚五</chinese>
 		<korean>9에서 5</korean>
 		<taiwanese>朝九晚五</taiwanese>
@@ -6509,7 +6509,7 @@
 		<polish>Szczebel</polish>
 		<portuguese>Ponto de Partida</portuguese>
 		<italian>Guado</italian>
-		<russian>Перевалочный камень</russian>
+		<russian>Мостовой камень</russian>
 		<chinese>垫脚石</chinese>
 		<korean>돌 계단</korean>
 		<taiwanese>墊腳石</taiwanese>
@@ -6541,7 +6541,7 @@
 		<polish>Koniec więzienia</polish>
 		<portuguese>Período de Prisão</portuguese>
 		<italian>Detenzione</italian>
-		<russian>Тюремные правила</russian>
+		<russian>Тюремные срок</russian>
 		<chinese>刑期</chinese>
 		<korean>혈기</korean>
 		<taiwanese>有期徒刑</taiwanese>
@@ -6557,7 +6557,7 @@
 		<polish>Włamanie</polish>
 		<portuguese>Roubo e Fuga</portuguese>
 		<italian>Razzia</italian>
-		<russian>Нашествие овенов</russian>
+		<russian>Грабёж</russian>
 		<chinese>飞车撞击</chinese>
 		<korean>습격</korean>
 		<taiwanese>駕車劫匪</taiwanese>
@@ -6701,7 +6701,7 @@
 		<polish>Kątowy</polish>
 		<portuguese>Ângulos</portuguese>
 		<italian>All'angolo</italian>
-		<russian>Углы</russian>
+		<russian>Загнанный в угол</russian>
 		<chinese>走投无路</chinese>
 		<korean>진퇴양난</korean>
 		<taiwanese>狗急跳牆</taiwanese>
@@ -6743,7 +6743,7 @@
 		<polish>Dobry wynik</polish>
 		<portuguese>Bom Momento</portuguese>
 		<italian>Tempismo</italian>
-		<russian>Хорошее время</russian>
+		<russian>Хорошая координация</russian>
 		<chinese>好时机</chinese>
 		<korean>굿 타이밍</korean>
 		<taiwanese>好機會</taiwanese>
@@ -6823,7 +6823,7 @@
 		<polish>Powściągliwy</polish>
 		<portuguese>À distância</portuguese>
 		<italian>Distacco</italian>
-		<russian>В стороне</russian>
+		<russian>Отчуждённость</russian>
 		<chinese>远离</chinese>
 		<korean>무관심</korean>
 		<taiwanese>超然</taiwanese>
@@ -6871,7 +6871,7 @@
 		<polish>Odświętnie</polish>
 		<portuguese>Fato Domingueiro</portuguese>
 		<italian>Il vestito buono</italian>
-		<russian>Праздничный костюм</russian>
+		<russian>Выходной костюм</russian>
 		<chinese>盛装</chinese>
 		<korean>나들이</korean>
 		<taiwanese>精心打扮</taiwanese>
@@ -6919,7 +6919,7 @@
 		<polish>Możliwość wyboru II</polish>
 		<portuguese>Demasiadas Escolhas II</portuguese>
 		<italian>Aria viziata II</italian>
-		<russian>Избалованный на выбор II</russian>
+		<russian>Избалованный выбором II</russian>
 		<chinese>多重选择 II</chinese>
 		<korean>어려운 선택 II</korean>
 		<taiwanese>難以取捨II</taiwanese>
@@ -6935,7 +6935,7 @@
 		<polish>Ponownie zamrożony</polish>
 		<portuguese>Congelado Novamente</portuguese>
 		<italian>Gelo ricorrente</italian>
-		<russian>Снова замороженный</russian>
+		<russian>Снова заморожен</russian>
 		<chinese>再次冻结</chinese>
 		<korean>다시 한 번</korean>
 		<taiwanese>再次凍結</taiwanese>
@@ -7015,7 +7015,7 @@
 		<polish>Pstryknięcie</polish>
 		<portuguese>Snap Crackle</portuguese>
 		<italian>Barrette</italian>
-		<russian>Звук потрескивания</russian>
+		<russian>Треск</russian>
 		<chinese>出现裂纹</chinese>
 		<korean>우지끈 뚝딱</korean>
 		<taiwanese>酥酥脆脆</taiwanese>
@@ -7079,7 +7079,7 @@
 		<polish>Na szczycie</polish>
 		<portuguese>Exagerado</portuguese>
 		<italian>Eccesso</italian>
-		<russian>Выше верха</russian>
+		<russian>Чересчур</russian>
 		<chinese>夸大</chinese>
 		<korean>과장</korean>
 		<taiwanese>超越巔峰</taiwanese>
@@ -7111,7 +7111,7 @@
 		<polish>Wycieczka</polish>
 		<portuguese>Dia do Campo</portuguese>
 		<italian>Gran giorno</italian>
-		<russian>Знаменательный день</russian>
+		<russian>Смаковать</russian>
 		<chinese>户外运动</chinese>
 		<korean>야외 활동</korean>
 		<taiwanese>大顯身手</taiwanese>
@@ -7255,7 +7255,7 @@
 		<polish>Przymierze</polish>
 		<portuguese>União</portuguese>
 		<italian>Alleanza</italian>
-		<russian>Союз</russian>
+		<russian>Альянс</russian>
 		<chinese>联盟</chinese>
 		<korean>동맹</korean>
 		<taiwanese>聯盟</taiwanese>
@@ -7367,7 +7367,7 @@
 		<polish>Łatwodostępny</polish>
 		<portuguese>Alcance fácil</portuguese>
 		<italian>Vicino</italian>
-		<russian>Лёгкий доступ</russian>
+		<russian>Лёгко досягаемый</russian>
 		<chinese>轻松到达</chinese>
 		<korean>유리한 곳</korean>
 		<taiwanese>輕鬆到達</taiwanese>
@@ -7495,7 +7495,7 @@
 		<polish>Zakończ strategię</polish>
 		<portuguese>Estratégia de Fuga</portuguese>
 		<italian>Piano B</italian>
-		<russian>Стратегия отступления</russian>
+		<russian>План отступления</russian>
 		<chinese>丢卒保车</chinese>
 		<korean>철수 전략</korean>
 		<taiwanese>預留後路</taiwanese>
@@ -7591,7 +7591,7 @@
 		<polish>Boczne drogi</polish>
 		<portuguese>De lado</portuguese>
 		<italian>Ai lati</italian>
-		<russian>Вбок</russian>
+		<russian>В сторону</russian>
 		<chinese>侧路</chinese>
 		<korean>샛길</korean>
 		<taiwanese>側身</taiwanese>
@@ -7703,7 +7703,7 @@
 		<polish>Odkrycie</polish>
 		<portuguese>Descoberta</portuguese>
 		<italian>Scoperta</italian>
-		<russian>Обнаружение</russian>
+		<russian>Открытие</russian>
 		<chinese>发现</chinese>
 		<korean>발견</korean>
 		<taiwanese>發現</taiwanese>
@@ -7743,7 +7743,7 @@
 		<polish>To, co zwiemy różą</polish>
 		<portuguese>Uma Rosa por qualquer Outro nome</portuguese>
 		<italian>Rosa anche con un Altro Nome</italian>
-		<russian>Роза под любым другим именем</russian>
+		<russian>Хоть розой назови её, хоть нет</russian>
 		<chinese>玫瑰的名字不重要</chinese>
 		<korean>장미는 이름을 달리 붙여도</korean>
 		<taiwanese>玫瑰的名字不重要</taiwanese>
@@ -7791,7 +7791,7 @@
 		<polish>Czas odwiedzin</polish>
 		<portuguese>Tempo de Visitas</portuguese>
 		<italian>Orario di Visita</italian>
-		<russian>Время визита</russian>
+		<russian>Время посещений</russian>
 		<chinese>参观时间</chinese>
 		<korean>방문 시간</korean>
 		<taiwanese>參觀時間</taiwanese>
@@ -7807,7 +7807,7 @@
 		<polish>Oddzielne drogi</polish>
 		<portuguese>Caminhos Separados</portuguese>
 		<italian>Strade Diverse</italian>
-		<russian>Отдельные пути</russian>
+		<russian>Расставание</russian>
 		<chinese>各行各路</chinese>
 		<korean>별도의 길</korean>
 		<taiwanese>各行各路</taiwanese>
@@ -7823,7 +7823,7 @@
 		<polish>Ramy</polish>
 		<portuguese>Quadro</portuguese>
 		<italian>Struttura</italian>
-		<russian>Фреймворк</russian>
+		<russian>Каркас</russian>
 		<chinese>框架</chinese>
 		<korean>체계</korean>
 		<taiwanese>框架</taiwanese>
@@ -7839,7 +7839,7 @@
 		<polish>Korek</polish>
 		<portuguese>Prender</portuguese>
 		<italian>Stop</italian>
-		<russian>Заедание</russian>
+		<russian>Затор</russian>
 		<chinese>堵塞</chinese>
 		<korean>잼</korean>
 		<taiwanese>擠壓</taiwanese>
@@ -8072,7 +8072,7 @@
 		<polish>Ta wersja próbna składa się z 12 poziomów niedostępnych w pełnej wersji i o niskim poziomie trudności</polish>
 		<portuguese>Esta demo contém 12 níveis únicos ausentes do jogo completo, c/ classificação fácil</portuguese>
 		<italian>Questo trial contiene 12 livelli non presenti nel gioco intero a difficoltà facile.</italian>
-		<russian>Эта пробная версия содержит 12 простых уровней, отсутствующих в полной игре</russian>
+		<russian>Эта пробная версия содержит 12 эксклюзивных уровней, отсутствующих в полной игре</russian>
 		<chinese>这个体验版包含了除完整游戏以外的12个独特的关卡，按难易度排列</chinese>
 		<korean>이 트라이얼에는 풀버젼과 다른 12 개의 레벨이 있으며, 난이도는 쉽습니다</korean>
 		<taiwanese>試玩版內包含了正式版裡所沒有的十二個特殊任務</taiwanese>
@@ -8104,7 +8104,7 @@
 		<polish>Zbierz ^01 pereł na ponad 80 poziomach</polish>
 		<portuguese>Recolha todas ^01 pérolas ao longo de mais de 80 níveis</portuguese>
 		<italian>Raccogli tutte le ^01 perle in più di 80 livelli</italian>
-		<russian>Соберите все ^01 жемчужин на более, чем 80 уровнях</russian>
+		<russian>Соберите все ^01 жемчужины на более, чем 80 уровнях</russian>
 		<chinese>在超过80个关卡中，收集所有珍珠珍珠^01</chinese>
 		<korean>모든 ^01 진주를 모으면서 80여개의 레벨을 완료하세요</korean>
 		<taiwanese>在超過八十個任務中，收集所有的珍珠^01吧!</taiwanese>
@@ -8136,7 +8136,7 @@
 		<polish>Jeśli poziom jest trudny, ^09 monet można wykorzystać dla uzyskania wskazówki na temat rozwiązania</polish>
 		<portuguese>Se um nível for traiçoeiro, ^09 moedas podem ser utilizadas para descobrir a solução</portuguese>
 		<italian>Se un livello è difficile, puoi comprare un aiuto per ^09 monete</italian>
-		<russian>Если уровень сложный, то можно использовать ^09, чтобы купить решение</russian>
+		<russian>Если уровень сложный, то монеты можно использовать ^09, чтобы купить решение</russian>
 		<chinese>如果某一关无法通过，可以用金币^09 获取提示</chinese>
 		<korean>게임 레벨이 어려울 때는, ^09 코인을 사용하여 힌트를 확인 할 수 있습니다</korean>
 		<taiwanese>如果任務太過困難，^09金幣可以用來開啟提示</taiwanese>
@@ -8168,6 +8168,7 @@
 		<polish>Stuknij pudełko farb 3 razy, aby uzyskać dostęp do 4 poziomów eksperckich</polish>
 		<portuguese>Toque no estojo de tintas 3 vezes para aceder a 4 níveis de especialista</portuguese>
 		<italian>Tocca la tavolozza dei colori 3 volte ed accederai a 4 livelli per esperti</italian>
+		<russian>Коснитесь коробки с красками 3 раза, чтобы открыть 4 секретных уровня</russian>
 		<chinese>点击调色盘 3 次 进入4个额外关卡</chinese>
 		<korean>화면의 캔버스를 3번 터치하면 4개의 전문가 레벨에 도전할 수 있습니다</korean>
 		<taiwanese>點擊調色盤三次就可以玩四個秘密任務</taiwanese>
@@ -8215,6 +8216,7 @@
 		<polish>Stuknij wentylator 3 razy, aby uzyskać dostęp do 4 poziomów eksperckich</polish>
 		<portuguese>Toque na ventoinha 3 vezes para aceder a 4 níveis de especialista</portuguese>
 		<italian>Tocca ventola 3 volte e accedi a 4 liv. Esperti</italian>
+		<russian>Коснитесь вентелятора 3 раза, чтобы открыть 4 секретных уровня</russian>
 		<chinese>点击风扇 3 次来进入四个额外关卡</chinese>
 		<korean>초기화면의 선풍기를 3번 터치하면 4 개의 전문가 레벨에 도전할 수 있습니다</korean>
 		<taiwanese>點擊風扇三次就可以玩四個秘密任務</taiwanese>
@@ -8246,7 +8248,7 @@
 		<polish>...oraz niektóre poziomy niedostępne w pełnej wersji gry</polish>
 		<portuguese>...E ainda mais alguns níveis que não estão presentes nos jogos completos</portuguese>
 		<italian>... e alcuni livelli non inclusi nel gioco completo</italian>
-		<russian>…Плюс некоторое уровни отсутствующие в полных играх</russian>
+		<russian>…и некоторое уровни отсутствующие в полных играх</russian>
 		<chinese>......包含一些完整游戏中没有的关卡</chinese>
 		<korean>...풀버젼에는 없는 레벨도 포함되어 있습니다</korean>
 		<taiwanese>...甚至包含完整版內所沒有的任務</taiwanese>
@@ -8262,7 +8264,7 @@
 		<polish>Jeśli się dobrze bawisz, nie przegap pełnej wersji!</polish>
 		<portuguese>Se gostar destes, não perca as versões completas!</portuguese>
 		<italian>Se ti piace, non farti sfuggire le versioni complete!</italian>
-		<russian>Если вам это нравится, не упускайте из виду полные версии!</russian>
+		<russian>Если вам понравилось, то купите полные версии!</russian>
 		<chinese>如果你喜欢这个游戏，不要错过完整版本！</chinese>
 		<korean>게임이 재밌으셨다면, 풀버젼을 놓치지 마세요!</korean>
 		<taiwanese>如果喜歡Quell，別錯過完整版!</taiwanese>
@@ -8310,6 +8312,7 @@
 		<polish>Po całkowitej przemianie uzyskał wygląd kropli deszczu na oknie.</polish>
 		<portuguese>Após uma mudança completa, o tema visual tornou-se em "gotas de chuva numa janela".</portuguese>
 		<italian>Dopo un restyling completo, il tema visivo si ispirò a gocce su una finestra.</italian>
+		<russian>После полного преображения, визуальной темой стали "дождевые капли на окне"</russian>
 		<chinese>在我们对其一番修改后，视觉主题变成了窗口上的雨点（水滴）。</chinese>
 		<korean>게임을 완성한 후, '창문의 빗방울' 테마를 적용하였습니다.</korean>
 		<taiwanese>經過一番改造，主題變成了"窗戶上的一滴水滴"。</taiwanese>
@@ -8325,6 +8328,7 @@
 		<polish>... chociaż 'Doodle Quell' nie był jednym z nich</polish>
 		<portuguese>...apesar do "Doodle Quell" ñ ser um deles! No entanto, finalmente reunimos a n/equipa.</portuguese>
 		<italian>Ma lo "Scarabocchio Quell" non ci assomigliava molto! Infine, creammo l'aspetto definitivo.</italian>
+		<russian>…хотя 'Doodle Quell' не один из них! Nем не менее, наши роли были распределены.</russian>
 		<chinese>我们最初的设想很多！但最后，我们终于决定了使用这个创意。</chinese>
 		<korean>...비록 'Doodle Quell' 은 이런 종류가 아니지만요! 그러나, 결국 이렇게 멋진 테마를 완성하였습니다.</korean>
 		<taiwanese>...雖然'Doodle Quell'並不能算是其中一個成員，但我們終於確定了我們的內容。</taiwanese>
@@ -8340,6 +8344,7 @@
 		<polish>Podczas opracowywania puzli, sprawdzane był różne style graficzne</polish>
 		<portuguese>Enquanto os puzzles foram desenvolvidos, foram testados diferentes estilos de arte.</portuguese>
 		<italian>Sperimentammo molti stili artistici mentre ideavamo i rompicapi.</italian>
+		<russian>Пока пазлы придумывались, различные художественные стили пробовались.</russian>
 		<chinese>我们在制作谜题的时候，选用了几个不同的艺术风格进行测试......</chinese>
 		<korean>퍼즐을 수정하면서, 다양한 스타일을 테스트하였습니다.</korean>
 		<taiwanese>在設計謎題的同時，我們也測試了許多種不同的風格。</taiwanese>
@@ -8355,6 +8360,7 @@
 		<polish>Zmiana stylu grafiki innych elementów krajobrazu zabrałaby dużo więcej czasu.</polish>
 		<portuguese>Iria demorar muito tempo a definir o estilo visual dos outros elementos do cenário.</portuguese>
 		<italian>Ci è voluto molto tempo per trovare lo stile adatto per gli altri elementi di gioco.</italian>
+		<russian>Труднее всего было выбрать визуальный стиль для окружающх элементов.</russian>
 		<chinese>制订其他场景的艺术风格需要更长时间。</chinese>
 		<korean>다른 화면 요소를 스타일을 적용하는 것은 매우 오랜 작업시간이 필요했습니다.</korean>
 		<taiwanese>這將會花上更長的時間來抉擇最後的風格跟視覺元素。</taiwanese>
@@ -8371,6 +8377,7 @@
 		<polish>Mając to na uwadze, łatwiej było nadać kształt grze nawet bez ich wstawiania do gry</polish>
 		<portuguese>Ter uma história ant. em mente ajudou-nos a dar forma ao jogo, apesar de decidirmos não a incluir.</portuguese>
 		<italian>Avere una storia di background in mente ci ha aiutati a dare forma al gioco, anche se infine non l'abbiamo inclusa</italian>
+		<russian>Изначально мы даже решили не включать предысторию в игру.</russian>
 		<chinese>也许有一个背景故事可以有助于我们塑造游戏氛围，不过我们不打算把它明示于游戏中。</chinese>
 		<korean>이 게임에는 적용하지 않았지만, 배경 이야기를 염두해 둔다는 것이 게임의 완성도에 도움을 줍니다.</korean>
 		<taiwanese>將這些背景故事放在心中將有助於我們塑造遊戲，即使最後並未將它們融入在內。</taiwanese>
@@ -8403,6 +8410,7 @@
 		<polish>Ta historia pomogła zmienić zarówno wygląd gry, jak i muzykę (skomponowana przez Stevena Cravisa.</polish>
 		<portuguese>Esta história anterior ajudou a criar o design da interface e a música (pelo compositor Steven Cravis).</portuguese>
 		<italian>Questi retroscena hanno influito sull'estetica dell'interfaccia e sulla musica del compositore Steven Cravis.</italian>
+		<russian>Эта предыстория повлияла на дизайн интерфейса и саудтрек(композитора Стивена Крэвиса</russian>
 		<chinese>背景故事还影响了游戏的界面设计和配乐 （来自composer Steven Cravis）</chinese>
 		<korean>이 배경은 인터페이스 디자인과 사운드 트랙에 많은 영감을 주었습니다 (작곡가 Steven Cravis)</korean>
 		<taiwanese>這些背景故事同時也影響了介面設計和由 Steven Cravis所製作的音樂</taiwanese>
@@ -8418,7 +8426,7 @@
 		<polish>1 milion pobrań gry Quell jak dotąd czyni ją numerem 1 w wielu krajach</polish>
 		<portuguese>+ de 1 milhão de downloads do Quell até agora, atingiu o nº 1 em diversos países!</portuguese>
 		<italian>Quell è stato scaricato più di 1 milione di volte ed è 1° in molti paesi!</italian>
-		<russian>1+ миллион загрузок Quell, №1 в некоторых странах!</russian>
+		<russian>Более миллиона загрузок Quell, №1 в некоторых странах!</russian>
 		<chinese>水滴系列目前已有100多万的下载量，在某些国家中排名第一！</chinese>
 		<korean>백만+ 다운로드를 지금까지 기록했습니다, 많은 국가에서 NO.1 을 달성하였습니다!</korean>
 		<taiwanese>至今已有超過一百萬個下載數，在許多地區排名第一!</taiwanese>
@@ -8434,7 +8442,7 @@
 		<polish>Czarujące puzle sprawdzające sprawność mózgu i chwytające za serce</polish>
 		<portuguese>Um encantador jogo quebra-cabeças zen que vai certamente testar o seu cérebro e conquistar o seu coração!</portuguese>
 		<italian>Un coinvolgente rompicapo zen che mette alla prova l'ingegno e cattura il cuore!</italian>
-		<russian>Очаровательная головоломка, которая проверит ваши мозги и захватит ваше сердце!</russian>
+		<russian>Чарующая головоломка, которая проверит ваши мозги и захватит ваше сердце!</russian>
 		<chinese>这是一个迷人的游戏，它将会考验你的大脑，捕获你的心！</chinese>
 		<korean>이 재밌는 퍼즐은 당신의 뇌를 시험하고 당신을 푹 빠져들게 할 것입니다!</korean>
 		<taiwanese>一個具有禪學式味的解謎遊戲，可以測驗您的智力並抓住您的心!</taiwanese>
@@ -8466,7 +8474,7 @@
 		<polish>Cel jest prosty: przesuń kroplę przez przeszkody, pułapki, ścieżki, aż do zebrania wszystkich pereł.</polish>
 		<portuguese>O objetivo é simples: fazer deslizar uma gota à volta de uma série de obstáculos, armadilhas e caminhos, até conseguir recolher todas as pérolas.</portuguese>
 		<italian>Lo scopo è semplice: far scivolare una goccia su un piano disseminato di ostacoli, trappole e percorsi per raccogliere tutte le perle.</italian>
-		<russian>Цель игры проста: ведите капельку сквозь препядствия, ловушки и дорожки, пока не соберёте все жемчужины.</russian>
+		<russian>Цель игры проста: проведите каплю сквозь препядствия, ловушки и дорожки, пока не соберёте все жемчужины.</russian>
 		<chinese>我们的目标很简单：在你收集到全部珍珠之前，移动的水滴周围充满了障碍、陷阱和小径。</chinese>
 		<korean>게임 방법은 간단합니다: 모든 진주를 모을때 까지 빗방울을 이동시키고, 장애물을 피하고, 당신의 뇌를 훈련시키는 것입니다.</korean>
 		<taiwanese>遊戲的目的很簡單:帶領小水滴越過每一個阻礙、陷阱以及難題，直到您收集完所有的珍珠。</taiwanese>
@@ -8482,7 +8490,7 @@
 		<polish>Pod pozorną prostotą kryje się złożony świat.</polish>
 		<portuguese>Por baixo desta simples jogabilidade, esconde-se um mundo de complexidade!</portuguese>
 		<italian>La meccanica di gioco semplice cela un mondo di complessità!</italian>
-		<russian>Под этим простым геймплеем лежит мир лабиринтов!</russian>
+		<russian>Под этим простым геймплеем скрывается полный головоломок мир!</russian>
 		<chinese>这个简单的游戏下面存在着一个复杂的世界！</chinese>
 		<korean>이 세상의 복잡한 일들이 이 간단한 게임에서 쉽게 표현되고 있습니다.</korean>
 		<taiwanese>這是一個在複雜世界裡的簡單遊戲!</taiwanese>
@@ -8498,7 +8506,7 @@
 		<polish>Wygląd Quell jest przyjemny, kojący, co czyni przyjemnym jej odkrywanie</polish>
 		<portuguese>O interesse do Quell assenta na sua capacidade tranquilizante e pacífica, que o torna numa excelente forma de relaxar.</portuguese>
 		<italian>Quell incanta con l'atmosfera delicata e suadente che lo rende ideale per un momento di relax.</italian>
-		<russian>Привлекательность Quell заключается в его успокаивающей легкости, которая делает его отличным способом расслабиться.</russian>
+		<russian>Привлекательность Quell заключается в легкости, успокаивающй атмосфере и увлекательном игровой процессе.</russian>
 		<chinese>水滴记忆的目的是希望玩家在游戏过程中获得轻松和愉悦，这是一个放松的好方法。</chinese>
 		<korean>Quell 의 매력은 간편하고, 마음을 편하게 하고, 긴장을 풀어주는 게임이라는 것입니다.</korean>
 		<taiwanese>Quell的魅力在於它的溫和感，能緩和情緒，是一個放鬆心情的好方法。</taiwanese>
@@ -8514,7 +8522,7 @@
 		<polish>Cechy:</polish>
 		<portuguese>Funcionalidades:</portuguese>
 		<italian>Aspetti:</italian>
-		<russian>Возможности:</russian>
+		<russian>Ключеые особенности:</russian>
 		<chinese>特征：</chinese>
 		<korean>게임 특징:</korean>
 		<taiwanese>特點:</taiwanese>
@@ -8530,7 +8538,7 @@
 		<polish>* Ponad 80 poziomów sprytnie podzielonych puzzli</polish>
 		<portuguese>* Mais de 80 níveis de puzzles que requerem perspicácia</portuguese>
 		<italian>* Oltre 80 livelli di rompicapi raffinati</italian>
-		<russian>* Более 80 хитро сделанных головоломок</russian>
+		<russian>* Более 80 наполненных головоломками уровней</russian>
 		<chinese>*超过80个巧妙设计的关卡</chinese>
 		<korean>* 80레벨이 넘는 흥미진진한 퍼즐</korean>
 		<taiwanese>*超過八十個巧妙製作的關卡</taiwanese>
@@ -8546,7 +8554,7 @@
 		<polish>* Piękna, ręcznie rysowana grafika</polish>
 		<portuguese>* Estilo fantástico das pinturas manuais</portuguese>
 		<italian>* Splendido stile disegnato a mano</italian>
-		<russian>* Великолепный ручной художественный стиль</russian>
+		<russian>* Великолепный художественный стиль</russian>
 		<chinese>*华丽的手绘艺术风格</chinese>
 		<korean>* 섬세한 스타일의 예술적인 그림체</korean>
 		<taiwanese>*華麗的手繪風格畫作</taiwanese>
@@ -8562,7 +8570,7 @@
 		<polish>* Niezwykła ścieżka dźwiękowa odnowiona przez Stevena Cravisa</polish>
 		<portuguese>* Banda sonora personalizada pelo famoso compositor Steven Cravis</portuguese>
 		<italian>* Colonna sonora dedicata del compositore Steven Cravis</italian>
-		<russian>* Пользовательский саундтрек от известного композитора Steven Cravis</russian>
+		<russian>* Музыка известного композитора Стивена Крэвиса</russian>
 		<chinese>*自定义配乐由著名作曲家Steven Cravis创作</chinese>
 		<korean>* 유명 작곡가 Steven Cravis 의 사운드 트랙</korean>
 		<taiwanese>*由新銳作曲家Steven Cravis所創作的音樂</taiwanese>
@@ -8578,7 +8586,7 @@
 		<polish>* Idealnie dobrana krzywa trudności</polish>
 		<portuguese>* Curva de dificuldade perfeitamente equilibrada</portuguese>
 		<italian>* Curva di difficoltà bilanciata</italian>
-		<russian>* Отлично сбалансированные уровни сложности</russian>
+		<russian>* Отлично сбалансированные уровни</russian>
 		<chinese>*完美平衡的难度曲线</chinese>
 		<korean>* 난이도 밸런스의 완벽한 구현</korean>
 		<taiwanese>*平衡的遊戲難度設計</taiwanese>
@@ -8594,7 +8602,7 @@
 		<polish>Spróbuj Quell dzisiaj i zakochaj się tym doświadczeniu</polish>
 		<portuguese>Experimente o Quell já hoje e apaixone-se por esta encantadora experiência...</portuguese>
 		<italian>Prova subito Quell e lasciati rapire da questa magica esperienza...</italian>
-		<russian>Попробуйте Quell сегодня, влюбитесь в эту очаровательную игру…</russian>
+		<russian>Попробуйте Quell сегодня и влюбитесь в эту очаровательную игру…</russian>
 		<chinese>今天就尝试水滴记忆，爱上这个令人着迷的游戏......</chinese>
 		<korean>Quell 을 플레이 해보세요, 그리고 이 멋진 게임에 빠져보세요...</korean>
 		<taiwanese>現在就來試試Quell，感受這個迷人的遊戲體驗。</taiwanese>
@@ -8610,7 +8618,7 @@
 		<polish>Jeśli grałeś w oryginalną grę Quell, będziesz zadowolony nowymi cechami gry</polish>
 		<portuguese>Se já tiver jogado o Quell original, irá deliciar-se com as suas novas caraterísticas de jogabilidade.</portuguese>
 		<italian>Se conosci il Quell originale, apprezzerai le nuove funzioni di gioco.</italian>
-		<russian>Если вы уже играли в оригинальную Quell, вы восхититесь новыми возможностями геймплея.</russian>
+		<russian>Если вы уже играли в оригинальную Quell, то вас порадуют новые возможности геймплея.</russian>
 		<chinese>如果你玩过原来的水滴记忆，你会很喜欢新的游戏功能。</chinese>
 		<korean>고전 Quell게임을 해보셨다면, 아마 이 새로운 플레이스타일에 마음을 뺏기실 겁니다.</korean>
 		<taiwanese>如果您曾經玩過原創版本的Quell，您將會因為全新版本而感到驚喜。</taiwanese>
@@ -8642,7 +8650,7 @@
 		<polish>* Centrum gry, wyników i zwycięzców</polish>
 		<portuguese>* Recordes e Classificações do Centro de Jogos</portuguese>
 		<italian>* Obiettivi e classifiche su Game Center</italian>
-		<russian>* Достижения и доска почёта</russian>
+		<russian>* Достижения и рейтинг игроков</russian>
 		<chinese>*Game Center成就和排行</chinese>
 		<korean>* 게임 센터를 통한 업적 및 점수 보기</korean>
 		<taiwanese>* 支援Game Center的成就系統和排行榜</taiwanese>
@@ -8706,7 +8714,7 @@
 		<polish>zen</polish>
 		<portuguese>zen</portuguese>
 		<italian>zen</italian>
-		<russian>головоломка</russian>
+		<russian>дзэн</russian>
 		<chinese>禅</chinese>
 		<korean>젠</korean>
 		<taiwanese>禪</taiwanese>
@@ -8722,7 +8730,7 @@
 		<polish>relaks</polish>
 		<portuguese>relax</portuguese>
 		<italian>relax</italian>
-		<russian>расслабляющая</russian>
+		<russian>расслабляющий</russian>
 		<chinese>放松</chinese>
 		<korean>휴식</korean>
 		<taiwanese>休閒</taiwanese>
@@ -8738,7 +8746,7 @@
 		<polish>logika</polish>
 		<portuguese>lógica</portuguese>
 		<italian>logica</italian>
-		<russian>логическая</russian>
+		<russian>логический</russian>
 		<chinese>逻辑</chinese>
 		<korean>논리</korean>
 		<taiwanese>邏輯</taiwanese>
@@ -8818,7 +8826,7 @@
 		<polish>Perfekcyjne poziomy:</polish>
 		<portuguese>Níveis perfeitos</portuguese>
 		<italian>Livelli perfetti</italian>
-		<russian>Идеальных уровней</russian>
+		<russian>Идеальные уровни</russian>
 		<chinese>完美关卡</chinese>
 		<korean>퍼펙트 레벨</korean>
 		<taiwanese>完美過關</taiwanese>
@@ -9042,7 +9050,7 @@
 		<polish>Powtórz</polish>
 		<portuguese>Repetir</portuguese>
 		<italian>Riprova</italian>
-		<russian>Попробовать снова</russian>
+		<russian>Повтор</russian>
 		<chinese>重试</chinese>
 		<korean>재시도</korean>
 		<taiwanese>重試</taiwanese>
@@ -9199,6 +9207,7 @@
 		<polish>Normalny</polish>
 		<portuguese>Normal</portuguese>
 		<italian>Normale</italian>
+		<russian>Нормальный</russian>
 		<chinese>普通</chinese>
 		<korean>정상</korean>
 		<taiwanese>普通</taiwanese>
@@ -9294,7 +9303,7 @@
 		<polish>Tablice liderów</polish>
 		<portuguese>Tabelas de Classificação</portuguese>
 		<italian>Classifiche</italian>
-		<russian>Доска почёта</russian>
+		<russian>Рейтинг</russian>
 		<chinese>排行榜</chinese>
 		<korean>리더보드</korean>
 		<taiwanese>排行榜</taiwanese>
@@ -9747,7 +9756,7 @@
 		<polish>Jeszcze nie odtworzony</polish>
 		<portuguese>Não jogou</portuguese>
 		<italian>Non giocato</italian>
-		<russian>Не использовано</russian>
+		<russian>Не сыграно</russian>
 		<chinese>未玩过</chinese>
 		<korean>게임을 하지 않았습니다</korean>
 		<taiwanese>尚未玩過</taiwanese>
@@ -9811,7 +9820,7 @@
 		<polish>Zakup %s przy użyciu %d monet.</polish>
 		<portuguese>Comprar %s usando %d moedas.</portuguese>
 		<italian>Acquista %s usando %d monete.</italian>
-		<russian>Купить %s используя %d монет.</russian>
+		<russian>Купить %s используя %d монеты.</russian>
 		<chinese>使用 %d 枚金币购买 %s。</chinese>
 		<korean>%d 사용하여 %s 구매</korean>
 		<taiwanese>使用 %d 枚金幣購買 %s。</taiwanese>
@@ -10141,7 +10150,7 @@
 		<polish>Półka zakończona!</polish>
 		<portuguese>Prateleira Completa!</portuguese>
 		<italian>Scaffale Completo!</italian>
-		<russian>Полка завершена</russian>
+		<russian>Полка завершена!</russian>
 		<chinese>该层已完成！</chinese>
 		<korean>선반이 완료되었습니다!</korean>
 		<taiwanese>年份已完成！</taiwanese>
@@ -10381,6 +10390,7 @@
 		<polish>Musisz odkryć klejnot, by go zdobyć</polish>
 		<portuguese>Revela a jóia totalmente para a coleccionares</portuguese>
 		<italian>Scopri il gioiello completamente per raccoglierlo</italian>
+		<russian>Полностью разбейте камень, чтобы собрать бриллиант</russian>
 		<chinese>完全揭开珠宝来收集</chinese>
 		<korean>수집하기 위해 보석을 전부 노출시킵니다</korean>
 		<taiwanese>公開、收藏所有的珠寶</taiwanese>
@@ -10396,7 +10406,7 @@
 		<polish>Zamień wszystkie żarówki na niebieskie pola przy użyciu kropli</polish>
 		<portuguese>Liga todas as lâmpadas para azul usando a gota da chuva</portuguese>
 		<italian>Fai diventare tutte le lampadine blu utilizzando la goccia</italian>
-		<russian>Сделайте все лампы ^32 используя ^00</russian>
+		<russian>Переключите все лампы ^32 используя ^00</russian>
 		<chinese>使用水滴^00将所有灯泡点亮成蓝色^32</chinese>
 		<korean>빗방울을 이용하여 모든 조명전구를 청색으로 변화시킵니다</korean>
 		<taiwanese>使用水滴將所有燈泡點亮成藍色</taiwanese>
@@ -10412,7 +10422,7 @@
 		<polish>Zamień wszystkie żarówki na niebieskie pola przy użyciu kropli</polish>
 		<portuguese>Liga todas as lâmpadas para azul usando a gota da chuva</portuguese>
 		<italian>Fai diventare tutte le lampadine blu utilizzando la goccia</italian>
-		<russian>Сделайте все лампы ^32 используя ^00</russian>
+		<russian>Перекючите все лампы ^32 используя ^00</russian>
 		<chinese>使用水滴^00将所有灯泡点亮成蓝色^32</chinese>
 		<korean>빗방울을 이용하여 모든 조명전구를 청색으로 변화시킵니다</korean>
 		<taiwanese>使用水滴將所有燈泡點亮成藍色</taiwanese>
@@ -10460,7 +10470,7 @@
 		<polish>Znajdź pozycję, która podświetla wszystkie ^26 diamentów jednocześnie</polish>
 		<portuguese>Procura a posição que ilumina todosl ^26 diamantes ao mesmo tempo</portuguese>
 		<italian>Trova la posizione che illumina tutti i ^26 diamanti contemporaneamente</italian>
-		<russian>Найдите позицию, с которой можно осветить все ^26 бриллиантов одновременно</russian>
+		<russian>Найдите позицию, с которой можно осветить все ^26 бриллианты одновременно</russian>
 		<chinese>找到能同时照亮全部钻石 ^26 的位置</chinese>
 		<korean>모든 ^26 다이아몬드를 동시에 비추는 위치를 찾아보세요.</korean>
 		<taiwanese>找到能同時照亮全部 ^26 顆鑽石的位置</taiwanese>
@@ -10492,6 +10502,7 @@
 		<polish>tylny panel dotykowy</polish>
 		<portuguese>painel táctil traseiro</portuguese>
 		<italian>touch pad posteriore</italian>
+		<russian>задняя сенсорная панель</russian>
 		<chinese>背面触摸板</chinese>
 		<korean>후면 터치패드</korean>
 		<taiwanese>背面觸碰板</taiwanese>
@@ -10683,7 +10694,7 @@
 		<polish>Ruchome do góry</polish>
 		<portuguese>Ascensão</portuguese>
 		<italian>Arrampicatore Sociale</italian>
-		<russian>Обеспечиваем мобильность</russian>
+		<russian>Из грязи к князи</russian>
 		<chinese>向上移动</chinese>
 		<korean>상방으로 이동</korean>
 		<taiwanese>向上移動</taiwanese>
@@ -10923,7 +10934,7 @@
 		<polish>Taran</polish>
 		<portuguese>Aríete</portuguese>
 		<italian>Ariete</italian>
-		<russian>Таракан</russian>
+		<russian>Таран</russian>
 		<chinese>攻城</chinese>
 		<korean>파성퇴</korean>
 		<taiwanese>攻城</taiwanese>
@@ -11051,7 +11062,7 @@
 		<polish>Słodki punkt</polish>
 		<portuguese>Sítio Porreiro</portuguese>
 		<italian>Punto Giusto</italian>
-		<russian>Сладкое пятно</russian>
+		<russian>Лучшая часть</russian>
 		<chinese>甜蜜场所</chinese>
 		<korean>스위트 스팟</korean>
 		<taiwanese>甜蜜場所</taiwanese>
@@ -11067,7 +11078,7 @@
 		<polish>Oddzielne życie</polish>
 		<portuguese>Vivendo aparte</portuguese>
 		<italian>Vivere Separati</italian>
-		<russian>Живущий отдельно</russian>
+		<russian>Отшельник</russian>
 		<chinese>分居</chinese>
 		<korean>떨어져 살다</korean>
 		<taiwanese>分居</taiwanese>
@@ -11115,7 +11126,7 @@
 		<polish>Piersze dni</polish>
 		<portuguese>Primeiros Dias</portuguese>
 		<italian>Primi Giorni</italian>
-		<russian>Первые дни</russian>
+		<russian>Ещё не вечер</russian>
 		<chinese>早期时光</chinese>
 		<korean>지난날</korean>
 		<taiwanese>早期時光</taiwanese>
@@ -11179,6 +11190,7 @@
 		<polish>cry20</polish>
 		<portuguese>cry20</portuguese>
 		<italian>cry20</italian>
+		<russian>cry20</russian>
 		<chinese>cry20</chinese>
 		<korean>cry20</korean>
 		<taiwanese>cry20</taiwanese>
@@ -11194,7 +11206,7 @@
 		<polish>Światła drogowe</polish>
 		<portuguese>Luzes de paragem</portuguese>
 		<italian>Semaforo</italian>
-		<russian>Стоп-огни</russian>
+		<russian>Светофор</russian>
 		<chinese>交通灯</chinese>
 		<korean>신호등</korean>
 		<taiwanese>交通燈</taiwanese>
@@ -11226,7 +11238,7 @@
 		<polish>Przełącznik</polish>
 		<portuguese>Mudar de viagem</portuguese>
 		<italian>Interruttore Scattato</italian>
-		<russian>Выключатель питания</russian>
+		<russian>Предохранитель</russian>
 		<chinese>跳闸开关</chinese>
 		<korean>트립 스위치</korean>
 		<taiwanese>跳閘開關</taiwanese>
@@ -11258,7 +11270,7 @@
 		<polish>Związek Wł.-Wył.</polish>
 		<portuguese>Estar-não estar num Relacionamento</portuguese>
 		<italian>Relazione Instabile</italian>
-		<russian>Связь включения-выключения</russian>
+		<russian>Сложные отношения</russian>
 		<chinese>开-关 关系</chinese>
 		<korean>온-오프 관계</korean>
 		<taiwanese>開-關關係</taiwanese>
@@ -11274,7 +11286,7 @@
 		<polish>IDŹ!</polish>
 		<portuguese>VAI!</portuguese>
 		<italian>VAI!</italian>
-		<russian>Иди!</russian>
+		<russian>Вперёд!</russian>
 		<chinese>出发！</chinese>
 		<korean>가세요!</korean>
 		<taiwanese>出發！</taiwanese>
@@ -11290,7 +11302,7 @@
 		<polish>Próg</polish>
 		<portuguese>Doorstop</portuguese>
 		<italian>Fermaporta</italian>
-		<russian>Упор двери</russian>
+		<russian>Дверная подпорка</russian>
 		<chinese>看家</chinese>
 		<korean>도어 스톱</korean>
 		<taiwanese>看家</taiwanese>
@@ -11306,7 +11318,7 @@
 		<polish>W przejściu</polish>
 		<portuguese>Passando</portuguese>
 		<italian>Incidentalmente</italian>
-		<russian>Мимоходом</russian>
+		<russian>Случайно</russian>
 		<chinese>顺带</chinese>
 		<korean>인 패싱</korean>
 		<taiwanese>順帶</taiwanese>
@@ -11338,7 +11350,7 @@
 		<polish>Enigma</polish>
 		<portuguese>Máquina de enigmas</portuguese>
 		<italian>Enigma</italian>
-		<russian>Загадочная машина</russian>
+		<russian>Энигма</russian>
 		<chinese>谜之机器</chinese>
 		<korean>애니그마 머신</korean>
 		<taiwanese>謎之機器</taiwanese>
@@ -11402,7 +11414,7 @@
 		<polish>Winda</polish>
 		<portuguese>Elevador</portuguese>
 		<italian>Ascensore</italian>
-		<russian>Элеватор</russian>
+		<russian>Лифт</russian>
 		<chinese>电梯</chinese>
 		<korean>엘리베이터</korean>
 		<taiwanese>電梯</taiwanese>
@@ -11530,7 +11542,7 @@
 		<polish>Lód i złoto</polish>
 		<portuguese>Gelo e Ouro</portuguese>
 		<italian>Ghiaccio e Oro</italian>
-		<russian>Лёд и пламень</russian>
+		<russian>Лёд и золото</russian>
 		<chinese>冰和黄金</chinese>
 		<korean>아이스  앤 골드</korean>
 		<taiwanese>冰和黃金</taiwanese>
@@ -11642,7 +11654,7 @@
 		<polish>Północne światła</polish>
 		<portuguese>Aurora Boreal</portuguese>
 		<italian>Aurora Boreale</italian>
-		<russian>Северный огни</russian>
+		<russian>Северное сияние</russian>
 		<chinese>北极光</chinese>
 		<korean>노던라이츠</korean>
 		<taiwanese>北極光</taiwanese>
@@ -11754,7 +11766,7 @@
 		<polish>Przygody</polish>
 		<portuguese>Assuntos em ordem</portuguese>
 		<italian>Cose in Ordine</italian>
-		<russian>Дела в порядке</russian>
+		<russian>В порядке вещей</russian>
 		<chinese>按序处理</chinese>
 		<korean>일을 정리함</korean>
 		<taiwanese>按序處理</taiwanese>
@@ -11850,7 +11862,7 @@
 		<polish>Utalentowany</polish>
 		<portuguese>Dotado</portuguese>
 		<italian>Dotato</italian>
-		<russian>Подаренный</russian>
+		<russian>Одарённый</russian>
 		<chinese>天赋</chinese>
 		<korean>재능이 있는</korean>
 		<taiwanese>天賦</taiwanese>
@@ -11962,7 +11974,7 @@
 		<polish>Falstart</polish>
 		<portuguese>Falsa Partida</portuguese>
 		<italian>Falsa Partenza</italian>
-		<russian>Ложный старт</russian>
+		<russian>Фальстарт</russian>
 		<chinese>抢跑</chinese>
 		<korean>잘못된 시작</korean>
 		<taiwanese>搶跑</taiwanese>
@@ -12154,7 +12166,7 @@
 		<polish>Zbawca</polish>
 		<portuguese>Salvador</portuguese>
 		<italian>Salvatore</italian>
-		<russian>Спас</russian>
+		<russian>Спаситель</russian>
 		<chinese>救世主</chinese>
 		<korean>구원자</korean>
 		<taiwanese>救世主</taiwanese>
@@ -12378,7 +12390,7 @@
 		<polish>Nie bądź chciwy!</polish>
 		<portuguese>Não sejas Ganancioso!</portuguese>
 		<italian>Non essere avido!</italian>
-		<russian>Не будь жадным!</russian>
+		<russian>Не жадничай!</russian>
 		<chinese>别太贪心！</chinese>
 		<korean>욕심내지 마세요!</korean>
 		<taiwanese>別太貪心！</taiwanese>
@@ -13025,7 +13037,7 @@
 		<polish>Etap I</polish>
 		<portuguese>Nível I</portuguese>
 		<italian>Livello I</italian>
-		<russian>Стадия I</russian>
+		<russian>Этап I</russian>
 		<chinese>关卡 I</chinese>
 		<korean>제 1단계</korean>
 		<taiwanese>關卡 I</taiwanese>
@@ -13042,7 +13054,7 @@
 		<polish>Etap II</polish>
 		<portuguese>Nível II</portuguese>
 		<italian>Livello II</italian>
-		<russian>Стадия II</russian>
+		<russian>Этап II</russian>
 		<chinese>关卡 II</chinese>
 		<korean>제 2단계</korean>
 		<taiwanese>關卡 II</taiwanese>
@@ -13059,7 +13071,7 @@
 		<polish>Etap III</polish>
 		<portuguese>Nível III</portuguese>
 		<italian>Livello III</italian>
-		<russian>Стадия III</russian>
+		<russian>Этап III</russian>
 		<chinese>关卡 III</chinese>
 		<korean>제 3단계</korean>
 		<taiwanese>關卡 III</taiwanese>
@@ -13076,7 +13088,7 @@
 		<polish>Etap IV</polish>
 		<portuguese>Nível IV</portuguese>
 		<italian>Livello IV</italian>
-		<russian>Стадия IV</russian>
+		<russian>Этап IV</russian>
 		<chinese>关卡 IV</chinese>
 		<korean>제 4단계</korean>
 		<taiwanese>關卡 IV</taiwanese>
@@ -13188,7 +13200,7 @@
 		<polish>Tylko przyjaciele</polish>
 		<portuguese>Amigos apenas</portuguese>
 		<italian>Solo Conoscenti</italian>
-		<russian>Только знакомые</russian>
+		<russian>Только приятели</russian>
 		<chinese>仅密友</chinese>
 		<korean>친한 사람에게만</korean>
 		<taiwanese>僅密友</taiwanese>
@@ -13353,7 +13365,7 @@
 		<polish>PlayStation®Vita - programowanie</polish>
 		<portuguese>Programação PlayStation®Vita por</portuguese>
 		<italian>Sviluppo per PlayStation®Vita di</italian>
-		<russian>Программирование PlayStation®Vita</russian>
+		<russian>Версия для PlayStation®Vita</russian>
 		<chinese>PlayStation®Vita 程序设计</chinese>
 		<korean>PlayStation®Vita 프로그래밍</korean>
 		<taiwanese>PlayStation®Vita 程式設計</taiwanese>
@@ -13379,7 +13391,7 @@
 		<polish>Art Director</polish>
 		<portuguese>Director de Arte</portuguese>
 		<italian>Direttore Artistico</italian>
-		<russian>Искусcтво и дизайн</russian>
+		<russian>Художественное офомление</russian>
 		<chinese>艺术总监</chinese>
 		<korean>예술 감독</korean>
 		<taiwanese>藝術總監</taiwanese>
@@ -13661,7 +13673,7 @@
 		<polish>ruch</polish>
 		<portuguese>movimentar</portuguese>
 		<italian>mossa</italian>
-		<russian>движение</russian>
+		<russian>ход</russian>
 		<chinese>步数</chinese>
 		<korean>움직이기</korean>
 		<taiwanese>步數</taiwanese>
@@ -13677,7 +13689,7 @@
 		<polish>ruchy</polish>
 		<portuguese>movimentos</portuguese>
 		<italian>mosse</italian>
-		<russian>движений</russian>
+		<russian>ходов</russian>
 		<chinese>步数</chinese>
 		<korean>움직임</korean>
 		<taiwanese>步數</taiwanese>
@@ -13693,7 +13705,7 @@
 		<polish>Pokonam %s '%s' w %d ruchach! %s %s</polish>
 		<portuguese>Eu ganhei %s '%s' em %d movimentos! %s %s</portuguese>
 		<italian>Ho battuto %s '%s' in %d mosse! %s %s</italian>
-		<russian>Я прошёл(а) %s '%s' за %d движений! %s %s</russian>
+		<russian>Я прошёл(а) %s '%s' за %d ходов! %s %s</russian>
 		<chinese>我在 %d 步内战胜了 %s '%s'！%s %s</chinese>
 		<korean>%s '%s'를 %d번의 움직임으로 격파했습니다! %s %s</korean>
 		<taiwanese>我在 %d 步內戰勝了 %s '%s'！%s %s</taiwanese>
@@ -14486,7 +14498,7 @@
 		<polish>Opcje wyświetlania</polish>
 		<portuguese>Exibir Opções</portuguese>
 		<italian>Opzioni Display</italian>
-		<russian>Настройки отображения</russian>
+		<russian>Настройки экрана</russian>
 		<chinese>显示选项</chinese>
 		<korean>보기옵션</korean>
 		<taiwanese>顯示選項</taiwanese>
@@ -14882,7 +14894,7 @@
 		<polish>Dziękujemy za wybranie gier Quell</polish>
 		<portuguese>Obrigado a todos por jogarem os jogos Quell</portuguese>
 		<italian>Grazie per aver scelto i giochi Quell</italian>
-		<russian>Спасибо за игру в игры Quell</russian>
+		<russian>Спасибо за то, что поиграли в игры серии Quell</russian>
 		<chinese>感谢您游玩 水滴记忆 游戏</chinese>
 		<korean>Quell 게임을 즐겨주셔서 감사합니다</korean>
 		<taiwanese>感謝您遊玩 Quell 遊戲</taiwanese>
@@ -14979,7 +14991,7 @@
 		<polish>Rozrzucone fragmenty.</polish>
 		<portuguese>Fragmentos.</portuguese>
 		<italian>Frammenti.</italian>
-		<russian>Фрагменты.</russian>
+		<russian>осколки.</russian>
 		<chinese>片段。</chinese>
 		<korean>단편들</korean>
 		<taiwanese>片段。</taiwanese>
@@ -14995,7 +15007,7 @@
 		<polish>Tak właśnie wyglądają moje wspomnienia.</polish>
 		<portuguese>É o que a minha memória sente agora mesmo.</portuguese>
 		<italian>È così che percepisco i miei ricordi ora</italian>
-		<russian>Вот как теперь выглядят мои воспоминания.</russian>
+		<russian>Вот на что сейчас похожи мои воспоминания.</russian>
 		<chinese>这就是我能感受到的记忆。</chinese>
 		<korean>그것이 내 기억이 지금 그러한 것입니다</korean>
 		<taiwanese>這就是我能感受到的記憶。</taiwanese>
@@ -15027,7 +15039,7 @@
 		<polish>skaleczyłem się kolcem róży.</polish>
 		<portuguese>Cortei o meu polegar numa rosa.</portuguese>
 		<italian>Mi son fatto un taglio al pollice con una rosa.</italian>
-		<russian>Я порезал палец об розу.</russian>
+		<russian>Я порезал палец о розу.</russian>
 		<chinese>一束玫瑰割破了我的拇指。</chinese>
 		<korean>장미에 엄지손가락을 찔렸습니다.</korean>
 		<taiwanese>一束玫瑰割破了我的拇指。</taiwanese>
@@ -15091,6 +15103,7 @@
 		<polish>Sam nie wiem, dlaczego zatrzymałem je.</polish>
 		<portuguese>Só Deus sabe porque mantive tudo isso.</portuguese>
 		<italian>Chissà perché mi sono tenuto tutta questa roba.</italian>
+		<russian>Одному богу известно, зачем я хранил их</russian>
 		<chinese>天知道我为何无法忘怀。</chinese>
 		<korean>내가  그 중 하나를 소지한 이유를 알고 있습니다.</korean>
 		<taiwanese>天曉得我為何還留著這些東西。</taiwanese>
@@ -15932,7 +15945,7 @@
 		<polish>Chwilowy</polish>
 		<portuguese>Marcante</portuguese>
 		<italian>Importantissimo</italian>
-		<russian>Важный</russian>
+		<russian>Знаменательный</russian>
 		<chinese>重大影响</chinese>
 		<korean>중대한</korean>
 		<taiwanese>重大影響</taiwanese>
@@ -16028,7 +16041,7 @@
 		<polish>Członek rodziny królewskiej</polish>
 		<portuguese>Real</portuguese>
 		<italian>Reale</italian>
-		<russian>Королевский</russian>
+		<russian>Король</russian>
 		<chinese>皇族</chinese>
 		<korean>국왕의</korean>
 		<taiwanese>皇族</taiwanese>
@@ -17560,6 +17573,7 @@
 		<polish>Te ostateczne kroki muszą zostać podjęte samodzielnie przez Ciebie</polish>
 		<portuguese>Estes últimos passos devem ser feitos por ti sozinho</portuguese>
 		<italian>Questi ultime mosse devono essere prese da te da solo</italian>
+		<russian>Эти шаги должны быть совершены по отдельности</russian>
 		<chinese>最后的移动方法需要你独自完成</chinese>
 		<korean>마지막 스텝들은 혼자서 취해져야합니다</korean>
 		<taiwanese>最後的移動方法需要你獨自完成</taiwanese>
@@ -17605,6 +17619,7 @@
 		<polish>Rozdział ten jest dostępny tylko dla pełnej wersji</polish>
 		<portuguese>Este capítulo só está disponível na versão completa.</portuguese>
 		<italian>Questo livello è disponibile solo nella versione completa.</italian>
+		<russian>Эта глава доступна только в полной версии.</russian>
 		<chinese>此章节只在完整版本中提供。</chinese>
 		<korean>이 장은 완전한 버전에서만 사용할 수 있습니다</korean>
 		<taiwanese>此章節只在完整版本中提供。</taiwanese>
@@ -17637,6 +17652,7 @@ título.</spanish>
 		<polish>Zostawiłeś PlayStation®Network. Musisz się zalogować, aby móc korzystać z funkcji online tytułu.</polish>
 		<portuguese>Saiste da PlayStation®Network. Deves voltar a ligar para aceder às caracteristicas online do titulo.</portuguese>
 		<italian>Sei uscito dal PlayStation®Network.  Devi accedere per usare le funzioni online del titolo.</italian>
+		<russian>Вы вышли из  PlayStation™Network.  Войдите для доступа к специальным возможностям.</russian>
 		<chinese>你已从 PlayStation™Network 注销。你必须登录来访问本作的在线功能。</chinese>
 		<korean>PlayStation™Network에서 로그아웃했습니다. 타이틀의 온라인 기능을 사용하기 위해 로그인해야합니다.</korean>
 		<taiwanese>你已從  PlayStation™Network 登出。你必須登入來訪問本作的線上功能。</taiwanese>
@@ -17653,6 +17669,7 @@ título.</spanish>
 		<polish>Zostawiłeś PlayStation®Network.</polish>
 		<portuguese>Saiste da PlayStation®Network.</portuguese>
 		<italian>Sei uscito dal PlayStation®Network.</italian>
+		<russian>Вы вышли из  PlayStation™Network.</russian>
 		<chinese>你已从 PlayStation™Network 注销。</chinese>
 		<korean>PlayStation™Network에서 로그아웃했습니다.</korean>
 		<taiwanese>你已從  PlayStation™Network 登出。</taiwanese>
@@ -17662,6 +17679,7 @@ título.</spanish>
 		<id>STR_VITA_AUTOSAVE</id>
 		<translate>true</translate>
 		<english>TBD</english>
+		<russian>TDB</russian>
 	</stringentry>
 	<stringentry>
 		<id>STR_WEBSITE</id>
@@ -17705,6 +17723,7 @@ título.</spanish>
 		<polish>Zdobyte trofea</polish>
 		<portuguese>Troféus conquistados</portuguese>
 		<italian>Trofei conquistato</italian>
+		<russian>Трофеи заработаны</russian>
 		<chinese>已获得的奖杯</chinese>
 		<korean>획득한 트로피</korean>
 		<taiwanese>已獲得的獎盃</taiwanese>
@@ -17736,6 +17755,7 @@ título.</spanish>
 		<polish>Naciśnij %s, aby potrząsnąć</polish>
 		<portuguese>Pressiona %s para tremer</portuguese>
 		<italian>Premi %s per scuotere</italian>
+		<russian>Нажмите %s чтобы встряхнуть</russian>
 		<chinese>按下 %s 来晃动</chinese>
 		<korean>%s를 눌러 흔들어주세요</korean>
 		<taiwanese>按下 %s 再晃動</taiwanese>
@@ -17751,6 +17771,7 @@ título.</spanish>
 		<polish>Odkryj wskazówkę</polish>
 		<portuguese>Revelar Pista de conclusão</portuguese>
 		<italian>Rivela indizio per risolvere</italian>
+		<russian>Открыть решение</russian>
 		<chinese>揭开完成关卡的线索</chinese>
 		<korean>완성 단서를 노출시키세요</korean>
 		<taiwanese>開啟完成關卡的線索</taiwanese>
@@ -17798,6 +17819,7 @@ título.</spanish>
 		<polish>Kroki te należy wykonać samodzielnie</polish>
 		<portuguese>Estes passos devem ser feitos sozinho</portuguese>
 		<italian>Questi passi andrebbero affrontati da solo</italian>
+		<russian>Эти шаги должны быть совершены по отдельности</russian>
 		<chinese>这些移动需要单独完成</chinese>
 		<korean>이 스텝들은 혼자 밟아야합니다</korean>
 		<taiwanese>這些步驟必須單獨完成</taiwanese>
@@ -17957,6 +17979,7 @@ título.</spanish>
 		<polish>Scenki</polish>
 		<portuguese>Cenas cortadas</portuguese>
 		<italian>Cutscene</italian>
+		<russian>Видеоролики</russian>
 		<chinese>过场动画</chinese>
 		<korean>컷신</korean>
 		<taiwanese>過場動畫</taiwanese>
@@ -17988,6 +18011,7 @@ título.</spanish>
 		<polish>Flashback</polish>
 		<portuguese>Recapitular</portuguese>
 		<italian>Flashback</italian>
+		<russian>Воспоминание</russian>
 		<chinese>闪回</chinese>
 		<korean>회상</korean>
 		<taiwanese>倒敘</taiwanese>
@@ -18003,6 +18027,7 @@ título.</spanish>
 		<polish>Zmień lektora lub napisy w menu opcji</polish>
 		<portuguese>Mudar voz ou Legendas no menú de opções</portuguese>
 		<italian>Cambia Voce o Sottotitoli nel menu Opzioni</italian>
+		<russian>Включите озвучку или субтитры в ^51 меню опций</russian>
 		<chinese>在选项菜单中开启声音或字幕</chinese>
 		<korean>옵션 메뉴에서 음성이나 부제를 켜십시오</korean>
 		<taiwanese>在選項功能表中切換聲音或字幕設定</taiwanese>
@@ -18050,6 +18075,7 @@ título.</spanish>
 		<polish>Ten poziom jest opcjonalny. Wróć przez ^50, aby wyjść</polish>
 		<portuguese>Este nível é opcional. Voltar através do ^50 para sair</portuguese>
 		<italian>Questo livello è opzionale. Torna indietro attraverso l'uscita ^50</italian>
+		<russian>Это необязательный уровень. Вернитесь ^50 чтобы выйти</russian>
 		<chinese>此关卡为可选游玩。返回到 ^50 来退出</chinese>
 		<korean>이 레벨은 옵션입니다. 나가려면 ^50을 통해서 되돌아가십시오</korean>
 		<taiwanese>此任務為附加內容。返回到 ^50 來退出</taiwanese>
@@ -18065,6 +18091,7 @@ título.</spanish>
 		<polish>Pakiet gier</polish>
 		<portuguese>Pack de Jogo</portuguese>
 		<italian>Pacco Gioco</italian>
+		<russian>Пакет игр</russian>
 		<chinese>游戏包</chinese>
 		<korean>게임 팩</korean>
 		<taiwanese>遊戲包</taiwanese>
@@ -18112,6 +18139,7 @@ título.</spanish>
 		<polish>%d monet do użytku w grze</polish>
 		<portuguese>%d de moedas para uso no jogo</portuguese>
 		<italian>%d monete per l'uso interno al gioco</italian>
+		<russian>%d монеты для внутриигрового использования</russian>
 		<chinese>%d 枚金币可在游戏中使用</chinese>
 		<korean>온라인 게임을 위한 %d개의 동전</korean>
 		<taiwanese>%d 枚金幣可在遊戲中使用</taiwanese>
@@ -18255,6 +18283,7 @@ título.</spanish>
 		<polish>Sterowanie w grze wykryte. Kontrole mogą być dostosowane z menu opcji ^51.</polish>
 		<portuguese>Comando de Jogo detectado. Comandos podem ser optimizados no ^51 menu de opções</portuguese>
 		<italian>Comandi di gioco rilevati. I controlli possono essere personalizzati dal menu opzioni ^51.</italian>
+		<russian>Игровой контроллер обнаружен. Клавиши можно настроить в ^51 Меню опций.</russian>
 		<chinese>检测到游戏控制器。控制选项可在 ^51 选项菜单中进行自定义。</chinese>
 		<korean>게임 조정기를 탐지했습니다. 조정은 ^51옵션 메뉴에서 개인화할 수 있습니다.</korean>
 		<taiwanese>檢測到遊戲控制器。可在 ^51 選項功能表中進行自訂。</taiwanese>
@@ -18270,6 +18299,7 @@ título.</spanish>
 		<polish>Karta menu w lewo</polish>
 		<portuguese>Tab Menu Esquerda</portuguese>
 		<italian>Menu tab sinistra</italian>
+		<russian>Вкалдка меню слево</russian>
 		<chinese>菜单选项卡在左侧</chinese>
 		<korean>메뉴 탭 왼쪽</korean>
 		<taiwanese>功能表選項（左側）</taiwanese>
@@ -18285,6 +18315,7 @@ título.</spanish>
 		<polish>Kartę menu w prawo</polish>
 		<portuguese>Tab Menu Direita</portuguese>
 		<italian>Menu tab destra</italian>
+		<russian>Вкладка меню справа</russian>
 		<chinese>菜单选项卡在右侧</chinese>
 		<korean>메뉴 탭 오른쪽</korean>
 		<taiwanese>功能表選項（右側）</taiwanese>
@@ -18293,13 +18324,14 @@ título.</spanish>
 	<stringentry>
 		<id>STR_CONTROLS_SWITCH_LEFT</id>
 		<translate>true</translate>
-		<english>Switch raindrop (left)</english>
+		<english>лево</english>
 		<french>Changer la goutte (à gauche)</french>
 		<german>Regentropfen wechseln (links)</german>
 		<spanish>Cambia la gota de lluvia (izquierda)</spanish>
 		<polish>Przenieś spadku (z lewej)</polish>
 		<portuguese>Mudar Gota de Água (Esquerda)</portuguese>
 		<italian>Sposta goccia (sinistra)</italian>
+		<russian>Переключите каплю (влево)</russian>
 		<chinese>切换水滴（左侧）</chinese>
 		<korean>빗방울을 전환하기 바랍니다(왼쪽)</korean>
 		<taiwanese>切換水滴（左側）</taiwanese>
@@ -18315,6 +18347,7 @@ título.</spanish>
 		<polish>Przenieś spadku (z prawej)</polish>
 		<portuguese>Mudar Gota de Água (Direita)</portuguese>
 		<italian>Sposta goccia (destra)</italian>
+		<russian>Переключите каплю (вправо)</russian>
 		<chinese>切换水滴（右侧）</chinese>
 		<korean>빗방울을 전환하기 바랍니다(오른쪽)</korean>
 		<taiwanese>切換水滴（右側）</taiwanese>
@@ -18346,7 +18379,7 @@ título.</spanish>
 		<polish>Poziomy Timekeeper zakończone</polish>
 		<portuguese>Níveis de Timekeeper completados</portuguese>
 		<italian>Livelli Cronometrista completati</italian>
-		<russian>Уровней часовщика пройдено</russian>
+		<russian>Уровней хранителя времени пройдено</russian>
 		<chinese>计时器关卡完成</chinese>
 		<korean>타임키퍼 레벨을 완성했습니다</korean>
 		<taiwanese>通過的計時器任務</taiwanese>
@@ -18362,7 +18395,7 @@ título.</spanish>
 		<polish>Poziomy Timekeeper doskonały</polish>
 		<portuguese>Níveis deTimekeeper perfeitos</portuguese>
 		<italian>Livelli Cronometrista perfetti</italian>
-		<russian>Уровней часовщика идеально</russian>
+		<russian>Уровней харнителя времени идеально</russian>
 		<chinese>计时器关卡完美完成</chinese>
 		<korean>타임 키퍼 레벨이 완벽합니다</korean>
 		<taiwanese>完美通過的計時器任務</taiwanese>
@@ -18410,7 +18443,7 @@ título.</spanish>
 		<polish>Inspirujące zen logiczna!</polish>
 		<portuguese>Um encatador jogo de puzzle Zen!</portuguese>
 		<italian>Un incantevole puzzle zen!</italian>
-		<russian>Очаровательная головоломка!</russian>
+		<russian>Чарующая головоломка!</russian>
 		<chinese>一款迷人的禅宗益智游戏！</chinese>
 		<korean>황홀한 zen 퍼즐!</korean>
 		<taiwanese>一款迷人的禪學式益智遊戲！</taiwanese>
@@ -18428,7 +18461,7 @@ título.</spanish>
 		<polish>Inspirujące zen gra logiczna, w stanie sprawdzić swoje umiejętności i zdobyć serce!</polish>
 		<portuguese>Um jogo encantador zen de lógica para testar a tua cabeça e capturar o teu coração!</portuguese>
 		<italian>Un incantevole gioco di logica zen in grado di mettere alla prova le tue capacità e catturare il tuo cuore!</italian>
-		<russian>Очаровательная головоломка, которая проверит ваши мозги и захватит ваше сердце!</russian>
+		<russian>Чарующая головоломка, которая проверит ваши мозги и захватит ваше сердце!</russian>
 		<chinese>一款迷人的禅宗逻辑游戏，测试你的大脑，俘获你的心！</chinese>
 		<korean>논리적인 황홀한 zen게임은 당신의 두뇌를 시험하고 마음을 사로잡을 것입니다!</korean>
 		<taiwanese>一款迷人的禪學式邏輯遊戲，測試您的大腦，俘獲您的心！</taiwanese>
@@ -18514,7 +18547,7 @@ título.</spanish>
 		<polish>Odkryj Timekeeper poziomu</polish>
 		<portuguese>Descobre o nível de Timekeeper</portuguese>
 		<italian>Scopri un livello Cronometrista</italian>
-		<russian>Попадите на уровень часовщика</russian>
+		<russian>Откройте уровень хранителя времени</russian>
 		<chinese>发现一个计时器关卡</chinese>
 		<korean>타임키퍼 레벨을 발견합니다</korean>
 		<taiwanese>發現一個計時器任務</taiwanese>
@@ -18594,6 +18627,7 @@ título.</spanish>
 		<polish>Tylny panel dotykowy jest obecnie wyłączona.</polish>
 		<portuguese>O touchpad de trás está desligado</portuguese>
 		<italian>Il touch pad posteriore è al momento disabilitato.</italian>
+		<russian>Задняя сенсорная панель выключена.</russian>
 		<chinese>背面触摸板当前已禁用。</chinese>
 		<korean>후면 터치패드는 현재 사용할 수 없습니다.</korean>
 		<taiwanese>背面觸碰板目前無法使用。</taiwanese>
@@ -18609,6 +18643,7 @@ título.</spanish>
 		<polish>Tylny panel dotykowy jest aktualnie włączony.</polish>
 		<portuguese>O touchpad de trás está ligado</portuguese>
 		<italian>Il touch pad posteriore è al momento abilitato.</italian>
+		<russian>Задняя сенсорная панель включена.</russian>
 		<chinese>背面触摸板当前已启用。</chinese>
 		<korean>후면 터치패드는 현재 사용 가능합니다.</korean>
 		<taiwanese>背面觸碰板目前已啟用。</taiwanese>
@@ -18801,7 +18836,7 @@ título.</spanish>
 		<polish>Fallen Tree Games strona na Twitterze</polish>
 		<portuguese>Fallen Tree Games página do Twitter</portuguese>
 		<italian>Fallen Tree Games pagina Twitter</italian>
-		<russian>Twitter Fallen Tree Games</russian>
+		<russian>Твиттер Fallen Tree Games</russian>
 		<chinese>Fallen Tree Games twitter</chinese>
 		<korean>Fallen Tree Games twitter</korean>
 		<taiwanese>Fallen Tree Games twitter</taiwanese>
@@ -18843,12 +18878,13 @@ título.</spanish>
 		<id>STR_LEVEL_QM_E1</id>
 		<translate>true</translate>
 		<english>e1</english>
+		<russian>e1</russian>
 	</stringentry>
 	<stringentry>
 		<id>STR_LEVEL_QM_E2</id>
 		<translate>true</translate>
 		<english>Death Row</english>
-		<russian>Мёртвый ряд</russian>
+		<russian>Смертная казнь</russian>
 	</stringentry>
 	<stringentry>
 		<id>STR_LEVEL_QM_E3</id>
@@ -18860,32 +18896,37 @@ título.</spanish>
 		<id>STR_LEVEL_QM_E4</id>
 		<translate>true</translate>
 		<english>e4</english>
+		<russian>e4</russian>
 	</stringentry>
 	<stringentry>
 		<id>STR_LEVEL_QM_E5</id>
 		<translate>true</translate>
 		<english>Golden Elevator</english>
-		<russian>Золотой элеватор</russian>
+		<russian>Золотой лифт</russian>
 	</stringentry>
 	<stringentry>
 		<id>STR_LEVEL_QM_E6</id>
 		<translate>true</translate>
 		<english>e6</english>
+		<russian>e6</russian>
 	</stringentry>
 	<stringentry>
 		<id>STR_LEVEL_QM_E7</id>
 		<translate>true</translate>
 		<english>e7</english>
+		<russian>e7</russian>
 	</stringentry>
 	<stringentry>
 		<id>STR_LEVEL_QM_E8</id>
 		<translate>true</translate>
 		<english>e8</english>
+		<russian>e8</russian>
 	</stringentry>
 	<stringentry>
 		<id>STR_LEVEL_QM_E9</id>
 		<translate>true</translate>
 		<english>e9</english>
+		<russian>e9</russian>
 	</stringentry>
 	<stringentry>
 		<id>STR_LEVEL_QM_E10</id>
@@ -18983,7 +19024,7 @@ título.</spanish>
 		<polish>Logowanie przy pomocy konta Google</polish>
 		<portuguese>A entrar com conta Google</portuguese>
 		<italian>Entrando con Google</italian>
-		<russian>Входим через Google</russian>
+		<russian>Вход через Google</russian>
 		<chinese>正在使用 Google 帐户登录</chinese>
 		<korean>구글 계정에서 사인중입니다</korean>
 		<taiwanese>正在使用 Google 帳戶登入</taiwanese>
@@ -18999,7 +19040,7 @@ título.</spanish>
 		<polish>Wylogywywanie</polish>
 		<portuguese>A sair</portuguese>
 		<italian>Uscendo</italian>
-		<russian>Выходим</russian>
+		<russian>Выход</russian>
 		<chinese>正在注销</chinese>
 		<korean>사인 아웃하는 중</korean>
 		<taiwanese>正在登出</taiwanese>
@@ -19101,6 +19142,7 @@ título.</spanish>
 		<polish>Wykryto kontroler do gry</polish>
 		<portuguese>Comando detectado</portuguese>
 		<italian>Controller di gioco rilevato</italian>
+		<russian>Игровой контроллер обнаружен</russian>
 		<chinese>检测到游戏控制器</chinese>
 		<korean>게임 컨트롤러를 감지했습니다</korean>
 		<taiwanese>檢測到遊戲控制器</taiwanese>
@@ -19116,6 +19158,7 @@ título.</spanish>
 		<polish>Wykryto kontroler Moga Pocket</polish>
 		<portuguese>Comando Moga Pocket detectado</portuguese>
 		<italian>Controller Moga Pocket rilevato</italian>
+		<russian>Контроллер Moga Pocket обнаружен</russian>
 		<chinese>检测到 Moga Pocket 控制器</chinese>
 		<korean>Moga Pocket 컨트롤러가 감지되었습니다</korean>
 		<taiwanese>檢測到 Moga Pocket 控制器</taiwanese>
@@ -19131,6 +19174,7 @@ título.</spanish>
 		<polish>Wykryto kontroler Moga Pro</polish>
 		<portuguese>Comando Moga Pro detectado</portuguese>
 		<italian>Controller Moga Pro rilevato</italian>
+		<russian>Контроллер Moga Pro обнаружен</russian>
 		<chinese>检测到 Moga Pro 控制器</chinese>
 		<korean>Moga Pro 컨트롤러가 감지되었습니다</korean>
 		<taiwanese>檢測到 Moga Pro 控制器</taiwanese>
@@ -19146,6 +19190,7 @@ título.</spanish>
 		<polish>Układ kontrolera</polish>
 		<portuguese>Mapa do Comando</portuguese>
 		<italian>Configurazione Controller</italian>
+		<russian>Клавиши контроллера</russian>
 		<chinese>控制器布局</chinese>
 		<korean>컨트롤러 레이아웃</korean>
 		<taiwanese>控制器佈局</taiwanese>
@@ -19161,6 +19206,7 @@ título.</spanish>
 		<polish>Kontroler</polish>
 		<portuguese>Comando</portuguese>
 		<italian>Controller</italian>
+		<russian>Кнтроллер</russian>
 		<chinese>控制器布局</chinese>
 		<korean>컨트롤러</korean>
 		<taiwanese>控制器</taiwanese>
@@ -19176,7 +19222,7 @@ título.</spanish>
 		<polish>Wykrywacz kamieni</polish>
 		<portuguese>Detector de Joias</portuguese>
 		<italian>Rilevatore di Gioielli</italian>
-		<russian>Детектор бриллиантов</russian>
+		<russian>Обнаруживатель бриллиантов</russian>
 		<chinese>珠宝探测器</chinese>
 		<korean>보석 감지기</korean>
 		<taiwanese>珠寶探測器</taiwanese>
@@ -19192,7 +19238,7 @@ título.</spanish>
 		<polish>Znajdź dowolony kamień, bez konieczności użycia monet!</polish>
 		<portuguese>Descobre qualquer Joia, sem a ajuda de moedas!</portuguese>
 		<italian>Trova qualsiasi gioiello senza l'uso di monete!</italian>
-		<russian>Находите все бриллианты без использования монет!</russian>
+		<russian>Найдите все бриллианты без использования монет!</russian>
 		<chinese>无需使用金币，即可找到任意珠宝！</chinese>
 		<korean>동전을 사용하지 않고 아무 보석이나 찾아보세요!</korean>
 		<taiwanese>無需使用金幣，即可找到珠寶！</taiwanese>
@@ -19208,7 +19254,7 @@ título.</spanish>
 		<polish>Znajdź dowolny kamień, ukryte przejście lub zegary, bez konieczności użycia monet!</polish>
 		<portuguese>Descobre qualquer Joia, portais secretos ou relógios, sem usar moedas!</portuguese>
 		<italian>Trova qualsiasi gioiello, portali segreti o pezzi di tempo senza l'uso di monete!</italian>
-		<russian>Находите все бриллианты, секретные порталы и частицы времени без использования монет!</russian>
+		<russian>Найдите все бриллианты, секретные порталы и частицы времени без использования монет!</russian>
 		<chinese>无需使用金币，即可找到任何珠宝、秘密通道或时间碎片！</chinese>
 		<korean>동전을 사용하지 않고, 보석, 비밀의 포탈 혹은 시간 조각을 찾아보세요!</korean>
 		<taiwanese>無需使用金幣，即可找到珠寶、秘密通道或時間碎片！</taiwanese>
@@ -19272,7 +19318,7 @@ título.</spanish>
 		<polish>Kupiec</polish>
 		<portuguese>Vendedor</portuguese>
 		<italian>Mercante</italian>
-		<russian>Купец</russian>
+		<russian>Торговец</russian>
 		<chinese>商人</chinese>
 		<korean>상점</korean>
 		<taiwanese>商人</taiwanese>
@@ -19304,7 +19350,7 @@ título.</spanish>
 		<polish>Aby go użyć, wybierz dowolony zablokowany poziom.</polish>
 		<portuguese>Para usar isto, basta escolher qualquer nível bloqueado.</portuguese>
 		<italian>Per usarlo, clicca semplicemente su qualsiasi livello o schema bloccato.</italian>
-		<russian>Чтобы использовать его, просто выберите любой заблокированный уровень или стадию.</russian>
+		<russian>Чтобы использовать его, просто выберите любой заблокированный уровень или этап.</russian>
 		<chinese>要使用此道具，只需选择任何已解锁的级别或关卡即可。</chinese>
 		<korean>사용하려면, 잠겨진 단계나 스테이지를 아무거나 선택하세요.</korean>
 		<taiwanese>要使用此道具，只需選擇任何已解鎖的級別或關卡即可。</taiwanese>
@@ -19320,7 +19366,7 @@ título.</spanish>
 		<polish>Aby go użyciś, wybierz dowolony zablokowany poziom, etap lub rozdział.</polish>
 		<portuguese>Para usar isto, basta escolher qualquer nível ou capitulo bloqueado.</portuguese>
 		<italian>Per usarlo, seleziona semplicemente qualsiasi livello, schema o capitolo bloccato.</italian>
-		<russian>Чтобы использовать его, просто выберите любой заблокированный уровень, стадию или главу.</russian>
+		<russian>Чтобы использовать его, просто выберите любой заблокированный уровень, этап или главу.</russian>
 		<chinese>要使用此道具，只需人则任何已解锁的级别、关卡或章节。</chinese>
 		<korean>사용하려면, 잠겨진 단계, 스테이지 혹은 챕터의 아무거나 선택하세요.</korean>
 		<taiwanese>要使用此道具，只需選擇任何已解鎖的級別、關卡或章節。</taiwanese>
@@ -19336,6 +19382,7 @@ título.</spanish>
 		<polish>Aby go użyć w trakcie gry, wybierz ^52 menu Pomoc.</polish>
 		<portuguese>Para usar isto durante um puzzle, prime o ^52 menu de Ajuda.</portuguese>
 		<italian>Per usarlo mentre risolvi un puzzle, seleziona il ^52 del menu Aiuto.</italian>
+		<russian>Используй это при затруднении, выбери ^52 Меню помощи.</russian>
 		<chinese>要在解谜题过程中使用此道具，请选择 ^52 “帮助”菜单。</chinese>
 		<korean>퍼즐 시 사용하려면, ^52 도움말을 선택하세요.</korean>
 		<taiwanese>要在解謎題過程中使用此道具，請選擇 ^52 “説明”選單。</taiwanese>
@@ -19351,6 +19398,7 @@ título.</spanish>
 		<polish>Aby go użyć w trakcie gry, wybierz ^52 menu Pomoc. Wszystkie ukryte przedmioty zostaną wymienione w zakładce rozwiązania.</polish>
 		<portuguese>Para usar isto durante um puzzle, escolhe o ^52 menu de Ajuda. Todos os objectos escondidos serão listados no separador das soluções.</portuguese>
 		<italian>Per usarlo mentre risolvi un puzzle, seleziona il ^52 del menu Aiuto. Qualsiasi oggetto nascosto verrà mostrato nella tabella delle soluzioni.</italian>
+		<russian>Используй это при затруднении, выбери ^52 Меню помощи. Все спрятанные предметы появятся в таблице решений.</russian>
 		<chinese>要在解谜题过程中使用此道具，请选择 ^52 “帮助”菜单。解决方案选项卡下将列出所有隐藏对象。</chinese>
 		<korean>퍼즐 시 사용하려면, ^52 도움말을 선택하세요. 모든 숨겨진 사물이 솔루션 탭에 나열될 것입니다.</korean>
 		<taiwanese>要在解謎題過程中使用此道具，請選擇 ^52 “説明”選單。解決方案選項卡下將列出所有隱藏物件。</taiwanese>
@@ -19654,6 +19702,7 @@ título.</spanish>
 		<polish>Ruchy</polish>
 		<portuguese>Movimentos</portuguese>
 		<italian>Mosse</italian>
+		<russian>Ходы</russian>
 		<chinese>步数</chinese>
 		<korean>이동</korean>
 		<taiwanese>步數</taiwanese>
@@ -19669,6 +19718,7 @@ título.</spanish>
 		<polish>Doskonały</polish>
 		<portuguese>Perfeito</portuguese>
 		<italian>Perfetto</italian>
+		<russian>Идеальные</russian>
 		<chinese>完美</chinese>
 		<korean>완벽한</korean>
 		<taiwanese>完美</taiwanese>
@@ -19684,6 +19734,7 @@ título.</spanish>
 		<polish>Aby przesunąć kroplę deszczu  ^00, należy przeciągnąć myszkę (obsługiwane są też klawiatura i gamepad)</polish>
 		<portuguese>Para mover a gota da chuva ^00 arrastar o rato (teclado / comando também pode ser utilizado)</portuguese>
 		<italian>Per spostare la goccia numero ^00, muovi il mouse (tastiera / anche il gamepad è supportato)</italian>
+		<russian>Чтобы сдвинуть каплю ^00 используйте мышь, клавиатуру или геймпад</russian>
 		<chinese>将水滴^00移动到指定位置</chinese>
 		<korean>빗방울^00을 이동시키기위해 마우스로 드래그하세요 (키보드 / 게임패드로도 이동시킬 수 있습니다)</korean>
 		<taiwanese>將水滴^00移動到指定位置</taiwanese>
@@ -19749,7 +19800,7 @@ título.</spanish>
 		<id>STR_LEVEL_CANDY_2</id>
 		<translate>true</translate>
 		<english>Candy Wrap</english>
-		<russian>Обёртка от конфеты</russian>
+		<russian>Обёртка</russian>
 		<chinese>糖果包装</chinese>
 		<taiwanese>糖果包裝</taiwanese>
 	</stringentry>
@@ -19805,7 +19856,7 @@ título.</spanish>
 		<id>STR_LEVEL_CANDY_9</id>
 		<translate>true</translate>
 		<english>Heartfelt Reunion</english>
-		<russian>Объедение прочувствованных</russian>
+		<russian>Воссоединение</russian>
 		<chinese>衷心团聚</chinese>
 		<taiwanese>團聚</taiwanese>
 	</stringentry>
@@ -19821,6 +19872,7 @@ título.</spanish>
 		<id>STR_LEVEL_CANDY_11</id>
 		<translate>true</translate>
 		<english>Sixpack</english>
+		<russian>Упаковка</russian>
 		<chinese>一打</chinese>
 		<taiwanese>一打</taiwanese>
 	</stringentry>
@@ -19868,7 +19920,7 @@ título.</spanish>
 		<id>STR_LEVEL_CANDY_17</id>
 		<translate>true</translate>
 		<english>Right of Way</english>
-		<russian>Полоса отчуждения</russian>
+		<russian>Проезд разрешён</russian>
 		<chinese>可通行</chinese>
 		<taiwanese>可通過</taiwanese>
 	</stringentry>
@@ -19908,7 +19960,7 @@ título.</spanish>
 		<id>STR_LEVEL_CANDY_22</id>
 		<translate>true</translate>
 		<english>Spikefest</english>
-		<russian>Фестиваль шипов</russian>
+		<russian>Шипфест</russian>
 		<chinese>穗节</chinese>
 		<taiwanese>稻穗節</taiwanese>
 	</stringentry>
@@ -19980,6 +20032,7 @@ título.</spanish>
 		<id>STR_CANDY_TIER_1</id>
 		<translate>true</translate>
 		<english>Eye Candy</english>
+		<russian>Как конфетка</russian>
 		<chinese>虚有其表</chinese>
 		<taiwanese>虛有其表</taiwanese>
 	</stringentry>
@@ -19987,6 +20040,7 @@ título.</spanish>
 		<id>STR_CANDY_TIER_2</id>
 		<translate>true</translate>
 		<english>Sugar Coated</english>
+		<russian>В глазури</russian>
 		<chinese>糖衣</chinese>
 		<taiwanese>糖衣</taiwanese>
 	</stringentry>
@@ -19994,6 +20048,7 @@ título.</spanish>
 		<id>STR_TUTORIAL_MATCH3</id>
 		<translate>true</translate>
 		<english>Match 3 of each candy in a row to complete the level</english>
+		<russian>Собери 3 одинаковые конфеты вместе, чтобы завершить уровень</russian>
 		<chinese>在一行里收集指定的各种糖果3个完成目标等级</chinese>
 		<taiwanese>在一行中收集3個各種指定的糖果達成目標等級。</taiwanese>
 	</stringentry>
@@ -20001,6 +20056,7 @@ título.</spanish>
 		<id>STR_OBJECTIVE_MATCH3</id>
 		<translate>true</translate>
 		<english>Match 3 or more of each candy in a row</english>
+		<russian>Собери 3 или более конфет подряд</russian>
 		<chinese>在一行里收集指定的3个以上的各种糖果</chinese>
 		<taiwanese>在一行中收集3個各種指定的糖果。</taiwanese>
 	</stringentry>
@@ -20036,6 +20092,7 @@ título.</spanish>
 		<id>STR_CLUE_CANDY_8</id>
 		<translate>true</translate>
 		<english>Use the candy to avoid hitting the spikes.</english>
+		<russian>Используй конфету, чтобы избежать шипов</russian>
 		<chinese>使用糖果避免撞到钉子。</chinese>
 		<taiwanese>使用糖果來避免撞到釘子。</taiwanese>
 	</stringentry>
@@ -20085,6 +20142,7 @@ título.</spanish>
 		<id>STR_CLUE_CANDY_PATH</id>
 		<translate>true</translate>
 		<english>Clear the path so that the single candy can be pushed to the others.</english>
+		<russian>Расчисти путь, чтобы одна конфета могла столкнутся с остальными</russian>
 		<chinese>清除道路，让单独的糖果可以被推入其它地方。</chinese>
 		<taiwanese>清除道路，讓孤立的糖果可以被推向其它地方。</taiwanese>
 	</stringentry>
@@ -20098,6 +20156,7 @@ título.</spanish>
 		<polish>Wyświetlacz</polish>
 		<portuguese>Exibir</portuguese>
 		<italian>Display</italian>
+		<russian>Экран</russian>
 		<chinese>显示</chinese>
 		<korean>표시</korean>
 		<taiwanese>顯示</taiwanese>
@@ -20223,6 +20282,7 @@ título.</spanish>
 		<polish>Przywróć</polish>
 		<portuguese>Desfazer</portuguese>
 		<italian>Annulla</italian>
+		<russian>Отмена</russian>
 		<chinese>撤销</chinese>
 		<korean>되돌리기</korean>
 		<taiwanese>撤銷</taiwanese>
