@@ -350,7 +350,7 @@
 		<polish>Etap wyboru</polish>
 		<portuguese>Selec.Cenário</portuguese>
 		<italian>Scegli schema</italian>
-		<russian>Выберите раздел</russian>
+		<russian>Выберите этап</russian>
 		<chinese>选择关卡</chinese>
 		<korean>스테이지 선택</korean>
 		<taiwanese>選擇關卡</taiwanese>
@@ -382,7 +382,7 @@
 		<polish>Przejdź poprzedni etap, aby odblokować</polish>
 		<portuguese>Termine o cenário ant. p/desbloq.</portuguese>
 		<italian>Sblocca completando il precedente</italian>
-		<russian>Завершите предыдущий раздел, чтобы раблокировать</russian>
+		<russian>Завершите предыдущий раздел, чтобы открыть</russian>
 		<chinese>完成之前的关卡解锁</chinese>
 		<korean>이전 스테이지를 완료하면 해제됩니다</korean>
 		<taiwanese>必須先通過先前的關卡</taiwanese>
@@ -662,7 +662,7 @@
 		<polish>Uzyskane wskazówki ^09</polish>
 		<portuguese>Ganhou uma pista ^09</portuguese>
 		<italian>Aiuto ottenuto ^09</italian>
-		<russian>Монета заработана ^09</russian>
+		<russian>Заработана монета ^09</russian>
 		<chinese>提示奖励 ^09</chinese>
 		<korean>힌트 획득 ^09</korean>
 		<taiwanese>獎勵點數^09</taiwanese>
@@ -1177,7 +1177,7 @@
 		<polish>Przywróć ustawienia domyślne</polish>
 		<portuguese>Repor predefinições</portuguese>
 		<italian>Imp. Predefinite</italian>
-		<russian>Установить по умолчанию</russian>
+		<russian>Сбросить настройки</russian>
 		<chinese>恢复默认设置</chinese>
 		<korean>초기화</korean>
 		<taiwanese>回復預設值</taiwanese>
@@ -1466,7 +1466,7 @@
 		<polish>Odblokuj rozwiązania</polish>
 		<portuguese>Solução desbloq.</portuguese>
 		<italian>Sblocca soluzione</italian>
-		<russian>Разблокировать решение</russian>
+		<russian>Открыть решение</russian>
 		<chinese>解锁指引</chinese>
 		<korean>해결방법 보기</korean>
 		<taiwanese>已開啟的提示</taiwanese>
@@ -3770,7 +3770,7 @@
 		<polish>Nakłuj zatrute krople</polish>
 		<portuguese>Furar uma gota com veneno</portuguese>
 		<italian>Pungi una goccia avvelenata</italian>
-		<russian>Уколите отравленную каплю</russian>
+		<russian>Проткните отравленную каплю</russian>
 		<chinese>消灭一滴危险水滴</chinese>
 		<korean>중독된 물방울 가시에 터뜨리기</korean>
 		<taiwanese>刺破有毒的水滴</taiwanese>
@@ -3866,7 +3866,7 @@
 		<polish>Poświęć kroplę, aby kontynuować</polish>
 		<portuguese>Sacrificar uma gota para continuar</portuguese>
 		<italian>Sacrifica una goccia per continuare</italian>
-		<russian>Пожертвуйте каплей, чтобы продолжить</russian>
+		<russian>Пожертвуйте каплей, чтобы пройти уровень</russian>
 		<chinese>以牺牲一个水滴为代价过关</chinese>
 		<korean>물방울 희생하여 게임 이어가기</korean>
 		<taiwanese>讓一顆水滴英勇犧牲</taiwanese>
@@ -3898,7 +3898,7 @@
 		<polish>Zatruj 2 krople, aby kontynuować</polish>
 		<portuguese>Envenenar 2 gotas para continuar</portuguese>
 		<italian>Avvelena 2 gocce per continuare</italian>
-		<russian>Отравите 2 капли, чтобы продолжить</russian>
+		<russian>Отравите 2 капли, чтобы пройти уровень</russian>
 		<chinese>让两颗水滴中毒为代价过关</chinese>
 		<korean>2개의 물방울을 중독시켜 게임 이어가기</korean>
 		<taiwanese>讓兩顆水滴中毒</taiwanese>
@@ -3994,7 +3994,7 @@
 		<polish>Owiń krawędź %d razy</polish>
 		<portuguese>Embrulhar à volta da extremidade %d vezes</portuguese>
 		<italian>Esci dai bordi %d volte</italian>
-		<russian>Проскочи край %d раз</russian>
+		<russian>Проскочите край %d раз</russian>
 		<chinese>穿越边界 %d 次</chinese>
 		<korean>경계선을 %d 번 닫기</korean>
 		<taiwanese>穿越邊境%d次</taiwanese>
@@ -4042,7 +4042,7 @@
 		<polish>Szybka odpowiedź</polish>
 		<portuguese>Resposta rápida</portuguese>
 		<italian>Riflessi pronti</italian>
-		<russian>Быстрый ответ</russian>
+		<russian>Быстрый разум</russian>
 		<chinese>反应敏捷</chinese>
 		<korean>민첩한 두뇌</korean>
 		<taiwanese>快速解答</taiwanese>
@@ -4106,7 +4106,7 @@
 		<polish>Krople deszczu nie mogą zmieniać kierunku podczas ruchu ^00</polish>
 		<portuguese>A gota ñ pode mudar de direção enquanto em movimento ^00</portuguese>
 		<italian>La goccia non può cambiare direzione finché si muove ^00</italian>
-		<russian>^00 не может менять направления во время движения</russian>
+		<russian>^00 не может менять направление во время движения</russian>
 		<chinese>水滴 ^00在移动中不能改变方向</chinese>
 		<korean>빗방울은 이동 중에 방향을 바꿀 수 없습니다 ^00</korean>
 		<taiwanese>水滴在移動時無法改變方向 ^00</taiwanese>
@@ -4412,7 +4412,7 @@
 		<polish>Czasami dobrze mieć towarzystwo</polish>
 		<portuguese>Por vezes é bom ter uma companhia</portuguese>
 		<italian>A volte fa comodo avere compagnia</italian>
-		<russian>Иногда здорово иметь помошника</russian>
+		<russian>Иногда здорово иметь помощника</russian>
 		<chinese>有时候有个同伴挺好的</chinese>
 		<korean>가끔 친구가 있는 것도 좋습니다</korean>
 		<taiwanese>有時候，有個同伴是令人開心的</taiwanese>
@@ -4444,7 +4444,7 @@
 		<polish>Pamiętaj, że tył i boki kolców nie są niebezpieczne ^03</polish>
 		<portuguese>Lembre-se que as partes laterais e traseira das estacas são inofensivas ^03</portuguese>
 		<italian>Ricorda che il retro e i lati delle punte sono innocui ^03</italian>
-		<russian>Помните, что сзади по бокам шипы безвредны ^03</russian>
+		<russian>Помните, что сзади и по бокам шипы безвредны ^03</russian>
 		<chinese>记住钉子的背部和旁边是无害的 ^03</chinese>
 		<korean>기억하세요 가시의 뒤와 옆은 안전합니다 ^03</korean>
 		<taiwanese>別忘了釘子的側邊和背面不會造成傷害 ^03</taiwanese>
@@ -5421,7 +5421,7 @@
 		<polish>Pojawił się problem</polish>
 		<portuguese>Ponto de Incómodo</portuguese>
 		<italian>Disturbo</italian>
-		<russian>Точка скуки</russian>
+		<russian>Неприятности</russian>
 		<chinese>小麻烦</chinese>
 		<korean>가려운 곳</korean>
 		<taiwanese>一點小麻煩</taiwanese>
@@ -5517,7 +5517,7 @@
 		<polish>Blaski</polish>
 		<portuguese>Tudo o que brilha</portuguese>
 		<italian>Tutto ciò che brilla</italian>
-		<russian>Все, что блестит</russian>
+		<russian>Не все то золото, что блестит</russian>
 		<chinese>金玉其外</chinese>
 		<korean>반짝반짝</korean>
 		<taiwanese>金玉在外</taiwanese>
@@ -5613,7 +5613,7 @@
 		<polish>Ostry wzrok</polish>
 		<portuguese>Olhar com Atenção</portuguese>
 		<italian>Furbizia</italian>
-		<russian>Поторопись</russian>
+		<russian>Смотри в оба</russian>
 		<chinese>特别留神</chinese>
 		<korean>주의</korean>
 		<taiwanese>目光犀利</taiwanese>
@@ -5789,7 +5789,7 @@
 		<polish>Zła stopa</polish>
 		<portuguese>Pé Errado</portuguese>
 		<italian>Passo falso</italian>
-		<russian>Не с той нога</russian>
+		<russian>Не с той ноги</russian>
 		<chinese>措手不及</chinese>
 		<korean>기습 공격</korean>
 		<taiwanese>出師不利</taiwanese>
@@ -6461,7 +6461,7 @@
 		<polish>9 do 5</polish>
 		<portuguese>9 às 5</portuguese>
 		<italian>Dal 9 al 5</italian>
-		<russian>От 9 до 5</russian>
+		<russian>С 9 до 5</russian>
 		<chinese>朝九晚五</chinese>
 		<korean>9에서 5</korean>
 		<taiwanese>朝九晚五</taiwanese>
@@ -6509,7 +6509,7 @@
 		<polish>Szczebel</polish>
 		<portuguese>Ponto de Partida</portuguese>
 		<italian>Guado</italian>
-		<russian>Мостовой камень</russian>
+		<russian>Ступенька</russian>
 		<chinese>垫脚石</chinese>
 		<korean>돌 계단</korean>
 		<taiwanese>墊腳石</taiwanese>
@@ -6541,7 +6541,7 @@
 		<polish>Koniec więzienia</polish>
 		<portuguese>Período de Prisão</portuguese>
 		<italian>Detenzione</italian>
-		<russian>Тюремные срок</russian>
+		<russian>Тюремный срок</russian>
 		<chinese>刑期</chinese>
 		<korean>혈기</korean>
 		<taiwanese>有期徒刑</taiwanese>
@@ -6743,7 +6743,7 @@
 		<polish>Dobry wynik</polish>
 		<portuguese>Bom Momento</portuguese>
 		<italian>Tempismo</italian>
-		<russian>Хорошая координация</russian>
+		<russian>Удачное время</russian>
 		<chinese>好时机</chinese>
 		<korean>굿 타이밍</korean>
 		<taiwanese>好機會</taiwanese>
@@ -7111,7 +7111,7 @@
 		<polish>Wycieczka</polish>
 		<portuguese>Dia do Campo</portuguese>
 		<italian>Gran giorno</italian>
-		<russian>Смаковать</russian>
+		<russian>Счастливый день</russian>
 		<chinese>户外运动</chinese>
 		<korean>야외 활동</korean>
 		<taiwanese>大顯身手</taiwanese>
@@ -7175,7 +7175,7 @@
 		<polish>Dotępny na rynku</polish>
 		<portuguese>Troca Justa</portuguese>
 		<italian>Giustizia</italian>
-		<russian>Справедливая длоя</russian>
+		<russian>Справедливая доля</russian>
 		<chinese>公平分配</chinese>
 		<korean>공평한 분배</korean>
 		<taiwanese>香檳塔</taiwanese>
@@ -7945,7 +7945,7 @@
 		<id>STR_TIER1</id>
 		<translate>false</translate>
 		<english>1928</english>
-		<chinese>1982</chinese>
+		<chinese>1928</chinese>
 		<korean>1928</korean>
 		<japanese>1928</japanese>
 	</stringentry>
@@ -8120,7 +8120,7 @@
 		<polish>Uzyskaj ^09 monet przechodząc poziomy perfekcyjnymi ruchami</polish>
 		<portuguese>Ganhe ^09 moedas concluindo os níveis em jogadas perfeitas</portuguese>
 		<italian>Ottieni ^09 monete completando i livelli con il numero di mosse indicato tra parentesi</italian>
-		<russian>Заработайте ^09 монут идеально завершая уровни</russian>
+		<russian>Заработайте ^09 монет, идеально завершая уровни</russian>
 		<chinese>通过完美通关完成关卡来赚取金币^09</chinese>
 		<korean>^09 코인은 퍼펙트로 게임을 완료하면 획득할 수 있습니다</korean>
 		<taiwanese>完美通過任務將可以賺取^09金幣</taiwanese>
@@ -8136,7 +8136,7 @@
 		<polish>Jeśli poziom jest trudny, ^09 monet można wykorzystać dla uzyskania wskazówki na temat rozwiązania</polish>
 		<portuguese>Se um nível for traiçoeiro, ^09 moedas podem ser utilizadas para descobrir a solução</portuguese>
 		<italian>Se un livello è difficile, puoi comprare un aiuto per ^09 monete</italian>
-		<russian>Если уровень сложный, то монеты можно использовать ^09, чтобы купить решение</russian>
+		<russian>Если уровень сложный, то можно использовать монеты ^09, чтобы купить решение</russian>
 		<chinese>如果某一关无法通过，可以用金币^09 获取提示</chinese>
 		<korean>게임 레벨이 어려울 때는, ^09 코인을 사용하여 힌트를 확인 할 수 있습니다</korean>
 		<taiwanese>如果任務太過困難，^09金幣可以用來開啟提示</taiwanese>
@@ -8328,7 +8328,7 @@
 		<polish>... chociaż 'Doodle Quell' nie był jednym z nich</polish>
 		<portuguese>...apesar do "Doodle Quell" ñ ser um deles! No entanto, finalmente reunimos a n/equipa.</portuguese>
 		<italian>Ma lo "Scarabocchio Quell" non ci assomigliava molto! Infine, creammo l'aspetto definitivo.</italian>
-		<russian>…хотя 'Doodle Quell' не один из них! Nем не менее, наши роли были распределены.</russian>
+		<russian>…хотя 'Doodle Quell' не один из них! Тем не менее, наши роли были распределены.</russian>
 		<chinese>我们最初的设想很多！但最后，我们终于决定了使用这个创意。</chinese>
 		<korean>...비록 'Doodle Quell' 은 이런 종류가 아니지만요! 그러나, 결국 이렇게 멋진 테마를 완성하였습니다.</korean>
 		<taiwanese>...雖然'Doodle Quell'並不能算是其中一個成員，但我們終於確定了我們的內容。</taiwanese>
@@ -8344,7 +8344,7 @@
 		<polish>Podczas opracowywania puzli, sprawdzane był różne style graficzne</polish>
 		<portuguese>Enquanto os puzzles foram desenvolvidos, foram testados diferentes estilos de arte.</portuguese>
 		<italian>Sperimentammo molti stili artistici mentre ideavamo i rompicapi.</italian>
-		<russian>Пока пазлы придумывались, различные художественные стили пробовались.</russian>
+		<russian>Пока пазлы придумывались, пробовались различные художественные стили.</russian>
 		<chinese>我们在制作谜题的时候，选用了几个不同的艺术风格进行测试......</chinese>
 		<korean>퍼즐을 수정하면서, 다양한 스타일을 테스트하였습니다.</korean>
 		<taiwanese>在設計謎題的同時，我們也測試了許多種不同的風格。</taiwanese>
@@ -8360,7 +8360,7 @@
 		<polish>Zmiana stylu grafiki innych elementów krajobrazu zabrałaby dużo więcej czasu.</polish>
 		<portuguese>Iria demorar muito tempo a definir o estilo visual dos outros elementos do cenário.</portuguese>
 		<italian>Ci è voluto molto tempo per trovare lo stile adatto per gli altri elementi di gioco.</italian>
-		<russian>Труднее всего было выбрать визуальный стиль для окружающх элементов.</russian>
+		<russian>Труднее всего было выбрать визуальный стиль для окружающих элементов.</russian>
 		<chinese>制订其他场景的艺术风格需要更长时间。</chinese>
 		<korean>다른 화면 요소를 스타일을 적용하는 것은 매우 오랜 작업시간이 필요했습니다.</korean>
 		<taiwanese>這將會花上更長的時間來抉擇最後的風格跟視覺元素。</taiwanese>
@@ -8393,7 +8393,7 @@
 		<polish>Mamy nadzieję, że Quell będzie bawił dalej. Dziękujemy za pomoc! - Fallen Tree Games</polish>
 		<portuguese>Esperamos que continue a desfrutar do Quell. Obrigado pelo seu apoio! - Fallen Tree Games</portuguese>
 		<italian>Speriamo che Quell continui a piacerti. Grazie per il sostegno! -Fallen Tree Games</italian>
-		<russian>Мы надеемся, что продолжаете наслаждаться Quell! Спасибо за вашу поддержку! - Fallen Tree Games</russian>
+		<russian>Мы надеемся, что вы продолжаете наслаждаться Quell! Спасибо за вашу поддержку! - Fallen Tree Games</russian>
 		<chinese>我们希望你可以继续喜欢水滴系列。感谢您的支持！  Fallen Tree Games</chinese>
 		<korean>Quell 을 계속 재밌게 하시길 바랍니다. 감사합니다! - Fallen Tree Games</korean>
 		<taiwanese>我們希望您喜歡Quell。謝謝您的支持! - Fallen Tree Games</taiwanese>
@@ -8410,7 +8410,7 @@
 		<polish>Ta historia pomogła zmienić zarówno wygląd gry, jak i muzykę (skomponowana przez Stevena Cravisa.</polish>
 		<portuguese>Esta história anterior ajudou a criar o design da interface e a música (pelo compositor Steven Cravis).</portuguese>
 		<italian>Questi retroscena hanno influito sull'estetica dell'interfaccia e sulla musica del compositore Steven Cravis.</italian>
-		<russian>Эта предыстория повлияла на дизайн интерфейса и саудтрек(композитора Стивена Крэвиса</russian>
+		<russian>Эта предыстория повлияла на дизайн интерфейса и саудтрек (композитора Стивена Крэвиса).</russian>
 		<chinese>背景故事还影响了游戏的界面设计和配乐 （来自composer Steven Cravis）</chinese>
 		<korean>이 배경은 인터페이스 디자인과 사운드 트랙에 많은 영감을 주었습니다 (작곡가 Steven Cravis)</korean>
 		<taiwanese>這些背景故事同時也影響了介面設計和由 Steven Cravis所製作的音樂</taiwanese>
@@ -8490,7 +8490,7 @@
 		<polish>Pod pozorną prostotą kryje się złożony świat.</polish>
 		<portuguese>Por baixo desta simples jogabilidade, esconde-se um mundo de complexidade!</portuguese>
 		<italian>La meccanica di gioco semplice cela un mondo di complessità!</italian>
-		<russian>Под этим простым геймплеем скрывается полный головоломок мир!</russian>
+		<russian>Под этим простым геймплеем скрывается полный мир головоломок!</russian>
 		<chinese>这个简单的游戏下面存在着一个复杂的世界！</chinese>
 		<korean>이 세상의 복잡한 일들이 이 간단한 게임에서 쉽게 표현되고 있습니다.</korean>
 		<taiwanese>這是一個在複雜世界裡的簡單遊戲!</taiwanese>
@@ -8506,7 +8506,7 @@
 		<polish>Wygląd Quell jest przyjemny, kojący, co czyni przyjemnym jej odkrywanie</polish>
 		<portuguese>O interesse do Quell assenta na sua capacidade tranquilizante e pacífica, que o torna numa excelente forma de relaxar.</portuguese>
 		<italian>Quell incanta con l'atmosfera delicata e suadente che lo rende ideale per un momento di relax.</italian>
-		<russian>Привлекательность Quell заключается в легкости, успокаивающй атмосфере и увлекательном игровой процессе.</russian>
+		<russian>Привлекательность Quell заключается в легкости, успокаивающей атмосфере и увлекательном игровой процессе.</russian>
 		<chinese>水滴记忆的目的是希望玩家在游戏过程中获得轻松和愉悦，这是一个放松的好方法。</chinese>
 		<korean>Quell 의 매력은 간편하고, 마음을 편하게 하고, 긴장을 풀어주는 게임이라는 것입니다.</korean>
 		<taiwanese>Quell的魅力在於它的溫和感，能緩和情緒，是一個放鬆心情的好方法。</taiwanese>
@@ -8522,7 +8522,7 @@
 		<polish>Cechy:</polish>
 		<portuguese>Funcionalidades:</portuguese>
 		<italian>Aspetti:</italian>
-		<russian>Ключеые особенности:</russian>
+		<russian>Ключевые особенности:</russian>
 		<chinese>特征：</chinese>
 		<korean>게임 특징:</korean>
 		<taiwanese>特點:</taiwanese>
@@ -9287,7 +9287,7 @@
 		<polish>Klejnoty</polish>
 		<portuguese>Jóias</portuguese>
 		<italian>Gioielli</italian>
-		<russian>Блиллианты</russian>
+		<russian>Бриллианты</russian>
 		<chinese>珠宝</chinese>
 		<korean>보석류</korean>
 		<taiwanese>珠寶</taiwanese>
@@ -9399,7 +9399,7 @@
 		<polish>Znalezione klejnoty</polish>
 		<portuguese>Jóias encontradas</portuguese>
 		<italian>Gioielli trovati</italian>
-		<russian>Блиллиантов собрано</russian>
+		<russian>Бриллиантов собрано</russian>
 		<chinese>已找到珠宝</chinese>
 		<korean>발견한 보석</korean>
 		<taiwanese>已找到珠寶</taiwanese>
@@ -9687,7 +9687,7 @@
 		<polish>Zakup</polish>
 		<portuguese>Comprar</portuguese>
 		<italian>Acquisto</italian>
-		<russian>Приобрести</russian>
+		<russian>Купить</russian>
 		<chinese>购买</chinese>
 		<korean>구매</korean>
 		<taiwanese>購買</taiwanese>
@@ -10310,7 +10310,7 @@
 		<polish>Zagraj w dowolny poziom, nawet jeżeli jest zablokowany. Można stosować dowolną ilość razy!</polish>
 		<portuguese>Joga qualquer nível, mesmo que esteja bloqueado. Pode ser usado as vezes que quiseres!</portuguese>
 		<italian>Ti permette di giocare ogni livello, anche se bloccato. Può essere usata quante volte vuoi!</italian>
-		<russian>Играйте на любом уровне, даже он заблокирован. Можно использовать столько раз сколько захотите!</russian>
+		<russian>Играйте на любом уровне, даже если он заблокирован. Можно использовать столько раз сколько захотите!</russian>
 		<chinese>玩任何级别游戏，即便已锁定的级别。只要你愿意就可以无限使用！</chinese>
 		<korean>잠겨져 있더라도 아무 단계나 시도해 보세요. 원하시는 만큼 사용이 가능합니다!</korean>
 		<taiwanese>可以玩任何任務，即使該任務尚未解鎖。只要你願意就可以無限使用！</taiwanese>
@@ -10326,7 +10326,7 @@
 		<polish>Użyć klawisza kościotrupa do odblokowania etapu?</polish>
 		<portuguese>Usa a chave-mestra para desbloquear o nível?</portuguese>
 		<italian>Usa la chiave scheletro per sbloccare il livello?</italian>
-		<russian>Использовать ключ от всех дверей, чтобы разблокировать стадию?</russian>
+		<russian>Использовать ключ от всех дверей, чтобы разблокировать этап?</russian>
 		<chinese>使用万能钥匙解锁关卡吗？</chinese>
 		<korean>단계를 열기 위해 만능키를 사용하시겠습니까?</korean>
 		<taiwanese>是否要使用萬能鑰匙解鎖關卡？</taiwanese>
@@ -10406,7 +10406,7 @@
 		<polish>Zamień wszystkie żarówki na niebieskie pola przy użyciu kropli</polish>
 		<portuguese>Liga todas as lâmpadas para azul usando a gota da chuva</portuguese>
 		<italian>Fai diventare tutte le lampadine blu utilizzando la goccia</italian>
-		<russian>Переключите все лампы ^32 используя ^00</russian>
+		<russian>Переключите все лампы ^32, используя ^00</russian>
 		<chinese>使用水滴^00将所有灯泡点亮成蓝色^32</chinese>
 		<korean>빗방울을 이용하여 모든 조명전구를 청색으로 변화시킵니다</korean>
 		<taiwanese>使用水滴將所有燈泡點亮成藍色</taiwanese>
@@ -10422,7 +10422,7 @@
 		<polish>Zamień wszystkie żarówki na niebieskie pola przy użyciu kropli</polish>
 		<portuguese>Liga todas as lâmpadas para azul usando a gota da chuva</portuguese>
 		<italian>Fai diventare tutte le lampadine blu utilizzando la goccia</italian>
-		<russian>Перекючите все лампы ^32 используя ^00</russian>
+		<russian>Переключите все лампы ^32, используя ^00</russian>
 		<chinese>使用水滴^00将所有灯泡点亮成蓝色^32</chinese>
 		<korean>빗방울을 이용하여 모든 조명전구를 청색으로 변화시킵니다</korean>
 		<taiwanese>使用水滴將所有燈泡點亮成藍色</taiwanese>
@@ -10966,7 +10966,7 @@
 		<polish>Zamrożenie</polish>
 		<portuguese>Descongelar</portuguese>
 		<italian>Escluso</italian>
-		<russian>Избавиться</russian>
+		<russian>Игнорирование</russian>
 		<chinese>排挤</chinese>
 		<korean>프리즈 아웃</korean>
 		<taiwanese>排擠</taiwanese>
@@ -12603,7 +12603,7 @@
 		<polish>Słodziak</polish>
 		<portuguese>Todos Hertz</portuguese>
 		<italian>Everybody Hertz</italian>
-		<russian>Everybody Hertz</russian>
+		<russian>Каждый герц</russian>
 		<chinese>人人赫兹</chinese>
 		<korean>에브리바디 헤르츠</korean>
 		<taiwanese>人人赫茲</taiwanese>
@@ -13800,7 +13800,7 @@
 		<polish>Aby odblokować ten poziom, musisz ukończyć poprzednie poziomy.</polish>
 		<portuguese>Para desbloquear este nível, completa as etapas anteriores.</portuguese>
 		<italian>Per sbloccare questo livello, completa i livelli precedenti.</italian>
-		<russian>Чтобы разблокировать этот этап, завершите предыдущие стадии.</russian>
+		<russian>Чтобы разблокировать этот этап, завершите предыдущие.</russian>
 		<chinese>要解锁此关卡，\n请完成之前的关卡。</chinese>
 		<korean>이 단계를 열기위해서, 이전 단계를 완성하세요.</korean>
 		<taiwanese>要解鎖此關卡，請完成之前的關卡。</taiwanese>
@@ -13816,7 +13816,7 @@
 		<polish>Aby odblokować tę część, musisz ukończyć poprzednie części.</polish>
 		<portuguese>Para desbloquear este capítulo, completa os capítulos anteriores.</portuguese>
 		<italian>Per sbloccare questo capitolo, completa i capitoli precedenti.</italian>
-		<russian>Чтобы разблокировать эту главу, завершите предыдущие главы.</russian>
+		<russian>Чтобы разблокировать эту главу, завершите предыдущие.</russian>
 		<chinese>要解锁此章节，\n请完成之前的章节。</chinese>
 		<korean>이 장을 열기 위해서, 이전 장을 완성하세요</korean>
 		<taiwanese>要解鎖此章節，請完成之前的章節。</taiwanese>
@@ -14536,7 +14536,7 @@
 		<polish>Okienkowy</polish>
 		<portuguese>Janelas</portuguese>
 		<italian>A finestra</italian>
-		<russian>Оконный</russian>
+		<russian>Окно</russian>
 		<chinese>窗口</chinese>
 		<korean>창이 있는</korean>
 		<taiwanese>視窗</taiwanese>
@@ -14600,7 +14600,7 @@
 		<polish>Użyj Alt-Enter, aby przełączać pomiędzy trybem wyświetlania w oknie i pełnoekranowym.</polish>
 		<portuguese>Usa Alt-Enter para mudar entre o modo janela e o modo ecrã inteiro.</portuguese>
 		<italian>Usa Alt-Enter per cambiare tra la vista a finestra e a schermo intero.</italian>
-		<russian>Используйте Alt-Enter чтобы переключаться между оконным и полноэкранным режимами.</russian>
+		<russian>Используйте Alt-Enter, чтобы переключаться между оконным и полноэкранным режимами.</russian>
 		<chinese>使用 Alt + Enter 键在窗口模式和全屏模式间切换。</chinese>
 		<korean>창 모드와 전체 화면 사이를 전환시키기 위해 Alt-Enter키를 사용하세요</korean>
 		<taiwanese>使用 Alt + Enter 鍵切換視窗模式和全畫面模式。</taiwanese>
@@ -14810,7 +14810,7 @@
 		<polish>Użyj D-pad, aby przesunąć kroplę deszczu ^00</polish>
 		<portuguese>Usa o D-pad para mexer o pingo de chuva ^00</portuguese>
 		<italian>Usa la D-pad per spostare la goccia ^00</italian>
-		<russian>Используйте  кнопки направления, чтобы сдвинуть каплю ^00</russian>
+		<russian>Используйте кнопки направления, чтобы сдвинуть каплю ^00</russian>
 		<chinese>使用左操作杆或方向键移动水滴 ^00</chinese>
 		<korean>좌측의 아날로그 스틱이나 방향키를 사용하여 빗방울 ^00로 이동하세요</korean>
 		<taiwanese>使用左操作桿或方向按鈕移動水滴 ^00</taiwanese>
@@ -14906,7 +14906,7 @@
 		<polish>Dziękujemy za wybranie gier Quell</polish>
 		<portuguese>Obrigado a todos por jogarem os jogos Quell</portuguese>
 		<italian>Grazie per aver scelto i giochi Quell</italian>
-		<russian>Спасибо за то, что поиграли в игры серии Quell</russian>
+		<russian>Спасибо за то, что играете в игры серии Quell</russian>
 		<chinese>感谢您游玩 水滴记忆 游戏</chinese>
 		<korean>Quell 게임을 즐겨주셔서 감사합니다</korean>
 		<taiwanese>感謝您遊玩 Quell 遊戲</taiwanese>
@@ -15134,7 +15134,7 @@
 		<polish>Jeden wielki bałagan, ciągnący wszystko w dół... nie sądzisz?</polish>
 		<portuguese>Uma grande confusão, de trazer este lugar abaixo... Não achas?</portuguese>
 		<italian>Un gran casino, c'è da soppesare tutto... non pensi?</italian>
-		<russian>Одна большая ошибка, отягощает это место… Вы не думаете?</russian>
+		<russian>Одна большая ошибка, отягощает это место… Ты не думаешь?</russian>
 		<chinese>一场大灾难，无法承受的重量......你不觉得吗？</chinese>
 		<korean>한번의 큰 실수로 공간이 무너앉았습니다...라고 생각지 않으시나요?</korean>
 		<taiwanese> 你不覺得它們已經成為我這破地方難以負荷的重擔了嗎？</taiwanese>
@@ -15342,7 +15342,7 @@
 		<polish>A nie chcę, by mi przypominano.</polish>
 		<portuguese>E eu não quero ser lembrado.</portuguese>
 		<italian>E non voglio essere ricordato.</italian>
-		<russian>И я не хочу, чтобы меня вспомнили.</russian>
+		<russian>И я не хочу, чтобы меня вспоминали.</russian>
 		<chinese>我不想想起的事。</chinese>
 		<korean>그리고 상기하고 싶지 않아요</korean>
 		<taiwanese>我不想想起的事。</taiwanese>
@@ -15550,7 +15550,7 @@
 		<polish>Jak mogłem o nich zapomnieć?</polish>
 		<portuguese>Como é que eu me esqueci delas?</portuguese>
 		<italian>Come ho potuto scordarmele?</italian>
-		<russian>Как мог я их забыть7</russian>
+		<russian>Как мог я их забыть?</russian>
 		<chinese>我怎么可能会忘记它们？</chinese>
 		<korean>제가 그것들을 어떻게 잊을 수 있겠어요?</korean>
 		<taiwanese>我怎麼可能會忘記它們？</taiwanese>
@@ -15614,7 +15614,7 @@
 		<polish>Płynie tak szybko, prawa?</polish>
 		<portuguese>Passa tão rápido, não passa...</portuguese>
 		<italian>Va veloce, non ti pare...</italian>
-		<russian>Они  идёт так быстро, не так ли…</russian>
+		<russian>Оно идёт так быстро, не так ли…</russian>
 		<chinese>过得真快，不是吗......</chinese>
 		<korean>너무 빨라요, 안그래요...</korean>
 		<taiwanese>過得真快，不是嗎...</taiwanese>
@@ -16382,7 +16382,7 @@
 		<polish>Podświetl niebieskie, złote i czerwone diamenty jednocześnie</polish>
 		<portuguese>Iluminar diamantes azuis, dourados e encarnos ao mesmo tempo</portuguese>
 		<italian>Illumina i diamanti blu, oro e rossi allo stesso tempo</italian>
-		<russian>Осветите синие, золотые и красные алмазы одновренно</russian>
+		<russian>Осветите синие, золотые и красные алмазы одновременно</russian>
 		<chinese>同时照亮蓝色、金色和红色钻石</chinese>
 		<korean>청색, 금색 및 적색 다이아몬드를 동시에 조명하세요</korean>
 		<taiwanese>同時照亮藍色、金色和紅色鑽石</taiwanese>
@@ -16510,6 +16510,7 @@
 		<polish>Przejdź przez strumień %d razy</polish>
 		<portuguese>Passou através das costuras %d vezes</portuguese>
 		<italian>Passa attraverso una cucitura %d volte</italian>
+		<russian>Пройдите сквозь врата %d раз</russian>
 		<chinese>穿过一条缝 %d 次</chinese>
 		<korean>솔기를 통해 %d회 통과하세요</korean>
 		<taiwanese>穿越明暗分界 %d 次</taiwanese>
@@ -16573,7 +16574,7 @@
 		<polish>Utknąć w pętli</polish>
 		<portuguese>Estar preso numa volta</portuguese>
 		<italian>Rimani incastrato in un cerchio</italian>
-		<russian>Застрять в цикле</russian>
+		<russian>Застрявший в цикле</russian>
 		<chinese>在一个循环中被卡住</chinese>
 		<korean>루프에 갇히기</korean>
 		<taiwanese>使水滴陷入無線循環</taiwanese>
@@ -16621,6 +16622,7 @@
 		<polish>Złota perła ^19 ma niepowtarzalną moc</polish>
 		<portuguese>A pérola de ouro ^19 tem um poder único</portuguese>
 		<italian>La perla d'oro ^19 ha un potere unico</italian>
+		<russian>Золотая жемчужина ^19 обладает уникальной энергией</russian>
 		<chinese>金色珍珠 ^19 具有独特能量</chinese>
 		<korean>골드 진주 ^19는 독보적인 힘이 있습니다</korean>
 		<taiwanese>金色珍珠 ^19 具有獨特能量</taiwanese>
@@ -16636,6 +16638,7 @@
 		<polish>^06 można popchnąć. Spróbuj popchnąć dwie</polish>
 		<portuguese>^06 pode ser empurrado. Tenta empurrar dois ao mesmo tempo</portuguese>
 		<italian>^06 può essere spostato. Prova a spostarne due insieme</italian>
+		<russian>^06 можно толкать. Попробуйте столкнуть два вместе</russian>
 		<chinese>^06 可被推动。试着推动两个到一起</chinese>
 		<korean>^06을 밀 수 있습니다. 두개를 같이 밀어보세요</korean>
 		<taiwanese>^06 可被推動。試著推動讓兩個在一起</taiwanese>
@@ -16651,6 +16654,7 @@
 		<polish>Zazwyczaj lepiej nie łączyć ^00</polish>
 		<portuguese>Normalmente é melhor não juntar ^00</portuguese>
 		<italian>Sarebbe meglio non unire  ^00</italian>
+		<russian>Обычно лучше не соединять ^00</russian>
 		<chinese>通常来说最好别把 ^00 混到一起</chinese>
 		<korean>^^00는 합치지 않는 것이 언제나 좋습니다</korean>
 		<taiwanese>通常來說最好別跟 ^00 混在一起</taiwanese>
@@ -16666,6 +16670,7 @@
 		<polish>Zbierz ^19 pierwszych</polish>
 		<portuguese>Colecciona ^19 primeiro</portuguese>
 		<italian>Raccogli ^19 prima</italian>
+		<russian>Соберите первую ^19</russian>
 		<chinese>先收集 ^19</chinese>
 		<korean>^19를 먼저 수집하세요</korean>
 		<taiwanese>先收集 ^19</taiwanese>
@@ -16681,6 +16686,7 @@
 		<polish>Zbierz ^19 ostatnich</polish>
 		<portuguese>Colecciona ^19 no fim</portuguese>
 		<italian>Raccogli ^19 alla fine</italian>
+		<russian>Соберите последнюю ^19</russian>
 		<chinese>最后收集 ^19</chinese>
 		<korean>^19를 마지막에 수집하세요</korean>
 		<taiwanese>最後收集 ^19</taiwanese>
@@ -16726,6 +16732,7 @@
 		<polish>Użyj ^41, aby zwolnić ^00</polish>
 		<portuguese>Usa ^41 para libertar ^00</portuguese>
 		<italian>Usa ^41 per rilasciare ^00</italian>
+		<russian>Используйте ^41, чтобы высвободить ^00</russian>
 		<chinese>使用 ^41 来释放 ^00</chinese>
 		<korean>^41을 사용하여 ^00를 방출하세요</korean>
 		<taiwanese>使用 ^41 來釋放 ^00</taiwanese>
@@ -16771,6 +16778,7 @@
 		<polish>^06 można użyć do przełączania ^48 do ^47</polish>
 		<portuguese>^06 podem ser usadas para mudar de ^48 para ^47</portuguese>
 		<italian>^06 può essere usato per cambiare il ^48 a ^47</italian>
+		<russian>^06 можно использовать для переключения между ^48 и ^47</russian>
 		<chinese>^06 可用于将 ^48 切换为 ^47</chinese>
 		<korean>^06은 ^48을 ^47로 바꾸기 위해 사용됩니다</korean>
 		<taiwanese>^06 可用於將 ^48 切換為 ^47</taiwanese>
@@ -16817,6 +16825,7 @@
 		<polish>Należy zwolnić ^00 innemu ^00</polish>
 		<portuguese>Um ^00 tem de libertar o outro ^00</portuguese>
 		<italian>Un ^00 deve rilasciare l'altro ^00</italian>
+		<russian>Одна ^00 может освободить другую ^00</russian>
 		<chinese>一个 ^00 必须释放另一个 ^00</chinese>
 		<korean>하나의 ^00는 다른 ^00를 방출해야합니다</korean>
 		<taiwanese>一個 ^00 必須釋放另一個 ^00</taiwanese>
@@ -17027,6 +17036,7 @@
 		<polish>Należy unikać ^21!</polish>
 		<portuguese>^21 tem de ser evitado!</portuguese>
 		<italian>^21 deve essere evitato!</italian>
+		<russian>Нужно избегать ^21!</russian>
 		<chinese>必须躲避 ^21！</chinese>
 		<korean>^21은 회피하여야합니다!</korean>
 		<taiwanese>必須躲避 ^21！</taiwanese>
@@ -17087,6 +17097,7 @@
 		<polish>Pozwól duchowi  ^49 uderzyć ^04</polish>
 		<portuguese>Permite o espírito ^49que atinja o ^04</portuguese>
 		<italian>Consenti allo spirito ^49 di colpire il ^04</italian>
+		<russian>Дайте духу ^49 столкнуться с ^04</russian>
 		<chinese>允许灵魂 ^49 撞击 ^04</chinese>
 		<korean>스피릿 ^49가 ^04를 치도록하세요</korean>
 		<taiwanese>引誘守護靈 ^49 撞擊 ^04</taiwanese>
@@ -17102,6 +17113,7 @@
 		<polish>Pierwszy ruch jest najważniejszy</polish>
 		<portuguese>O primeiro movimento é o mais importante</portuguese>
 		<italian>La prima mossa è la più importante</italian>
+		<russian>Первое движение - самое важное</russian>
 		<chinese>第一步移动至关重要</chinese>
 		<korean>첫번째 움직임이 가장 중요합니다</korean>
 		<taiwanese>第一步移動非常重要</taiwanese>
@@ -17132,6 +17144,7 @@
 		<polish>Tylko jeden ^00 może przetrwać</polish>
 		<portuguese>Apenas um ^00 precisa de sobreviver</portuguese>
 		<italian>Solo un ^00 deve sopravvivere</italian>
+		<russian>Только одна ^00 нужна для выживания</russian>
 		<chinese>只需要存活一个 ^00</chinese>
 		<korean>단지 한개의 ^00가 살아남아야합니다.</korean>
 		<taiwanese>只需要存活一個 ^00</taiwanese>
@@ -17237,6 +17250,7 @@
 		<polish>Unikać zderzenia z ^49</polish>
 		<portuguese>Evita colidir com o ^49</portuguese>
 		<italian>Evita di scontrarti con ^49</italian>
+		<russian>Избегайте столкновения с ^49</russian>
 		<chinese>避免与 ^49 碰撞</chinese>
 		<korean>^49와의 충돌을 회피하세요</korean>
 		<taiwanese>避免與 ^49 碰撞</taiwanese>
@@ -17282,6 +17296,7 @@
 		<polish>Róża ^44 zmienia się po dotknięciu</polish>
 		<portuguese>A rosa ^44 muda quando é tocado</portuguese>
 		<italian>La rosa ^44 cambia quando viene toccata</italian>
+		<russian>Роза ^44 изменяется при прикосновении</russian>
 		<chinese>玫瑰 ^44 会在碰撞时变化</chinese>
 		<korean>장미 ^44는 닿으면 변환합니다</korean>
 		<taiwanese>玫瑰 ^44 會在觸摸時變化</taiwanese>
@@ -17342,6 +17357,7 @@
 		<polish>Użyć ^02 na swoją korzyść</polish>
 		<portuguese>Usa o ^02 para tua vantagem</portuguese>
 		<italian>Usa ^02 per trarne vantaggio</italian>
+		<russian>Используйте ^02, как свою привелегию</russian>
 		<chinese>使用 ^02 获得有利地位</chinese>
 		<korean>^20을 사용하여 혜택을 받으세요</korean>
 		<taiwanese>好好利用 ^02</taiwanese>
@@ -17387,6 +17403,7 @@
 		<polish>Unikać ^18</polish>
 		<portuguese>Evitar o ^18</portuguese>
 		<italian>Evita il ^18</italian>
+		<russian>Узбегайте ^18</russian>
 		<chinese>避开 ^18</chinese>
 		<korean>^18을 회피하세요</korean>
 		<taiwanese>避開 ^18</taiwanese>
@@ -17447,6 +17464,7 @@
 		<polish>Zbierz ^19 tak późno, jak to możliwe</polish>
 		<portuguese>Colecciona ^19 o mais tarde possível</portuguese>
 		<italian>Raccogli ^19 il più tardi possibile</italian>
+		<russian>Собирайте ^19 как можно позже</russian>
 		<chinese>尽可能晚地收集 ^19</chinese>
 		<korean>^19는 최대한 나중에 수집하세요</korean>
 		<taiwanese>盡可能最後收集 ^19</taiwanese>
@@ -17567,6 +17585,7 @@
 		<polish>Użyj ^06, aby ie zostać ukłótym</polish>
 		<portuguese>Usa ^06 para evitar seres espetado</portuguese>
 		<italian>Usa ^06 per evitare di venire infilzato</italian>
+		<russian>Используйте ^06, чтобы избежать протыкания</russian>
 		<chinese>使用 ^06 避免被刺到</chinese>
 		<korean>찔리는 것을 회피하기 위해 ^06을 사용하세요</korean>
 		<taiwanese>使用 ^06 避免被刺到</taiwanese>
@@ -17582,6 +17601,7 @@
 		<polish>Nie marnuj ^19</polish>
 		<portuguese>Não desperdices ^19</portuguese>
 		<italian>Non sprecare il ^19</italian>
+		<russian>Не тратьте ^19</russian>
 		<chinese>不要浪费 ^19</chinese>
 		<korean>^19를 낭비하지 마십시오</korean>
 		<taiwanese>不要浪費 ^19</taiwanese>
@@ -17597,6 +17617,7 @@
 		<polish>Po obu stronach, prawidłowy pierwszy ruch jest kluczowy</polish>
 		<portuguese>Em ambos os lados, o movimento correcto é crucial</portuguese>
 		<italian>In entrambi i lati, la prima mossa corretta è cruciale</italian>
+		<russian>Правильное первое движение важно с обоих сторон</russian>
 		<chinese>在两侧，第一步移动是否正确至关重要</chinese>
 		<korean>양측에서, 첫 번째의 정확한 움직임이 결정적입니다</korean>
 		<taiwanese>在兩側，第一步移動是否正確非常重要</taiwanese>
@@ -17794,7 +17815,7 @@ título.</spanish>
 		<polish>Naciśnij %s, aby potrząsnąć</polish>
 		<portuguese>Pressiona %s para tremer</portuguese>
 		<italian>Premi %s per scuotere</italian>
-		<russian>Нажмите %s чтобы встряхнуть</russian>
+		<russian>Нажмите %s, чтобы встряхнуть</russian>
 		<chinese>按下 %s 来晃动</chinese>
 		<korean>%s를 눌러 흔들어주세요</korean>
 		<taiwanese>按下 %s 再晃動</taiwanese>
@@ -17858,7 +17879,7 @@ título.</spanish>
 		<polish>Kroki te należy wykonać samodzielnie</polish>
 		<portuguese>Estes passos devem ser feitos sozinho</portuguese>
 		<italian>Questi passi andrebbero affrontati da solo</italian>
-		<russian>Эти шаги должны быть совершены по отдельности</russian>
+		<russian>Эти шаги нужно совершать по отдельности</russian>
 		<chinese>这些移动需要单独完成</chinese>
 		<korean>이 스텝들은 혼자 밟아야합니다</korean>
 		<taiwanese>這些步驟必須單獨完成</taiwanese>
@@ -18114,7 +18135,7 @@ título.</spanish>
 		<polish>Ten poziom jest opcjonalny. Wróć przez ^50, aby wyjść</polish>
 		<portuguese>Este nível é opcional. Voltar através do ^50 para sair</portuguese>
 		<italian>Questo livello è opzionale. Torna indietro attraverso l'uscita ^50</italian>
-		<russian>Это необязательный уровень. Вернитесь ^50 чтобы выйти</russian>
+		<russian>Это необязательный уровень. Пройдите через ^50, чтобы выйти</russian>
 		<chinese>此关卡为可选游玩。返回到 ^50 来退出</chinese>
 		<korean>이 레벨은 옵션입니다. 나가려면 ^50을 통해서 되돌아가십시오</korean>
 		<taiwanese>此任務為附加內容。返回到 ^50 來退出</taiwanese>
@@ -18146,7 +18167,7 @@ título.</spanish>
 		<polish>Próba</polish>
 		<portuguese>Teste</portuguese>
 		<italian>Prova</italian>
-		<russian>Пробная</russian>
+		<russian>Пробная версия</russian>
 		<chinese>试玩</chinese>
 		<korean>연습</korean>
 		<taiwanese>試玩</taiwanese>
@@ -18338,7 +18359,7 @@ título.</spanish>
 		<polish>Karta menu w lewo</polish>
 		<portuguese>Tab Menu Esquerda</portuguese>
 		<italian>Menu tab sinistra</italian>
-		<russian>Вкалдка меню слево</russian>
+		<russian>Вкладка меню слева</russian>
 		<chinese>菜单选项卡在左侧</chinese>
 		<korean>메뉴 탭 왼쪽</korean>
 		<taiwanese>功能表選項（左側）</taiwanese>
@@ -18363,7 +18384,7 @@ título.</spanish>
 	<stringentry>
 		<id>STR_CONTROLS_SWITCH_LEFT</id>
 		<translate>true</translate>
-		<english>лево</english>
+		<english>Switch raindrop (left)</english>
 		<french>Changer la goutte (à gauche)</french>
 		<german>Regentropfen wechseln (links)</german>
 		<spanish>Cambia la gota de lluvia (izquierda)</spanish>
@@ -18434,7 +18455,7 @@ título.</spanish>
 		<polish>Poziomy Timekeeper doskonały</polish>
 		<portuguese>Níveis deTimekeeper perfeitos</portuguese>
 		<italian>Livelli Cronometrista perfetti</italian>
-		<russian>Уровней харнителя времени идеально</russian>
+		<russian>Уровней хранителя времени идеально</russian>
 		<chinese>计时器关卡完美完成</chinese>
 		<korean>타임 키퍼 레벨이 완벽합니다</korean>
 		<taiwanese>完美通過的計時器任務</taiwanese>
@@ -18450,7 +18471,7 @@ título.</spanish>
 		<polish>Odblokowanie wszystkich poziomów</polish>
 		<portuguese>Desbloquear qualquer nível</portuguese>
 		<italian>Sblocca tutti i livelli</italian>
-		<russian>Разблокировать любой уровень</russian>
+		<russian>Открыть любой уровень</russian>
 		<chinese>解锁任意关卡</chinese>
 		<korean>어느 단계든지 열어보세요</korean>
 		<taiwanese>解鎖任一個任務</taiwanese>
@@ -18466,7 +18487,7 @@ título.</spanish>
 		<polish>%d monet w grze</polish>
 		<portuguese>%d de moedas para uso no jogo</portuguese>
 		<italian>%d monete interne al gioco</italian>
-		<russian>%d внутреигровых монет</russian>
+		<russian>%d внутриигровых монет</russian>
 		<chinese>%d 枚游戏内金币</chinese>
 		<korean>%d개의 인게임 동전</korean>
 		<taiwanese>%d 枚遊戲內金幣</taiwanese>
@@ -18518,7 +18539,7 @@ título.</spanish>
 		<polish>Zapomnij świat. Zakochana w tym uroczym zen puzzle.</polish>
 		<portuguese>Esquece o mundo. Apaixona-te por este jogo de puzzle encantador</portuguese>
 		<italian>Scordati del mondo. Innamorati di questo incantevole puzzle zen.</italian>
-		<russian>Забудь об остальном мире. Влюбись в эту очаровательную головоломку.</russian>
+		<russian>Забудьте об остальном мире. Влюбитесь в эту очаровательную головоломку.</russian>
 		<chinese>忘掉周遭世界。爱上这款迷人的禅宗益智游戏。</chinese>
 		<korean>만사를 잊어버리세요. 이 황홀한 zen 퍼즐을 즐겨보세요.</korean>
 		<taiwanese>忘掉周遭世界。愛上這款迷人的禪學式益智遊戲。</taiwanese>
@@ -19063,7 +19084,7 @@ título.</spanish>
 		<polish>Logowanie przy pomocy konta Google</polish>
 		<portuguese>A entrar com conta Google</portuguese>
 		<italian>Entrando con Google</italian>
-		<russian>Вход через Google</russian>
+		<russian>Входим через Google</russian>
 		<chinese>正在使用 Google 帐户登录</chinese>
 		<korean>구글 계정에서 사인중입니다</korean>
 		<taiwanese>正在使用 Google 帳戶登入</taiwanese>
@@ -19079,7 +19100,7 @@ título.</spanish>
 		<polish>Wylogywywanie</polish>
 		<portuguese>A sair</portuguese>
 		<italian>Uscendo</italian>
-		<russian>Выход</russian>
+		<russian>Выходим</russian>
 		<chinese>正在注销</chinese>
 		<korean>사인 아웃하는 중</korean>
 		<taiwanese>正在登出</taiwanese>
@@ -19245,7 +19266,7 @@ título.</spanish>
 		<polish>Kontroler</polish>
 		<portuguese>Comando</portuguese>
 		<italian>Controller</italian>
-		<russian>Кнтроллер</russian>
+		<russian>Контроллер</russian>
 		<chinese>控制器布局</chinese>
 		<korean>컨트롤러</korean>
 		<taiwanese>控制器</taiwanese>
@@ -19293,7 +19314,7 @@ título.</spanish>
 		<polish>Znajdź dowolny kamień, ukryte przejście lub zegary, bez konieczności użycia monet!</polish>
 		<portuguese>Descobre qualquer Joia, portais secretos ou relógios, sem usar moedas!</portuguese>
 		<italian>Trova qualsiasi gioiello, portali segreti o pezzi di tempo senza l'uso di monete!</italian>
-		<russian>Найдите все бриллианты, секретные порталы и частицы времени без использования монет!</russian>
+		<russian>Найдите все бриллианты, секретные врата и частицы времени без использования монет!</russian>
 		<chinese>无需使用金币，即可找到任何珠宝、秘密通道或时间碎片！</chinese>
 		<korean>동전을 사용하지 않고, 보석, 비밀의 포탈 혹은 시간 조각을 찾아보세요!</korean>
 		<taiwanese>無需使用金幣，即可找到珠寶、秘密通道或時間碎片！</taiwanese>
@@ -19309,7 +19330,7 @@ título.</spanish>
 		<polish>Pokaż lokalizację ukrytego przejścia</polish>
 		<portuguese>Mostrar localização de portais secretos</portuguese>
 		<italian>Mostra posizione del portale segreto</italian>
-		<russian>Показать расположение секретного портала</russian>
+		<russian>Показать расположение секретных врат</russian>
 		<chinese>显示秘密通道位置</chinese>
 		<korean>비밀의 포털 위치를 보여주십시오</korean>
 		<taiwanese>顯示秘密通道位置</taiwanese>
@@ -19565,7 +19586,7 @@ título.</spanish>
 		<polish>Przewijaj 5 ostatnich kroków, nawet jeżeli kropla deszczu stanie się ostra! Nieograniczone użycie.</polish>
 		<portuguese>Rewind até 5 jogadas anteriores, mesmo que uma gota seja rebentada! Uso Ilimitado.</portuguese>
 		<italian>Rewind usabile fino a 5 mosse, anche se una goccia dovesse spillare! Uso illimitato.</italian>
-		<russian>Отменяйте до 5 последних движений, если капля проткнулась. Неогранное изпользование.</russian>
+		<russian>Отменяйте до 5 последних движений, если капля проткнулась. Неограниченное использование.</russian>
 		<chinese>回退最后 5 次移动，即便水滴被刺穿！使用次数无限。</chinese>
 		<korean>빗방울이 뚫리더라도 이전의 5회의 움직임까지 되감기합니다. 무제한 사용</korean>
 		<taiwanese>倒帶最後 5 次移動，即便水滴被刺穿！使用次數無限。</taiwanese>
@@ -20087,7 +20108,7 @@ título.</spanish>
 		<id>STR_TUTORIAL_MATCH3</id>
 		<translate>true</translate>
 		<english>Match 3 of each candy in a row to complete the level</english>
-		<russian>Собери 3 одинаковые конфеты вместе, чтобы завершить уровень</russian>
+		<russian>Соберите 3 одинаковые конфеты вместе, чтобы завершить уровень</russian>
 		<chinese>在一行里收集指定的各种糖果3个完成目标等级</chinese>
 		<taiwanese>在一行中收集3個各種指定的糖果達成目標等級。</taiwanese>
 	</stringentry>
@@ -20095,7 +20116,7 @@ título.</spanish>
 		<id>STR_OBJECTIVE_MATCH3</id>
 		<translate>true</translate>
 		<english>Match 3 or more of each candy in a row</english>
-		<russian>Собери 3 или более конфет подряд</russian>
+		<russian>Соберите 3 или более конфет подряд</russian>
 		<chinese>在一行里收集指定的3个以上的各种糖果</chinese>
 		<taiwanese>在一行中收集3個各種指定的糖果。</taiwanese>
 	</stringentry>
@@ -20131,7 +20152,7 @@ título.</spanish>
 		<id>STR_CLUE_CANDY_8</id>
 		<translate>true</translate>
 		<english>Use the candy to avoid hitting the spikes.</english>
-		<russian>Используй конфету, чтобы избежать шипов</russian>
+		<russian>Используйте конфету, чтобы избежать шипов</russian>
 		<chinese>使用糖果避免撞到钉子。</chinese>
 		<taiwanese>使用糖果來避免撞到釘子。</taiwanese>
 	</stringentry>
@@ -20146,6 +20167,7 @@ título.</spanish>
 		<id>STR_CLUE_MOVING_CANDY</id>
 		<translate>true</translate>
 		<english>^00 can be used to stop a moving candy.</english>
+		<russian>^00 может использоваться, чтобы остановить перемещение конфеты</russian>
 		<chinese>^00可以帮助正在移动的糖果停下来。</chinese>
 		<taiwanese>^00可以讓正在移動的糖果停下來。</taiwanese>
 	</stringentry>
@@ -20181,7 +20203,7 @@ título.</spanish>
 		<id>STR_CLUE_CANDY_PATH</id>
 		<translate>true</translate>
 		<english>Clear the path so that the single candy can be pushed to the others.</english>
-		<russian>Расчисти путь, чтобы одна конфета могла столкнутся с остальными</russian>
+		<russian>Расчистите путь, чтобы одна конфета могла столкнутся с остальными</russian>
 		<chinese>清除道路，让单独的糖果可以被推入其它地方。</chinese>
 		<taiwanese>清除道路，讓孤立的糖果可以被推向其它地方。</taiwanese>
 	</stringentry>
@@ -20211,6 +20233,7 @@ título.</spanish>
 		<polish>Pulpit</polish>
 		<portuguese>Ambiente de trabalho</portuguese>
 		<italian>Desktop</italian>
+		<russian>Компьютер</russian>
 		<chinese>桌面</chinese>
 		<korean>데스크탑</korean>
 		<taiwanese>桌面</taiwanese>
@@ -20353,6 +20376,7 @@ título.</spanish>
 		<polish>Kontrola myszką</polish>
 		<portuguese>Controlos do rato</portuguese>
 		<italian>Controlli mouse</italian>
+		<russian>Управление мышью</russian>
 		<chinese>鼠标控制</chinese>
 		<korean>마우스 컨트롤</korean>
 		<taiwanese>滑鼠控制</taiwanese>
