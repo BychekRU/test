@@ -12571,7 +12571,7 @@
 		<polish>Pchnięcie</polish>
 		<portuguese>Um pequeno incentivo</portuguese>
 		<italian>Una Piccola Spinta</italian>
-		<russian>Толкатель света</russian>
+		<russian>Давление света</russian>
 		<chinese>轻推</chinese>
 		<korean>약하게 밀기</korean>
 		<taiwanese>輕推</taiwanese>
@@ -12603,7 +12603,7 @@
 		<polish>Słodziak</polish>
 		<portuguese>Todos Hertz</portuguese>
 		<italian>Everybody Hertz</italian>
-		<russian>Все страдают</russian>
+		<russian>Everybody Hertz</russian>
 		<chinese>人人赫兹</chinese>
 		<korean>에브리바디 헤르츠</korean>
 		<taiwanese>人人赫茲</taiwanese>
@@ -12827,7 +12827,7 @@
 		<polish>Niech przejdą mnie dreszcze</polish>
 		<portuguese>Raios e Coriscos!</portuguese>
 		<italian>Brividi Lungo le Travi!</italian>
-		<russian>Разрази меня гром</russian>
+		<russian>Разрази меня гром!</russian>
 		<chinese>真见鬼！</chinese>
 		<korean>시버 미 팀버스!</korean>
 		<taiwanese>真見鬼！</taiwanese>
@@ -12971,7 +12971,7 @@
 		<polish>Duch przewodnik</polish>
 		<portuguese>Espírito-guia</portuguese>
 		<italian>Spirito Guida</italian>
-		<russian>Преследующий дух</russian>
+		<russian>Наставник</russian>
 		<chinese>指引灵魂</chinese>
 		<korean>가이딩 스피릿</korean>
 		<taiwanese>指引靈魂</taiwanese>
@@ -13104,7 +13104,7 @@
 		<polish>Szkolenie</polish>
 		<portuguese>Nível Tutorial</portuguese>
 		<italian>Livello Tutorial</italian>
-		<russian>Обучающая стадия</russian>
+		<russian>Обучающий этап</russian>
 		<chinese>教程关卡</chinese>
 		<korean>지도 단계</korean>
 		<taiwanese>教程關卡</taiwanese>
@@ -13120,7 +13120,7 @@
 		<polish>Ukryty etap</polish>
 		<portuguese>Nível Secreto</portuguese>
 		<italian>Livello Segreto</italian>
-		<russian>Секретная стадия</russian>
+		<russian>Секретный этап</russian>
 		<chinese>神秘关卡</chinese>
 		<korean>비밀 단계</korean>
 		<taiwanese>神秘關卡</taiwanese>
@@ -13248,7 +13248,7 @@
 		<polish>Postęp synchronizacji</polish>
 		<portuguese>Sincronização em progresso</portuguese>
 		<italian>Sincronizza progressi</italian>
-		<russian>Синхронизация</russian>
+		<russian>Синхронизация прогресса</russian>
 		<chinese>同步进度</chinese>
 		<korean>동기화 과정</korean>
 		<taiwanese>同步進度</taiwanese>
@@ -13433,7 +13433,7 @@
 		<polish>Pokaz rozłożenie klejnotów</polish>
 		<portuguese>Mostrar a localização das jóias</portuguese>
 		<italian>Mostra posizione gioiello</italian>
-		<russian>Показать расположение жемчужины</russian>
+		<russian>Показать расположение жемчужин</russian>
 		<chinese>显示珠宝位置</chinese>
 		<korean>보석의 위치 보기</korean>
 		<taiwanese>顯示珠寶位置</taiwanese>
@@ -13768,7 +13768,7 @@
 		<polish>Quell Muzyka</polish>
 		<portuguese>Música Quell</portuguese>
 		<italian>Musica Quell</italian>
-		<russian>Музыка в Quell</russian>
+		<russian>Музыка Quell</russian>
 		<chinese>水滴记忆 音乐</chinese>
 		<korean>퀠 음악</korean>
 		<taiwanese>Quell 音樂</taiwanese>
@@ -13784,7 +13784,7 @@
 		<polish>Zdobądź pełny soundtrack przygotowany przez Stevena Cravisa</polish>
 		<portuguese>Obter a banda sonora completa do Steven Cravis</portuguese>
 		<italian>Ottieni la colonna sonora completa di Steven Cravis</italian>
-		<russian>Загрузить официальный саундтрек от Steven Cravis</russian>
+		<russian>Загрузить официальный саундтрек Стивена Крэвиса</russian>
 		<chinese>获取来自 Steven Cravis 的完整游戏音轨</chinese>
 		<korean>스티븐 크레비스의 완전한 사운드 트랙 취하기</korean>
 		<taiwanese>獲取來自 Steven Cravis 的完整遊戲音軌</taiwanese>
@@ -13800,7 +13800,7 @@
 		<polish>Aby odblokować ten poziom, musisz ukończyć poprzednie poziomy.</polish>
 		<portuguese>Para desbloquear este nível, completa as etapas anteriores.</portuguese>
 		<italian>Per sbloccare questo livello, completa i livelli precedenti.</italian>
-		<russian>Чтобы разблокировать эту стадию, завершите предыдущие стадии.</russian>
+		<russian>Чтобы разблокировать этот этап, завершите предыдущие стадии.</russian>
 		<chinese>要解锁此关卡，\n请完成之前的关卡。</chinese>
 		<korean>이 단계를 열기위해서, 이전 단계를 완성하세요.</korean>
 		<taiwanese>要解鎖此關卡，請完成之前的關卡。</taiwanese>
@@ -13864,6 +13864,7 @@
 		<polish>Aby odblokować tę część, albo ukończ wszystkie normalne części, użyj %d monet lub użyj klucza szkieletu.</polish>
 		<portuguese>Para desbloquear este capítulo, ou completas todos os capítulos normais, gastas %d mpedas ou usas a chave-mestra.</portuguese>
 		<italian>Per sbloccare questo capitolo, completa tutti i capitoli Normali, spendi %d monete o usa la chiave scheletro.</italian>
+		<russian>Чтобы разблокировать эту или все остальные главы, потратьте %d монет или используйте ключ от всех дверей.</russian>
 		<chinese>要解锁此章节，请完成所有的“普通”章节，花费 %d 枚金币或使用万能钥匙。</chinese>
 		<korean>이 장을 열기 위해서, 모든 보통의 장을 완성하거나, 동전 %d을(를) 사용하거나, 또는 만능키를 사용하세요.</korean>
 		<taiwanese>要解鎖此章節，請完成所有的“普通”章節，花費 %d 枚金幣或使用萬能鑰匙。</taiwanese>
@@ -13879,6 +13880,7 @@
 		<polish>Aby odblokować tę część, albo ukończ wszystkie normalne części lub użyj %d monet.</polish>
 		<portuguese>Para deslobloquear este capítulo, ou completas todos os capítulos normais, ou gastas %d moedas.</portuguese>
 		<italian>Per sbloccare questo capitolo, completa tutti i capitoli Normali o spendi %d monete.</italian>
+		<russian>Чтобы разблокировать эту или все остальные главы, потратьте %d монет.</russian>
 		<chinese>要解锁此章节，请完成所有的“普通”章节，或花费 %d 枚金币。</chinese>
 		<korean>이 장을 열기 위해서, 모든 보통의 장을 완성하거나, 동전 %d을(를) 사용하세요.</korean>
 		<taiwanese>要解鎖此章節，請完成所有的“普通”章節，或花費 %d 枚金幣。</taiwanese>
@@ -14022,6 +14024,7 @@
 		<polish>Standard</polish>
 		<portuguese>Padrão</portuguese>
 		<italian>Standard</italian>
+		<russian>Стандартный</russian>
 		<chinese>标准</chinese>
 		<korean>표준</korean>
 		<taiwanese>標準</taiwanese>
@@ -14053,6 +14056,7 @@
 		<polish>Do góry ^23</polish>
 		<portuguese>Mostrar top ^23</portuguese>
 		<italian>Mostra top ^23</italian>
+		<russian>Дополнительный</russian>
 		<chinese>显示顶部 ^23</chinese>
 		<korean>최상위 ^23 보기</korean>
 		<taiwanese>顯示頂層項目 ^23</taiwanese>
@@ -14084,6 +14088,7 @@
 		<polish>Cele:</polish>
 		<portuguese>Objectivos:</portuguese>
 		<italian>Obiettivi:</italian>
+		<russian>Цели</russian>
 		<chinese>目标：</chinese>
 		<korean>목표:</korean>
 		<taiwanese>目標：</taiwanese>
@@ -14099,6 +14104,7 @@
 		<polish>Cel:</polish>
 		<portuguese>Objectivo:</portuguese>
 		<italian>Obiettivo:</italian>
+		<russian>Цель</russian>
 		<chinese>目标：</chinese>
 		<korean>목표:</korean>
 		<taiwanese>目標：</taiwanese>
@@ -14146,7 +14152,7 @@
 		<polish>Wewnętrzny tor</polish>
 		<portuguese>Pista Interior</portuguese>
 		<italian>Pista Interna</italian>
-		<russian>Внутренний путь</russian>
+		<russian>Инсайдер</russian>
 		<chinese>内圈</chinese>
 		<korean>트랙 안쪽</korean>
 		<taiwanese>內圈</taiwanese>
@@ -14178,7 +14184,7 @@
 		<polish>Skuwacz do lodu</polish>
 		<portuguese>Anticongelante</portuguese>
 		<italian>Antigelo</italian>
-		<russian>Антиобледенитель</russian>
+		<russian>Размораживатель</russian>
 		<chinese>除冰器</chinese>
 		<korean>얼음 녹이기</korean>
 		<taiwanese>除冰器</taiwanese>
@@ -14194,7 +14200,7 @@
 		<polish>Scena wprowadzająca</polish>
 		<portuguese>Cena de Introdução</portuguese>
 		<italian>Scena Iniziale</italian>
-		<russian>Вводная сцена</russian>
+		<russian>Вступление</russian>
 		<chinese>初见场景</chinese>
 		<korean>게임중인 씬</korean>
 		<taiwanese>初見場景</taiwanese>
@@ -14514,7 +14520,7 @@
 		<polish>Tryb okienkowy</polish>
 		<portuguese>Modo Janela</portuguese>
 		<italian>Modalità a Finestra</italian>
-		<russian>Режим окна</russian>
+		<russian>Оконный режим</russian>
 		<chinese>窗口模式</chinese>
 		<korean>창 모드</korean>
 		<taiwanese>視窗模式</taiwanese>
@@ -14594,6 +14600,7 @@
 		<polish>Użyj Alt-Enter, aby przełączać pomiędzy trybem wyświetlania w oknie i pełnoekranowym.</polish>
 		<portuguese>Usa Alt-Enter para mudar entre o modo janela e o modo ecrã inteiro.</portuguese>
 		<italian>Usa Alt-Enter per cambiare tra la vista a finestra e a schermo intero.</italian>
+		<russian>Используйте Alt-Enter чтобы переключаться между оконным и полноэкранным режимами.</russian>
 		<chinese>使用 Alt + Enter 键在窗口模式和全屏模式间切换。</chinese>
 		<korean>창 모드와 전체 화면 사이를 전환시키기 위해 Alt-Enter키를 사용하세요</korean>
 		<taiwanese>使用 Alt + Enter 鍵切換視窗模式和全畫面模式。</taiwanese>
@@ -14721,7 +14728,7 @@
 		<polish>Przeciąg ekran, aby przesunąć krople deszczu ^00</polish>
 		<portuguese>Bata no ecrã para mover a gota ^00</portuguese>
 		<italian>Strofina la schermo per spostare goccia ^00</italian>
-		<russian>Дотроньтесь до экрана, чтобы передвинуть каплю ^00</russian>
+		<russian>Дотроньтесь до экрана, чтобы сдвинуть каплю ^00</russian>
 		<chinese>滑动屏幕移动水滴 ^00</chinese>
 		<korean>빗방울을 이동시킬 방향으로 밀어주세요 ^00</korean>
 		<taiwanese>在螢幕上滑動來移動水滴 ^00</taiwanese>
@@ -14737,6 +14744,7 @@
 		<polish>Przeciąg ekran lub tylny panel dotykowy, aby przesunąć krople deszczu ^00</polish>
 		<portuguese>Bata no ecrã ou o painel táctil traseiro para mover a gota ^00</portuguese>
 		<italian>Strofina la schermo I il touch pad posteriore per spostare goccia ^00</italian>
+		<russian>Коснитесь экрана или задней сенсорной панели, чтобы сдвинуть каплю ^00</russian>
 		<chinese>滑动屏幕移动水滴 ^00</chinese>
 		<korean>빗방울을 이동시킬 방향으로 밀어주세요 ^00</korean>
 		<taiwanese>在螢幕上滑動來移動水滴 ^00</taiwanese>
@@ -14752,6 +14760,7 @@
 		<polish>Użyj lewego drążka lub przyciski kierunku, aby przesunąć kroplę deszczu ^00</polish>
 		<portuguese>Usa o manípulo esquerdo ou o botões de direcções para mexer o pingo de chuva ^00</portuguese>
 		<italian>Usa la levetta sinistra O i tasti direzionali per spostare la goccia ^00</italian>
+		<russian>Используйте левый стик или кнопки направления, чтобы сдвинуть каплю ^00</russian>
 		<chinese>使用左操作杆或方向键移动水滴 ^00</chinese>
 		<korean>좌측의 아날로그 스틱이나 방향키를 사용하여 빗방울 ^00로 이동하세요</korean>
 		<taiwanese>使用左操作桿或方向按鈕移動水滴 ^00</taiwanese>
@@ -14767,6 +14776,7 @@
 		<polish>Użyj lewego drążka lub D-pad, aby przesunąć kroplę deszczu ^00</polish>
 		<portuguese>Usa o manípulo esquerdo ou o D-pad para mexer o pingo de chuva ^00</portuguese>
 		<italian>Usa la levetta sinistra del D-pad per spostare la goccia ^00</italian>
+		<russian>Используйте левый стик или крестовину, чтобы сдвинуть каплю ^00</russian>
 		<chinese>使用左操作杆或方向键移动水滴 ^00</chinese>
 		<korean>좌측의 아날로그 스틱이나 방향키를 사용하여 빗방울 ^00로 이동하세요</korean>
 		<taiwanese>使用左操作桿或方向按鈕移動水滴 ^00</taiwanese>
@@ -14783,6 +14793,7 @@
 		<polish>Użyj klawiszy strzałej lub WASD, aby przesunąć kroplę deszczu ^00</polish>
 		<portuguese>Usa as setas ou WASD para mexer o pingo de chuva ^00</portuguese>
 		<italian>Usa le frecce o i tasti WASD per spostare la goccia ^00</italian>
+		<russian>Используйте стрелки или WASD, чтобы сдвинуть каплю ^00</russian>
 		<chinese>使用箭头键或 WASD 来移动水滴 ^00</chinese>
 		<korean>화살표 키나 WASD를 사용하여 빗방울 ^00로 이동하세요</korean>
 		<taiwanese>使用方向鍵或 WASD 來移動水滴 ^00</taiwanese>
@@ -14799,6 +14810,7 @@
 		<polish>Użyj D-pad, aby przesunąć kroplę deszczu ^00</polish>
 		<portuguese>Usa o D-pad para mexer o pingo de chuva ^00</portuguese>
 		<italian>Usa la D-pad per spostare la goccia ^00</italian>
+		<russian>Используйте  кнопки направления, чтобы сдвинуть каплю ^00</russian>
 		<chinese>使用左操作杆或方向键移动水滴 ^00</chinese>
 		<korean>좌측의 아날로그 스틱이나 방향키를 사용하여 빗방울 ^00로 이동하세요</korean>
 		<taiwanese>使用左操作桿或方向按鈕移動水滴 ^00</taiwanese>
@@ -14910,6 +14922,7 @@
 		<polish>Skrypt voiceover</polish>
 		<portuguese>Guião Voice-over</portuguese>
 		<italian>Autore Voce Fuori Campo</italian>
+		<russian>Сценарий</russian>
 		<chinese>画外音脚本</chinese>
 		<korean>목소리 스크립트</korean>
 		<taiwanese>語音</taiwanese>
@@ -14930,6 +14943,7 @@
 		<polish>Podkładający głos</polish>
 		<portuguese>Artista Voice-over</portuguese>
 		<italian>Artista Voce Fuori Campo</italian>
+		<russian>Нарратор</russian>
 		<chinese>画外音艺术家</chinese>
 		<korean>성우</korean>
 		<taiwanese>配音</taiwanese>
@@ -14950,6 +14964,7 @@
 		<polish>Efekty dźwiękowe</polish>
 		<portuguese>Efeitos Sonoros</portuguese>
 		<italian>Effetti Sonori</italian>
+		<russian>Звуковые эффекты</russian>
 		<chinese>音效</chinese>
 		<korean>음향효과</korean>
 		<taiwanese>音效</taiwanese>
@@ -14991,7 +15006,7 @@
 		<polish>Rozrzucone fragmenty.</polish>
 		<portuguese>Fragmentos.</portuguese>
 		<italian>Frammenti.</italian>
-		<russian>осколки.</russian>
+		<russian>Осколки.</russian>
 		<chinese>片段。</chinese>
 		<korean>단편들</korean>
 		<taiwanese>片段。</taiwanese>
@@ -15055,7 +15070,7 @@
 		<polish>Życie jest pełne drobnych zranień,</polish>
 		<portuguese>A vida é espessa com pequenas dores,</portuguese>
 		<italian>La vita è piena di piccoli dolori,</italian>
-		<russian>Жизнь наполнена мелкими неудачами,</russian>
+		<russian>Жизнь полна мелких неудач,</russian>
 		<chinese>丰富多彩的生活有着一点点痛苦，</chinese>
 		<korean>생애는 고통이 없이는 험난하며,</korean>
 		<taiwanese>人生有時充滿了痛苦，</taiwanese>
@@ -15103,7 +15118,7 @@
 		<polish>Sam nie wiem, dlaczego zatrzymałem je.</polish>
 		<portuguese>Só Deus sabe porque mantive tudo isso.</portuguese>
 		<italian>Chissà perché mi sono tenuto tutta questa roba.</italian>
-		<russian>Одному богу известно, зачем я хранил их</russian>
+		<russian>Одному богу известно, зачем я хранил их.</russian>
 		<chinese>天知道我为何无法忘怀。</chinese>
 		<korean>내가  그 중 하나를 소지한 이유를 알고 있습니다.</korean>
 		<taiwanese>天曉得我為何還留著這些東西。</taiwanese>
@@ -15119,7 +15134,7 @@
 		<polish>Jeden wielki bałagan, ciągnący wszystko w dół... nie sądzisz?</polish>
 		<portuguese>Uma grande confusão, de trazer este lugar abaixo... Não achas?</portuguese>
 		<italian>Un gran casino, c'è da soppesare tutto... non pensi?</italian>
-		<russian>Одна большая ошибка, отягощает это место… Как ты думаешь?</russian>
+		<russian>Одна большая ошибка, отягощает это место… Вы не думаете?</russian>
 		<chinese>一场大灾难，无法承受的重量......你不觉得吗？</chinese>
 		<korean>한번의 큰 실수로 공간이 무너앉았습니다...라고 생각지 않으시나요?</korean>
 		<taiwanese> 你不覺得它們已經成為我這破地方難以負荷的重擔了嗎？</taiwanese>
@@ -15151,6 +15166,7 @@
 		<polish>To przypomina mi o moim dziecieństwie.</polish>
 		<portuguese>Isto faz com que remetam à minha infância.</portuguese>
 		<italian>Questo mi fa tornare alla mia infanzia.</italian>
+		<russian>Эта ошибка заставляет меня вернуться назад в детство.</russian>
 		<chinese>这让我回想起我的童年。</chinese>
 		<korean>이 동작으로 내 어린시절로 돌아갔습니다.</korean>
 		<taiwanese>這讓我回想起我的童年。</taiwanese>
@@ -15182,6 +15198,7 @@
 		<polish>Nie mogliśmy przewidzieć nadchodzących ciemnych dni...</polish>
 		<portuguese>Nunca poderíamos ter previsto os dias negros que aí vêm...</portuguese>
 		<italian>Non siamo stati in grado di prevedere i giorni bui...</italian>
+		<russian>Мы не могли предвидеть темные дни впереди...</russian>
 		<chinese>我们没法预见到前方黑暗的日子......</chinese>
 		<korean>어두운 날이 앞에 펼쳐져있다는 것을 전혀 몰랐습니다.</korean>
 		<taiwanese>我們沒法預見到前方黑暗的日子...</taiwanese>
@@ -15197,6 +15214,7 @@
 		<polish>To nie uczciwe, że grzebiesz w moich rzeczach.</polish>
 		<portuguese>Não é justo estares a vasculhar as minhas coisas.</portuguese>
 		<italian>Non è giusto che voi frughiate tra le mie cose.</italian>
+		<russian>Не честно с твоей стороны рыться в моих вещах</russian>
 		<chinese>让你在我这儿翻东西，对你是不公平的。</chinese>
 		<korean>내 물건을 뒤지는 것은 온당하지 않아요</korean>
 		<taiwanese>為什麼要一直在這兒翻我的舊東西？</taiwanese>
@@ -15212,6 +15230,7 @@
 		<polish>Gdy byliśmy młodzi w pośpiechu odwracałeś każdy kamień.</polish>
 		<portuguese>Quando és jovem, apressas-te para virar todas as pedras.</portuguese>
 		<italian>Quando sei giovane, sei smanioso di scoprire qualsiasi cosa.</italian>
+		<russian>Когда ты молод, тебе хочется перевернуть каждый камень</russian>
 		<chinese>当你还年轻的时候，你急着翻开每一块石头。</chinese>
 		<korean>당신이 어렸을 때, 모든것을 알려고 했어요</korean>
 		<taiwanese>當你還年輕的時候，你急著翻開每一塊石頭。</taiwanese>
@@ -15227,6 +15246,7 @@
 		<polish>Ale lepiej przygotować się na to,</polish>
 		<portuguese>Mas deves ter tempo -</portuguese>
 		<italian>Ma devi prenderti del tempo -</italian>
+		<russian>Но не надо торопиться</russian>
 		<chinese>但你必须要花时间，</chinese>
 		<korean>그러나 천천히 하셔야합니다</korean>
 		<taiwanese>但你必須要花時間 -</taiwanese>
@@ -15242,6 +15262,7 @@
 		<polish>co może znajdować się pod spodem.</polish>
 		<portuguese>para te preparares para o que pode estar debaixo.</portuguese>
 		<italian>per prepararti a cosa potrebbe esserci sotto.</italian>
+		<russian>готовится к грядущему</russian>
 		<chinese>准备好知道下面可能会是什么。</chinese>
 		<korean>배후에 있는 것에 대해 준비하기 위해</korean>
 		<taiwanese>準備好知道下面可能會是什麼。</taiwanese>
@@ -15273,6 +15294,7 @@
 		<polish>Zaczepiłeś</polish>
 		<portuguese>Tu empurras</portuguese>
 		<italian>Tu colpisci</italian>
+		<russian>Ты тычешь</russian>
 		<chinese>你戳它</chinese>
 		<korean>찔러봤어요</korean>
 		<taiwanese>你戳它</taiwanese>
@@ -15288,6 +15310,7 @@
 		<polish>i ty szturchnąłeś</polish>
 		<portuguese>e sentes-te orgulhoso</portuguese>
 		<italian>e hai colpito</italian>
+		<russian>и тычешь</russian>
 		<chinese>你刺它</chinese>
 		<korean>그리고 재촉했어요</korean>
 		<taiwanese>你刺它</taiwanese>
@@ -15367,6 +15390,7 @@
 		<polish>Chcę żyć w zapomnieniu.</polish>
 		<portuguese>Quero a minha feliz ignorância.</portuguese>
 		<italian>Voglio la mia beata ignoranza.</italian>
+		<russian>Я хочу быть в блаженном неведении</russian>
 		<chinese>我只想找回我幸福的无知时光。</chinese>
 		<korean>축복받은 무시를 원해요</korean>
 		<taiwanese>我只想找回我幸福的無知時光。</taiwanese>
@@ -15382,6 +15406,7 @@
 		<polish>Możesz zabrać to wszystko. Nie obchodzi mnie to.</polish>
 		<portuguese>Podes levar isto tudo; não me interessa.</portuguese>
 		<italian>Ti puoi prendere tutto; non m'importa.</italian>
+		<russian>Ты можешь всё забрать; мне всё равно</russian>
 		<chinese>你可以把这些都拿走，我不在乎。</chinese>
 		<korean>전부 가져가세요; 괘념치 않습니다.</korean>
 		<taiwanese>你可以把這些都拿走；我不在乎。</taiwanese>
@@ -15397,6 +15422,7 @@
 		<polish>Złożyłeś odłamki,</polish>
 		<portuguese>Juntas-te os estilhaços</portuguese>
 		<italian>Rimetti insieme i cocci</italian>
+		<russian>Ты соединил осколки</russian>
 		<chinese>你把这些碎片粘到一起</chinese>
 		<korean>조각에 봉착했군요</korean>
 		<taiwanese>你把這些碎片粘到一起</taiwanese>
@@ -15412,6 +15438,7 @@
 		<polish>aby stworzyć mozaikę, której tak bardzo nie chaiałem widzieć.</polish>
 		<portuguese>Para formar um mosaico pedi-lhe para não me mostrar.</portuguese>
 		<italian>per formare un mosaico che ti ho pregato di non farmi vedere.</italian>
+		<russian>в мозаику, которую я просил мне не показывать.</russian>
 		<chinese>拼成一幅图，我曾经求你别给我看。</chinese>
 		<korean>보이지 말라고 청원한 모자이크를 구성하기 위해</korean>
 		<taiwanese>拼成一幅圖，我曾經求你別給我看。</taiwanese>
@@ -15491,6 +15518,7 @@
 		<polish>Być może to wszystko wygląda inaczej niż myślałem.</polish>
 		<portuguese>Talvez a fotografia não seja bem o que eu pensei.</portuguese>
 		<italian>Probabilmente non è proprio ciò a cui avevo pensato.</italian>
+		<russian>Возможно, картина не такая, как я думал.</russian>
 		<chinese>或许这画面跟我想象的不太一样。</chinese>
 		<korean>아마도 그림이 제가 생각했던 것과는 다른 것 같군요</korean>
 		<taiwanese>或許這畫面跟我想像的不太一樣。</taiwanese>
@@ -15522,6 +15550,7 @@
 		<polish>Jak mogłem o nich zapomnieć?</polish>
 		<portuguese>Como é que eu me esqueci delas?</portuguese>
 		<italian>Come ho potuto scordarmele?</italian>
+		<russian>Как мог я их забыть7</russian>
 		<chinese>我怎么可能会忘记它们？</chinese>
 		<korean>제가 그것들을 어떻게 잊을 수 있겠어요?</korean>
 		<taiwanese>我怎麼可能會忘記它們？</taiwanese>
@@ -15537,6 +15566,7 @@
 		<polish>Prawdy, których uczyliśmy się przez całe życie</polish>
 		<portuguese>A verdade é que passamos a vida a aprender</portuguese>
 		<italian>Le verità che spendiamo imparando nella nostra vita,</italian>
+		<russian>Истины, которые мы познаём всю жизнь</russian>
 		<chinese>我们耗尽此生学习的真理</chinese>
 		<korean>진실을 말하자면 습득에 우리의 삶을 소비했습니다</korean>
 		<taiwanese>我們一生中所經歷學習到的這些</taiwanese>
@@ -15552,6 +15582,7 @@
 		<polish>są warte tego, by o nie walczyć.</polish>
 		<portuguese>Vale a pena lutar para recuperar.</portuguese>
 		<italian>per recuperarle vale la pena di lottare.</italian>
+		<russian>стоит вернуть обратно.</russian>
 		<chinese>值得我们拼命取回。</chinese>
 		<korean>되찾기 위해서 몸부림칠 가치가 있습니다.</korean>
 		<taiwanese>珍貴到就算痛苦也不該被遺忘。</taiwanese>
@@ -15567,6 +15598,7 @@
 		<polish>Czy to właściwy czas?</polish>
 		<portuguese>É essa a hora?</portuguese>
 		<italian>È questa l'ora?</italian>
+		<russian>Это время?</russian>
 		<chinese>时间已经到了吗？</chinese>
 		<korean>시간이 됐나요?</korean>
 		<taiwanese>時間已經到了嗎？</taiwanese>
@@ -15582,6 +15614,7 @@
 		<polish>Płynie tak szybko, prawa?</polish>
 		<portuguese>Passa tão rápido, não passa...</portuguese>
 		<italian>Va veloce, non ti pare...</italian>
+		<russian>Они  идёт так быстро, не так ли…</russian>
 		<chinese>过得真快，不是吗......</chinese>
 		<korean>너무 빨라요, 안그래요...</korean>
 		<taiwanese>過得真快，不是嗎...</taiwanese>
@@ -15613,6 +15646,7 @@
 		<polish>Życie jest pełne drobnych zranień.</polish>
 		<portuguese>A vida é espessa com pequenas dores.</portuguese>
 		<italian>La vita è piena di piccoli dolori.</italian>
+		<russian>Жизнь - это чаща полная боли.</russian>
 		<chinese>丰富多彩的生活有着一点点痛苦。</chinese>
 		<korean>삶은 고통이 없으면 진전이 없어요.</korean>
 		<taiwanese>人生有時充滿了痛苦。</taiwanese>
@@ -15628,6 +15662,7 @@
 		<polish>Ale wtedy ona przytrzymała moja dłoń, by je opatrzeć.</polish>
 		<portuguese>Mas depois ela agarrou a minha mão para ver.</portuguese>
 		<italian>Ma poi mi prese la mano per vedere.</italian>
+		<russian>Но потом она взяла мою руку, чтобы увидеть.</russian>
 		<chinese>但她握着我的手一起走过。</chinese>
 		<korean>그러나 그 때그녀가 제 손을 잡아 보았어요.</korean>
 		<taiwanese>但她握著我的手一起走過。</taiwanese>
@@ -15643,6 +15678,7 @@
 		<polish>I trzymała ją już zawsze.</polish>
 		<portuguese>E agarrou-a todos os dias daí em diante.</portuguese>
 		<italian>E se la tenne per tutti i giorni a venire.</italian>
+		<russian>И держала её каждый день.</russian>
 		<chinese>今生的每一天都是如此。</chinese>
 		<korean>그리고 그 후 잡아주었습니다.</korean>
 		<taiwanese>今生的每一天都是如此。</taiwanese>
@@ -15738,6 +15774,7 @@
 		<polish>Zachowaj żarówki jako ^32</polish>
 		<portuguese>Manter as lâmpadas como ^32</portuguese>
 		<italian>Lascia le lampadine ^32</italian>
+		<russian>Оставьте лампоки как ^32</russian>
 		<chinese>保持灯泡为 ^32</chinese>
 		<korean>전구를 ^32로 유지하세요</korean>
 		<taiwanese>保持燈泡為 ^32</taiwanese>
@@ -15881,7 +15918,7 @@
 		<polish>Ukończ %d rozdziałów</polish>
 		<portuguese>Completar %d capítulos</portuguese>
 		<italian>Completa %d livelli</italian>
-		<russian>Завершите %d глав</russian>
+		<russian>Завершите %d главы</russian>
 		<chinese>完成 %d 个章节</chinese>
 		<korean>%d 장 완성하기</korean>
 		<taiwanese>完成 %d 個章節</taiwanese>
@@ -15897,7 +15934,7 @@
 		<polish>Ukończ %d rozdziałów w idealnych ruchach</polish>
 		<portuguese>Completar %d capítulos em movimentos perfeitos</portuguese>
 		<italian>Completa %d livelli con mosse perfette</italian>
-		<russian>Идеально завершите %d глав</russian>
+		<russian>Идеально завершите %d главы</russian>
 		<chinese>以完美移动步数完成 %d 个章节</chinese>
 		<korean>완벽한 이동으로 %d장을 완성하세요</korean>
 		<taiwanese>以完美移動步數完成 %d 個章節</taiwanese>
@@ -15913,7 +15950,7 @@
 		<polish>Przejrzyste myślenie</polish>
 		<portuguese>Pensamento Limpo</portuguese>
 		<italian>Lucidità</italian>
-		<russian>Ясно думающий</russian>
+		<russian>Сообразительный</russian>
 		<chinese>思路清晰</chinese>
 		<korean>확실한 생각</korean>
 		<taiwanese>思路清晰</taiwanese>
@@ -16025,7 +16062,7 @@
 		<polish>Zbierz %d klejnotów</polish>
 		<portuguese>Coleccionar %d jóias</portuguese>
 		<italian>Raccogli %d gioielli</italian>
-		<russian>Соберите бриллиант(а)</russian>
+		<russian>Соберите бриллиантов</russian>
 		<chinese>收集 %d 颗珠宝</chinese>
 		<korean>보석 %d개 수집하기</korean>
 		<taiwanese>收集 %d 顆珠寶</taiwanese>
@@ -16153,7 +16190,7 @@
 		<polish>Przełącz baterię %d razy w trakcie poziomu</polish>
 		<portuguese>Muda a bateria %d vezes durante um nível</portuguese>
 		<italian>Accendi la batteria %d volte durante il livello</italian>
-		<russian>Переключите батарею %d раз(а) за уровень</russian>
+		<russian>Переключите батарею %d раз за уровень</russian>
 		<chinese>在一个关卡内切换电池开启 %d 次</chinese>
 		<korean>레벨 수행 중에  밧데리를 %d회 전환하세요</korean>
 		<taiwanese>在一個關卡內切換電源 %d 次</taiwanese>
@@ -16169,7 +16206,7 @@
 		<polish>Puenta</polish>
 		<portuguese>Piada</portuguese>
 		<italian>Battuta finale</italian>
-		<russian>Изюминка</russian>
+		<russian>Кульминация</russian>
 		<chinese>笑点</chinese>
 		<korean>핵심구절</korean>
 		<taiwanese>笑點</taiwanese>
@@ -16185,7 +16222,7 @@
 		<polish>Zmień żarówkę %d razy w trakcie poziomu</polish>
 		<portuguese>Muda a lâmpada %d vezes duante um nível</portuguese>
 		<italian>Cambia una lampadina %d volte durante il livello</italian>
-		<russian>Измените цвет ламп %d раз(а) за уровень</russian>
+		<russian>Измените цвет ламп %d раз за уровень</russian>
 		<chinese>在一个关卡内更改一枚灯泡 %d 次</chinese>
 		<korean>레벨 수행 중에 전구를 %d회 교체하세요.</korean>
 		<taiwanese>在一個關卡內更改一枚燈泡 %d 次</taiwanese>
@@ -16217,7 +16254,7 @@
 		<polish>Przełam lodowy blok %d razy</polish>
 		<portuguese>Parte um bloco de gelo %d vezes</portuguese>
 		<italian>Rompi un blocco di ghiaccio %d volte</italian>
-		<russian>Сломайте лёд %d раз(а)</russian>
+		<russian>Сломайте лёд %d раз</russian>
 		<chinese>打碎冰块 %d 次</chinese>
 		<korean>얼음 블록 %d회 깨기</korean>
 		<taiwanese>打碎冰塊 %d 次</taiwanese>
@@ -16281,6 +16318,7 @@
 		<polish>Przełam %d bloki lodowe zawierające przedmiot</polish>
 		<portuguese>Parte %d blocos de gelo que contenham objectos</portuguese>
 		<italian>Rompi %d blocchi di ghiaccio che contengono un oggetto</italian>
+		<russian>Сломайте %d кубиков льда, которые содержат предметы</russian>
 		<chinese>打碎 %d 枚包含道具的冰块</chinese>
 		<korean>사물을 포함하는 %d의 얼음 블록 깨기</korean>
 		<taiwanese>打破 %d 枚包含道具的冰塊</taiwanese>
@@ -16312,7 +16350,7 @@
 		<polish>Połącz %d kropelek w 1</polish>
 		<portuguese>Junta %d gotículas numa só</portuguese>
 		<italian>Unisci %d gocce in 1</italian>
-		<russian>Соедините %d капель в одну</russian>
+		<russian>Соедините %d капли в одну</russian>
 		<chinese>将 %d 颗水滴合为一滴</chinese>
 		<korean>%d개의 물방울을 합쳐 한개로 만들기</korean>
 		<taiwanese>將 %d 顆水滴合為一滴</taiwanese>
@@ -16328,7 +16366,7 @@
 		<polish>Illuminata</polish>
 		<portuguese>Illuminatus</portuguese>
 		<italian>Illuminati</italian>
-		<russian>Иллюминатус</russian>
+		<russian>Осветитель</russian>
 		<chinese>启示录</chinese>
 		<korean>일루미네이터스</korean>
 		<taiwanese>啟示錄</taiwanese>
@@ -16376,6 +16414,7 @@
 		<polish>Skrzyżuj strumienie światła %d razy jednocześnie</polish>
 		<portuguese>Cruza os feixes %d vezes ao mesmo tempo</portuguese>
 		<italian>Incrocia i fasci %d volte allo stesso tempo</italian>
+		<russian>Пересеките %d лучей одновременно.</russian>
 		<chinese>同时穿越光柱 %d 次</chinese>
 		<korean>빔을 %d회 한번에 가로지르세요.</korean>
 		<taiwanese>同時出現%d個光束交叉點</taiwanese>
@@ -16439,7 +16478,7 @@
 		<polish>Spotkaj ducha %d razy</polish>
 		<portuguese>Conhece o espírito %d vezes</portuguese>
 		<italian>Incontra lo spirito %d volte</italian>
-		<russian>Повстречайтесь с духом %d раз(а)</russian>
+		<russian>Повстречайтесь с духом %d раза</russian>
 		<chinese>遇到灵魂 %d 次</chinese>
 		<korean>스피릿을 %d회 만나세요</korean>
 		<taiwanese>撞上守護靈 %d 次</taiwanese>
