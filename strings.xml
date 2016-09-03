@@ -382,7 +382,7 @@
 		<polish>Przejdź poprzedni etap, aby odblokować</polish>
 		<portuguese>Termine o cenário ant. p/desbloq.</portuguese>
 		<italian>Sblocca completando il precedente</italian>
-		<russian>Завершите предыдущий раздел, чтобы открыть</russian>
+		<russian>Завершите предыдущий этап, чтобы открыть</russian>
 		<chinese>完成之前的关卡解锁</chinese>
 		<korean>이전 스테이지를 완료하면 해제됩니다</korean>
 		<taiwanese>必須先通過先前的關卡</taiwanese>
@@ -16717,6 +16717,7 @@
 		<polish>Staraj się unikać wszelkich zarówek do ^33</polish>
 		<portuguese>Tenta evitar ligar quaisquer lâmpadas para ^33</portuguese>
 		<italian>Prova ad evitare di accendere ogni lampadina a ^33</italian>
+		<russian>Постарайтесь избегать переключения цвета ламп на ^33</russian>
 		<chinese>试着避免将灯泡变为 ^33</chinese>
 		<korean>전구를 ^33으로 회전시키는 것을 회피하세요</korean>
 		<taiwanese>試著避免將燈泡變為 ^33</taiwanese>
@@ -16763,6 +16764,7 @@
 		<polish>Przełącz pomiędzy ^48 i ^47, aby zapobiec zmianie żarówek na ^33</polish>
 		<portuguese>Troca entre ^48e ^47 para prevenir as lâmpadas de mudarem para ^33</portuguese>
 		<italian>Passa da ^48 a ^47 per evitare che le lampadine diventino ^33</italian>
+		<russian>Переключайтесь между ^48 и ^47, чтобы предотвратить изменение цвета на ^33</russian>
 		<chinese>在 ^48 和 ^47 间切换来防止灯泡变为 ^33</chinese>
 		<korean>^48과 ^47 사이의 전구가 ^33으로 바뀌는 것을 방지하기 위해 전환하세요</korean>
 		<taiwanese>在 ^48 和 ^47 間切換來防止燈泡變為 ^33</taiwanese>
@@ -16794,6 +16796,7 @@
 		<polish>Do nowych stref można czasami dotrzeć przez użycie ^42, aby zatrzymać ^00</polish>
 		<portuguese>Novas áreas podem, por vezes, ser alcançandas usando  ^42 para parar os ^00</portuguese>
 		<italian>Le nuove aree qualche volta possono essere raggiunte usando ^42 per fermare il ^00</italian>
+		<russian>В новые места можно попасть, используя ^42, чтобы остановить ^00</russian>
 		<chinese>新区域有时可通过 ^42 停止 ^00 来到达</chinese>
 		<korean>신규 지역은 ^00를 정지시키기 위해 ^42를 사용하여 도달할 수 있습니다</korean>
 		<taiwanese>有時候可以靠 ^42 停止 ^00 來到達新區域</taiwanese>
@@ -16841,6 +16844,7 @@
 		<polish>Usunąć ^43 z drogi</polish>
 		<portuguese>Move ^43 fora do teu caminho</portuguese>
 		<italian>Togli ^43 di mezzo</italian>
+		<russian>Сбейте ^43 с пути</russian>
 		<chinese>把 ^43 移开</chinese>
 		<korean>^43을 경로 바깥으로 이동시키시기 바랍니다</korean>
 		<taiwanese>把 ^43 移開</taiwanese>
@@ -16856,6 +16860,7 @@
 		<polish>Najpierw środkowy rząd!</polish>
 		<portuguese>Fila do meio primeiro!</portuguese>
 		<italian>Prima la riga di mezzo!</italian>
+		<russian>Сначала средний ряд!</russian>
 		<chinese>首先是中间那排！</chinese>
 		<korean>중간 열부터 시행하십시오!</korean>
 		<taiwanese>首先是中間那排！</taiwanese>
@@ -16886,6 +16891,7 @@
 		<polish>Zbierz tylko jeden ^19 w danym czasie</polish>
 		<portuguese>Colecciona apenas uma ^19 de cada vez</portuguese>
 		<italian>Raccogli solo un ^19 alla volta</italian>
+		<russian>Собирайте только одну ^19 за раз</russian>
 		<chinese>一次只能收集一枚 ^19</chinese>
 		<korean>한개의 ^19만을 한회에 수집합니다</korean>
 		<taiwanese>一次只能收集一個 ^19</taiwanese>
@@ -16901,6 +16907,7 @@
 		<polish>Przesuń ^35 do pozycji, która podświetla wszystkie ^26 diamentów jednocześnie</polish>
 		<portuguese>Move ^35 para a posição que ilumina todos ^26 ao mesmo tempo</portuguese>
 		<italian>Sposta ^35 nella posizione che illumina tutti i ^26 allo stesso momento</italian>
+		<russian>Передвиньте ^35 на место, где она освещает все ^26 одновременно</russian>
 		<chinese>移动 ^35 到同时照亮所有 ^26 的位置</chinese>
 		<korean>^35를 움직여 모든 ^26을 동시에 조명하십시오</korean>
 		<taiwanese>移動 ^35 到同時照亮所有 ^26 的位置</taiwanese>
@@ -16916,6 +16923,7 @@
 		<polish>Przesuń ^35 do pozycji, która podświetla wszystkie ^26 jednocześnie Strumienie mogą owinąć się wokół ekranu</polish>
 		<portuguese>Move ^35 para a posição  que ilumina todos ^26 ao mesmo tempo.. Feixes podem iluminar o ecrã</portuguese>
 		<italian>Sposta ^35 nella posizione che illumina tutti i ^26 allo stesso momento. I fasci possono avvolgere completamente lo schermo</italian>
+		<russian>Передвиньте ^35 на место, где она освещает все ^26 одновременно. Лучи могут выходить за край</russian>
 		<chinese>移动 ^35 到同时照亮所有 ^26 的位置。光线可以散射在通道里</chinese>
 		<korean>^35를 움직여 모든 ^26를 동시에 조명하십시오. 빔은 화면을 감쌀 수 있습니다.</korean>
 		<taiwanese>移動 ^35 到同時照亮所有 ^26 的位置。光線可以環繞在螢幕上</taiwanese>
@@ -16931,6 +16939,7 @@
 		<polish>Przesuń ^36 do pozycji, która podświetla wszystkie ^25 diamentów jednocześnie</polish>
 		<portuguese>Move ^36 para a posição que ilumina todos ^25 ao mesmo tempo</portuguese>
 		<italian>Sposta ^36 nella posizione che illumina tutti i ^25 allo stesso momento</italian>
+		<russian>Передвиньте ^36 на место, где она освещает все ^25 одновременно</russian>
 		<chinese>移动 ^36 到同时照亮所有 ^25 的位置</chinese>
 		<korean>^36을 움직여 모든 ^25가 동시에 조명되는 위치에 놓으십시오</korean>
 		<taiwanese>移動 ^36 到同時照亮所有 ^25 的位置</taiwanese>
@@ -16946,6 +16955,7 @@
 		<polish>Przesuń ^35 do pozycji, która podświetla wszystkie ^26 jednocześnie, i ^36 dla wszystkich ^25</polish>
 		<portuguese>Move ^35 para a posição que ilumina todos ^26 ao mesmo tempo, e ^36 para todos ^25</portuguese>
 		<italian>Sposta ^35 nella posizione che illumina tutti i ^26 allo stesso momento, e ^36 per tutti ^25</italian>
+		<russian>Передвиньте ^35 на место, где она освещает все ^26 одновременно, а ^36 все ^25</russian>
 		<chinese>移动 ^35 到同时照亮所有 ^26 的位置，并且移动 ^36 到同时照亮所有 ^25 的位置</chinese>
 		<korean>^35를 움직여 모든 ^26이(가) 동시에 조명되도록 하고, 모든 ^25가 동시에 조명되도록 ^36을 움직이세요.</korean>
 		<taiwanese>移動 ^35 到同時照亮所有 ^26 的位置，並且移動 ^36 到同時照亮所有 ^25 的位置</taiwanese>
@@ -16961,6 +16971,7 @@
 		<polish>^05 umożliwia przejście strumieniom światła. Podświetl wszysteki ^25 w ten sposób</polish>
 		<portuguese>^05 permite que feixes de luz passem através. Ilumina todosl ^25 deste modo</portuguese>
 		<italian>^05 consente ai fasci di luce di passare attraverso. Illumina tutti i ^25 in questa direzione</italian>
+		<russian>^05 даёт лучам света пройти насквозь. Осветите все ^25 этим способов</russian>
 		<chinese>^05 允许光线通过。照亮这条路上的所有 ^25</chinese>
 		<korean>^05는 광선이 통과하도록 합니다. 모든 ^25를 이런 식으로 조명하세요.</korean>
 		<taiwanese>^05 允許光線通過。照亮這條路上的所有 ^25</taiwanese>
@@ -17006,6 +17017,7 @@
 		<polish>Jeden ^35 może popchnąć ^38 do innego ^35</polish>
 		<portuguese>Um ^35 pode empurrar ^38 para o outro ^35</portuguese>
 		<italian>Un ^35 può spostare il ^38 sull'altro ^35</italian>
+		<russian>Одну ^35 можно столкнуть ^38 c другой ^35</russian>
 		<chinese>一个 ^35 可以推动 ^38 到另一个 ^35的附近</chinese>
 		<korean>한개의 ^35는 ^38을 다른 ^35로 밀 수 있습니다</korean>
 		<taiwanese>一個 ^35 可以推動 ^38 到另一個 ^35</taiwanese>
@@ -17052,6 +17064,7 @@
 		<polish>Przesunąć ^38, tak by strumień mógł do niego dotrzeć</polish>
 		<portuguese>Empurra o ^38 para que o feixe o possa alcançar</portuguese>
 		<italian>Spingi il ^38 in modo che il fascio possa raggiungerlo</italian>
+		<russian>Сдвиньте ^38, чтобы лучи могли дойти до него</russian>
 		<chinese>推动 ^38，让光线能穿透它</chinese>
 		<korean>^38을 밀어 빛이 도달하도록 하십시오</korean>
 		<taiwanese>推動 ^38，讓光線能照到</taiwanese>
@@ -17067,6 +17080,7 @@
 		<polish>Znajdź pozycję, w które dwa ^35 podświetlają wszystkie ^26</polish>
 		<portuguese>Procura as posições onde os dois ^35 iluminem todos os ^26</portuguese>
 		<italian>Trova le posizioni in cui i due ^35 illuminano il ^26</italian>
+		<russian>Найдите место, где две ^35 осветят все ^26</russian>
 		<chinese>找到两个 ^35 照亮所有 ^26 的位置</chinese>
 		<korean>두개의 ^35가 모든 ^26을 비추는 위치를 찾아보세요</korean>
 		<taiwanese>找到兩個 ^35 照亮所有 ^26 的位置</taiwanese>
@@ -17082,6 +17096,7 @@
 		<polish>Przesuń ^40, by zostało podświetlone przez ^37</polish>
 		<portuguese>Empurra ^40 para que seja iluminado por ^37</portuguese>
 		<italian>Spingi ^40 in modo che venga illuminato da ^37</italian>
+		<russian>Толкните ^40, чтобы оно освещалось ^37</russian>
 		<chinese>推动 ^40，让它被 ^37 照亮</chinese>
 		<korean>^40을 밀어 ^37에 의해 비추어지도록 하십시오</korean>
 		<taiwanese>推動 ^40，讓它被 ^37 照亮</taiwanese>
@@ -17160,6 +17175,7 @@
 		<polish>Konieczne jest czasem śledzenie</polish>
 		<portuguese>Voltar atrás é, por vezes, necessário</portuguese>
 		<italian>A volte fare marcia indietro è necessario</italian>
+		<russian>Иногда необходимо начать заново</russian>
 		<chinese>有时可能需要原路返回</chinese>
 		<korean>되돌아가기는 때로 필요합니다</korean>
 		<taiwanese>有時可能需要原路返回</taiwanese>
@@ -17175,6 +17191,7 @@
 		<polish>Przesuń ^20, tylko gdy ^49 znajduje się blisko</polish>
 		<portuguese>Empurra o ^20 apenas quando ^49 está perto</portuguese>
 		<italian>Sposta il ^20 solo quando i ^49 sono vicini</italian>
+		<russian>Толкните ^20, когда закрыты ^49</russian>
 		<chinese>当 ^49 接近时，只推动 ^20</chinese>
 		<korean>^20은 ^49가 닫혀있을 때만 밀어주세요</korean>
 		<taiwanese>只有當 ^49 接近時才推動 ^20</taiwanese>
@@ -17190,6 +17207,7 @@
 		<polish>Pozwól ^49 odwrócić ^48</polish>
 		<portuguese>Deixa o ^49 ligar o ^48</portuguese>
 		<italian>Fai in modo che i ^49 accendano i ^48</italian>
+		<russian>Дайте ^49 стать ^48</russian>
 		<chinese>让 ^49 开启 ^48</chinese>
 		<korean>^49가 ^48을 켜도록 하세요</korean>
 		<taiwanese>讓 ^49 變換成 ^48</taiwanese>
@@ -17220,6 +17238,7 @@
 		<polish>Pomocna dłoń jest potrzebna do przesunięcia ^20</polish>
 		<portuguese>Uma mão para ajudar é necessária para movimentar o ^20</portuguese>
 		<italian>C'è bisongo di una mano per spostare il ^20</italian>
+		<russian>Нужна помощь, чтобы сдвинуть ^20</russian>
 		<chinese>要移动到 ^20，你需要援手</chinese>
 		<korean>^20을 움직이기 위해 도움이 필요합니다</korean>
 		<taiwanese>要移動到 ^20，你需要幫助</taiwanese>
@@ -17266,6 +17285,7 @@
 		<polish>Usunąć przeszkody ze ścieżki ^49</polish>
 		<portuguese>Remove os obstáculos do caminho do  ^49</portuguese>
 		<italian>Rimuovi gli ostacoli sul percorso di ^49</italian>
+		<russian>Убирайте препядствия с пути ^49</russian>
 		<chinese>移开 ^49 移动路径中的障碍物</chinese>
 		<korean>^49의 경로에서 장애를 제거하세요</korean>
 		<taiwanese>移開 ^49 移動路徑中的障礙物</taiwanese>
@@ -17281,6 +17301,7 @@
 		<polish>Wybór, w którym momencie przerwać ^42 jest istotne</polish>
 		<portuguese>Escolher quando partir ^42 é importante</portuguese>
 		<italian>Scegliere quando rompere ^42 è fondamentale</italian>
+		<russian>Важно выбрать, когда сломать ^42</russian>
 		<chinese>选择何时打碎 ^42 非常重要</chinese>
 		<korean>^42를 언제 격파하는지 선택하는 것이 중요합니다</korean>
 		<taiwanese>選擇何時打破 ^42 非常重要</taiwanese>
@@ -17312,6 +17333,7 @@
 		<polish>Przesunięcie ^06 zmieni ^44 na ^45</polish>
 		<portuguese>Empurrando ^06 irá mudar o ^44para ^45</portuguese>
 		<italian>Spostare ^06 farà diventare ^44 ^45</italian>
+		<russian>Толкание ^06 изменит ^44 на ^45</russian>
 		<chinese>推动 ^06 将使 ^44 变化为 ^45</chinese>
 		<korean>^06을 밀면 ^44가 ^45로 변환합니다</korean>
 		<taiwanese>推動 ^06 將使 ^44 變化為 ^45</taiwanese>
@@ -17327,6 +17349,7 @@
 		<polish>Przesunięcie ^20 zmieni ^45 na ^44</polish>
 		<portuguese>Empurrando ^20 irá mudar o ^45 para ^44</portuguese>
 		<italian>Spostare ^20 farà diventare ^45 ^44</italian>
+		<russian>Толкание ^20 изменит ^45 на ^44</russian>
 		<chinese>推动 ^20 将使 ^45 变化为 ^44</chinese>
 		<korean>^20을 밀면 ^45가 ^44로 변환합니다</korean>
 		<taiwanese>推動 ^20 將使 ^45 變化為 ^44</taiwanese>
@@ -17342,6 +17365,7 @@
 		<polish>Unikać najbardziej oczywistego pozycjonowania ^43</polish>
 		<portuguese>Evita o posicionamente mais óbvio do ^43</portuguese>
 		<italian>Evita di posizionare ^43 nel modo più ovvio</italian>
+		<russian>Избегайте наиболее очевидного расположения ^43</russian>
 		<chinese>尽可能地避开 ^43 的位置</chinese>
 		<korean>^43의 가장 명백한 위치 설정을 회피하세요</korean>
 		<taiwanese>盡量避免 ^43 放在明顯的位置</taiwanese>
@@ -17373,6 +17397,7 @@
 		<polish>Jest więcej niż jeden sposób na zebranie lewego ^01</polish>
 		<portuguese>Há mais de uma maneira para coleccionar a esquerda ^01</portuguese>
 		<italian>C'è un modo in più per raccogliere il ^01 rimasto</italian>
+		<russian>Есть больше одного способа собрать оставшиеся ^01</russian>
 		<chinese>有多种方式收集剩下的 ^01</chinese>
 		<korean>왼쪽 ^01을 수집하기위한 한 개 이상의 방법이 있습니다</korean>
 		<taiwanese>有多種方式收集剩下的 ^01</taiwanese>
@@ -17419,6 +17444,7 @@
 		<polish>Strumień światła nie przejdzie przez ^42</polish>
 		<portuguese>Os feixes de luz não passam através de ^42</portuguese>
 		<italian>I fasci di luce non passano attraverso ^42</italian>
+		<russian>Лучи света не проходят через ^42</russian>
 		<chinese>光线无法穿过 ^42</chinese>
 		<korean>광선은 ^42를 통과하지 않습니다</korean>
 		<taiwanese>光線無法穿過 ^42</taiwanese>
@@ -17449,6 +17475,7 @@
 		<polish>Przesunąć ^38 , tak by mógł zostać podświetlony przez ^35</polish>
 		<portuguese>Move ^38 para poder ser iluminado por ^35</portuguese>
 		<italian>Sposta ^38 in modo che possa essere illuminato da ^35</italian>
+		<russian>Передвигайте ^38, что он мог освещаться ^35</russian>
 		<chinese>移动 ^38，使它能被 ^35 照亮</chinese>
 		<korean>^38을 움직여 ^35에 의해 조명될 수 있도록 하세요</korean>
 		<taiwanese>移動 ^38，使它能被 ^35 照亮</taiwanese>
@@ -17495,6 +17522,7 @@
 		<polish>Przełam ^42 i podświetl ^34</polish>
 		<portuguese>Parte o ^42 e ilumina o ^34</portuguese>
 		<italian>Rompi il ^42 e illumina il ^34</italian>
+		<russian>Сломайте ^42 и осветите ^34</russian>
 		<chinese>打碎 ^42 并照亮 ^34</chinese>
 		<korean>^42를 격파하여 ^34를 조명하세요</korean>
 		<taiwanese>打破 ^42 並照亮 ^34</taiwanese>
@@ -17525,6 +17553,7 @@
 		<polish>Środkowy ^33 jest najtrudniejszy do osiągnięcia. Planuj naprzód</polish>
 		<portuguese>O meio ^33 é o mais difícil alcançar. Planeia com antecedência</portuguese>
 		<italian>Il ^33 di mezzo è il più difficile da raggiungere. Pianifica in anticipo</italian>
+		<russian>В середину ^33 трудно попасть. Думайте заранее</russian>
 		<chinese>中间的 ^33 是最难到达的地点。要提前计划好移动方法</chinese>
 		<korean>중간의 ^33은 가장 도달하기 어렵습니다. 계속 계획하세요</korean>
 		<taiwanese>中間的 ^33 是最難到達的地點。要提前想好移動方法</taiwanese>
@@ -17649,6 +17678,7 @@
 		<polish>Pierwszym krokiem jest włączenie ^48</polish>
 		<portuguese>O primeiro passo é para ligar o  ^48</portuguese>
 		<italian>Il primo passo è accendere il ^48</italian>
+		<russian>Первый ход запустит ^48</russian>
 		<chinese>第一步是开启 ^48</chinese>
 		<korean>첫 번째 스텝은 ^48을 켜기위한 것입니다</korean>
 		<taiwanese>第一步是切換 ^48</taiwanese>
@@ -18557,6 +18587,7 @@ título.</spanish>
 		<polish>Mieszczący się w opuszczonym domu, gracz przywróci porządek pomieszanie wspomnień z ostatniego okupanta, a robiąc to wyrusza na dziką przygodę do refleksji i samopoznania.</polish>
 		<portuguese>Situado numa antiga casa abandonada, o jogador restaura ordem às memórias espalhadas do ultimo morador e assim embarca numa aventura assombrosa de auto-conehcimento e reflecção.</portuguese>
 		<italian>Ambientato all'interno di una casa abbandonata, il giocatore ristabilisce l'ordine dei ricordi confusi dell'ultimo occupante, e facendo ciò si imbarca in un'entusiasmante avventura verso la riflessione e la scoperta di se stesso.</italian>
+		<russian>В старом заброшенном доме, игрок восстанавливает порядок в беспорядочных воспоминаний последнего жильца, и при этом отправляется в путешествие самопознания и размышлений.</russian>
 		<chinese>在一座被遗弃的老房子里，玩家帮助最后一位居住者修复混乱的回忆碎片，从此踏上了自我发现和反思的难忘旅程。</chinese>
 		<korean>오래된 버려진 집에 설정되어서 마지막 거주자의 무질서한 기억을 회복시키고 그럼으로써 자아 발견과 반향의 잊을 수 없는 여행을 시작하십시오.</korean>
 		<taiwanese>在一座被遺棄的老房子裡，玩家幫助最後一位居住者修復混亂的回憶碎片，從此踏上了自我發現和反思的難忘旅程。</taiwanese>
@@ -18574,6 +18605,7 @@ título.</spanish>
 		<polish>Użyj logiki i myślenia lateralnego rozwiązać ponad 150 pomysłowych łamigłówek. Nadaje się dla całej rodziny, ta gra jest doświadczenie, które będzie dla Ciebie przez długi, długi czas.</polish>
 		<portuguese>Usa a lógica e pensamento lateral para resolver os 150 puzzles. Feitos para toda a familia, é uma experiencia que ficará contigo mesmo após o fim.</portuguese>
 		<italian>Usa la logica e il pensiero laterale per risolvere oltre 150 puzzle ingegnosi. Adatto per tutta la famiglia, questo gioco è un'esperienza che farà al caso tuo per molto, molto tempo.</italian>
+		<russian>Используйте логику и нестандартное мышление, чтобы решить более 150 хитроумных головоломок. Подходит для всей семьи, эти ощущения останутся с вами еще долго после того, как вы решите все загадки.</russian>
 		<chinese>使用逻辑和横向思维能力，解决超过 150 个巧妙设计的谜题。本游戏适合全家一起游玩，在你玩过后，游戏带来的思维体验将长期伴随你。</chinese>
 		<korean>150개가 넘는 기발한 수수께끼를 풀기위해 논리와 간접적인 사고를 사용하세요. 모든 가족에게 적합하며 게임 후에도 기억에 남는 경험이 됩니다.</korean>
 		<taiwanese>使用邏輯和橫向思維能力，解決超過 150 個巧妙設計的謎題。本遊戲適合全家一起遊玩，在您玩過後，遊戲帶來的思維體驗將長期伴隨您。</taiwanese>
@@ -20131,6 +20163,7 @@ título.</spanish>
 		<id>STR_CLUE_CANDY_1</id>
 		<translate>true</translate>
 		<english>Use ^54 to shift the candies to matches of 3.</english>
+		<russian>Используйте ^54, чтобы сдвинуть 3 конфеты рядом.</russian>
 		<chinese>使用^54去掉指定的三个糖果</chinese>
 		<taiwanese>使用^54消去指定的三3個糖果。</taiwanese>
 	</stringentry>
@@ -20138,6 +20171,7 @@ título.</spanish>
 		<id>STR_CLUE_CANDY_2</id>
 		<translate>true</translate>
 		<english>Push the candy to make 3 in a row, horizontally or vertically.</english>
+		<russian>Столкните 3 конфеты в ряд, горизонтально или вертикально.</russian>
 		<chinese>让糖果在水平或垂直方向连放3个</chinese>
 		<taiwanese>連續放3個糖果在水平或垂直方向。</taiwanese>
 	</stringentry>
@@ -20145,6 +20179,7 @@ título.</spanish>
 		<id>STR_CLUE_CANDY_6</id>
 		<translate>true</translate>
 		<english>Use the ^00 on the right to push the candy into place.</english>
+		<russian>Используйте ^00 справа, чтобы подвинуть конфету на место.</russian>
 		<chinese>使用^00从右将糖果推到指定地点。</chinese>
 		<taiwanese>使用^00將糖果往右推到指定地點。</taiwanese>
 	</stringentry>
@@ -20160,6 +20195,7 @@ título.</spanish>
 		<id>STR_CLUE_ARROW_ORDER</id>
 		<translate>true</translate>
 		<english>The order in which the ^54 are triggered is important.</english>
+		<russian>Важен порядок, в котором срабатывают ^54</russian>
 		<chinese>触发^54的顺序是很重要的。</chinese>
 		<taiwanese>接觸^54的順序是很重要的。</taiwanese>
 	</stringentry>
@@ -20175,6 +20211,7 @@ título.</spanish>
 		<id>STR_CLUE_CANDY_CORNER</id>
 		<translate>true</translate>
 		<english>Be careful not to push candy into corners from where it cannot be matched.</english>
+		<russian>Будьте осторожны, не сдвигайте конфеты в углы, где они не совпадут.</russian>
 		<chinese>尽量不要把糖果推到角落，以至于它不能被收集。</chinese>
 		<taiwanese>盡量不要把糖果推到角落，否則會無法收集。</taiwanese>
 	</stringentry>
@@ -20189,6 +20226,7 @@ título.</spanish>
 		<id>STR_CLUE_CANDY_LOOP_GOLD</id>
 		<translate>true</translate>
 		<english>Collect the ^19 and carefully get ^41 to the left side of the level.</english>
+		<russian>Соберите ^19 и осторожно перейдите ^41 к левой стороне уровня.</russian>
 		<chinese>收集^19，并小心地获得^41达到左边的等级。</chinese>
 		<taiwanese>收集^19，並小心地獲得^41達到左邊的等級。</taiwanese>
 	</stringentry>
@@ -20196,6 +20234,7 @@ título.</spanish>
 		<id>STR_CLUE_SPIKE_ROW</id>
 		<translate>true</translate>
 		<english>Move the spikes out of the way with careful ^00 positioning.</english>
+		<russian>Осторожно уберите шипы с пути следования ^00.</russian>
 		<chinese>小心利用^00的位置移开钉子。</chinese>
 		<taiwanese>小心利用^00去移動釘子。</taiwanese>
 	</stringentry>
@@ -20275,6 +20314,7 @@ título.</spanish>
 		<polish>Wyświetl</polish>
 		<portuguese>Vista</portuguese>
 		<italian>Vista</italian>
+		<russian>Открыть</russian>
 		<chinese>浏览</chinese>
 		<korean>보기</korean>
 		<taiwanese>視圖</taiwanese>
@@ -20392,6 +20432,7 @@ título.</spanish>
 		<polish>Aby ruszyć, należy przytrzymać lewy przycisk myszki i przesynąć ją w porządanym kierunku</polish>
 		<portuguese>Pressionar e manter premido o botão esquerdo e arrastar na direcção para o movimento</portuguese>
 		<italian>Tieni premuto il tasto sinistro del mouse e spostati nella direzione verso cui vuoi muoverti</italian>
+		<russian>Удерживайте левую кнопку мыши и тяните в направлении движения</russian>
 		<chinese>按住鼠标左键并向某一方向拖动来移动</chinese>
 		<korean>좌측의 마우스 버튼을 잡고 이동방향으로 드래그하세요</korean>
 		<taiwanese>按住滑鼠左鍵並向某一方向拖動來移動</taiwanese>
@@ -20407,6 +20448,7 @@ título.</spanish>
 		<polish>P. przycisk myszki</polish>
 		<portuguese>Botão Direito do rato Btn</portuguese>
 		<italian>Tasto Destro del mouse</italian>
+		<russian>Правая кнопка мыши</russian>
 		<chinese>鼠标右键</chinese>
 		<korean>우측 마우스 중간</korean>
 		<taiwanese>滑鼠右鍵</taiwanese>
@@ -20422,6 +20464,7 @@ título.</spanish>
 		<polish>Pytania kontrolne</polish>
 		<portuguese>Instrucções de Controlos</portuguese>
 		<italian>Instruzioni di controllo</italian>
+		<russian>Запрос управления</russian>
 		<chinese>控制提示</chinese>
 		<korean>컨트롤  프롬프트</korean>
 		<taiwanese>控制提示</taiwanese>
@@ -20437,6 +20480,7 @@ título.</spanish>
 		<polish>Wstępnie</polish>
 		<portuguese>Inicialmente</portuguese>
 		<italian>Inizialmente</italian>
+		<russian>По умолчанию</russian>
 		<chinese>最初</chinese>
 		<korean>초기에</korean>
 		<taiwanese>最初</taiwanese>
@@ -20456,26 +20500,31 @@ título.</spanish>
 		<id>STR_TUTORIAL_SWIPEMOVE_TOUCHPAD</id>
 		<translate>true</translate>
 		<english>Swipe on remote touchpad to move the raindrop  ^00</english>
+		<russian>Проведите по тачпаду, чтобы передвинуться каплю ^00</russian>
 	</stringentry>
 	<stringentry>
 		<id>STR_CLICK_TOUCHPAD_START</id>
 		<translate>true</translate>
 		<english>Click on remote touchpad to start</english>
+		<russian>Нажмите на тачпаде, чтобы начать</russian>
 	</stringentry>
 	<stringentry>
 		<id>STR_CLICK_TOUCHPAD_CONTINUE</id>
 		<translate>true</translate>
 		<english>Click on remote touchpad to continue</english>
+		<russian>Нажмите на тачпаде, чтобы продолжить</russian>
 	</stringentry>
 	<stringentry>
 		<id>STR_CLICK_TOUCHPAD_SWAP_HEROES</id>
 		<translate>true</translate>
 		<english>Click on remote touchpad to switch between ^00 raindrops</english>
+		<russian>Нажмите на тачпаде, чтобы переключиться между каплями ^00</russian>
 	</stringentry>
 	<stringentry>
 		<id>STR_CLOUD_UNAVAILABLE_REQUIRED_FOR_SAVING</id>
 		<translate>true</translate>
 		<english>iCloud is required for saving progress, but could not be accessed. Please check your network connectivity and that you are signed into iCloud in the Settings app.</english>
+		<russian>Не удалось получить доступ к iCloud для процесса сохранения. Пожалуйста, проверьте ваши настройки сети и то, что вы вошли в iCloud в приложении Настройки.</russian>
 	</stringentry>
 	<stringentry>
 		<id>STR_HOLD</id>
