@@ -630,7 +630,7 @@
 		<polish>Poprzednie najlepsze: ruchy %d</polish>
 		<portuguese>Recorde ant.: %d jogadas</portuguese>
 		<italian>Record prec.: %d mosse</italian>
-		<russian>Предыдущий рекорд ходов: %d</russian>
+		<russian>Предыдущий рекорд: %d</russian>
 		<chinese>历史最佳：%d 次移动</chinese>
 		<korean>이전 최고기록: %d번 이동</korean>
 		<taiwanese>先前紀錄: %d次移動</taiwanese>
@@ -662,7 +662,7 @@
 		<polish>Uzyskane wskazówki ^09</polish>
 		<portuguese>Ganhou uma pista ^09</portuguese>
 		<italian>Aiuto ottenuto ^09</italian>
-		<russian>Монета заработана ^09</russian>
+		<russian>Заработана монета ^09</russian>
 		<chinese>提示奖励 ^09</chinese>
 		<korean>힌트 획득 ^09</korean>
 		<taiwanese>獎勵點數^09</taiwanese>
@@ -1321,7 +1321,7 @@
 		<polish>Zajrzyj na nasz profil na Facebooku, na którym znajdziesz najnowsze wiadomości i porady!</polish>
 		<portuguese>Dá uma vista de olhos na nossa página do Facebook para receberes as noticias mais recentes e dicas!</portuguese>
 		<italian>Dai un'occhiata alla nostra pagina Facebook e alle ultime news e consigli!</italian>
-		<russian>Посмотрите все последние новости и подсказки на нашей странице в Facebook!</russian>
+		<russian>Посмотрите все последние новости и подсказки на нашей странице в Фейсбуке!</russian>
 		<chinese>看看我们的 Facebook 页面了解所有最新的消息和提示！</chinese>
 		<korean>저희의 페이스북 페이지를 방문하시면 모든 최근 뉴스와 조언들을 보실 수 있습니다!</korean>
 		<taiwanese>看看我們的 Facebook 頁面瞭解所有最新的消息和提示！</taiwanese>
@@ -1337,7 +1337,7 @@
 		<polish>Quell na Facebooku</polish>
 		<portuguese>Quell no Facebook</portuguese>
 		<italian>Quell su Facebook</italian>
-		<russian>Quell на Facebook</russian>
+		<russian>Quell на Фейсбук</russian>
 		<chinese>Facebook上的水滴记忆</chinese>
 		<korean>Quell 페이스북</korean>
 		<taiwanese>Facebook上的Quell</taiwanese>
@@ -1602,7 +1602,7 @@
 		<polish>Rozwiązania są dostępne również na naszej stronie na Facebooku</polish>
 		<portuguese>A n/pág. no Facebook também tem soluções.</portuguese>
 		<italian>La nostra pagina Facebook contiene soluzioni.</italian>
-		<russian>Наша страница в Facebook также содержит решения.</russian>
+		<russian>Наша страница в Фейсбук также содержит решения.</russian>
 		<chinese>我们的Facebook专业也提供关卡解答。</chinese>
 		<korean>페이스북에서 해결방법을 확인할 수 있습니다.</korean>
 		<taiwanese>我們的Facebook專頁也提供關卡解答</taiwanese>
@@ -2698,7 +2698,7 @@
 		<polish>Tak trzymaj!</polish>
 		<portuguese>Continue!</portuguese>
 		<italian>Continua così!</italian>
-		<russian>Продолжай!</russian>
+		<russian>Продолжайте!</russian>
 		<chinese>保持移动！</chinese>
 		<korean>조금만 더</korean>
 		<taiwanese>自強不息!</taiwanese>
@@ -9495,6 +9495,7 @@
 		<polish>%d monet ^09</polish>
 		<portuguese>%d Moeda ^09</portuguese>
 		<italian>%d Moneta ^09</italian>
+		<russian>%d монета ^09</russian>
 		<chinese>%d 金币 ^09</chinese>
 		<korean>%d 동전 ^09</korean>
 		<taiwanese>%d 金幣 ^09</taiwanese>
@@ -9819,7 +9820,7 @@
 		<polish>Zakup %s przy użyciu %d monet.</polish>
 		<portuguese>Comprar %s usando %d moedas.</portuguese>
 		<italian>Acquista %s usando %d monete.</italian>
-		<russian>Купить %s используя %d монеты.</russian>
+		<russian>Купить %s, используя %d монеты.</russian>
 		<chinese>使用 %d 枚金币购买 %s。</chinese>
 		<korean>%d 사용하여 %s 구매</korean>
 		<taiwanese>使用 %d 枚金幣購買 %s。</taiwanese>
@@ -9835,7 +9836,7 @@
 		<polish>Usuń reklamy przy użyciu %d monet.</polish>
 		<portuguese>Remover anúncios usando %d moedas.</portuguese>
 		<italian>Rimuovi le pubblicità usando %d monete.</italian>
-		<russian>Убрать рекламу используя %d монет.</russian>
+		<russian>Убрать рекламу, используя %d монет.</russian>
 		<chinese>使用 %d 枚金币去除广告。</chinese>
 		<korean>%d 동전을 사용하여 광고 제거</korean>
 		<taiwanese>使用 %d 枚金幣移除廣告。</taiwanese>
@@ -10165,7 +10166,7 @@
 		<polish>Quell na Facebooku</polish>
 		<portuguese>Página de Facebook Quell</portuguese>
 		<italian>Pagina Facebook di Quell</italian>
-		<russian>Страница Quell в Facebook</russian>
+		<russian>Страница Quell в Фейсбук</russian>
 		<chinese>水滴记忆 Facebook 页面</chinese>
 		<korean>Quell 페이스북 페이지</korean>
 		<taiwanese>Quell Facebook 頁面</taiwanese>
@@ -10197,7 +10198,7 @@
 		<polish>Nasza strona na Twitterze</polish>
 		<portuguese>A nossa página do Twitter</portuguese>
 		<italian>La nostra pagina Twitter</italian>
-		<russian>Наша страница на Twitter</russian>
+		<russian>Наша страница в Твиттере</russian>
 		<chinese>我们的发帖页面</chinese>
 		<korean>우리의 트위터 페이지</korean>
 		<taiwanese>我們的 Twitter 頁面</taiwanese>
@@ -11477,7 +11478,7 @@
 		<polish>Wycięty</polish>
 		<portuguese>Reduzir</portuguese>
 		<italian>Riduzione</italian>
-		<russian>Сократить</russian>
+		<russian>Сокращение</russian>
 		<chinese>削减</chinese>
 		<korean>축소</korean>
 		<taiwanese>削減</taiwanese>
@@ -11797,7 +11798,7 @@
 		<polish>Koniec marzeń</polish>
 		<portuguese>Sonho está em colapso</portuguese>
 		<italian>Il Sogno sta Svanendo</italian>
-		<russian>Мечта рушится</russian>
+		<russian>Разрушение мечты</russian>
 		<chinese>盗梦空间</chinese>
 		<korean>드림 이즈 컬랩싱</korean>
 		<taiwanese>盜夢空間</taiwanese>
@@ -12666,7 +12667,7 @@
 		<polish>Zniekształcenie rzeczywistości</polish>
 		<portuguese>Campo da distorção da realidade</portuguese>
 		<italian>Campo di Distorsione della Realtà</italian>
-		<russian>Поле искажения реальности</russian>
+		<russian>Искажение реальности</russian>
 		<chinese>现实扭曲力场</chinese>
 		<korean>현실 왜곡장</korean>
 		<taiwanese>現實扭曲力場</taiwanese>
@@ -13247,7 +13248,7 @@
 		<polish>Postęp synchronizacji</polish>
 		<portuguese>Sincronização em progresso</portuguese>
 		<italian>Sincronizza progressi</italian>
-		<russian>Синхронизация прогресса</russian>
+		<russian>Синхронизация</russian>
 		<chinese>同步进度</chinese>
 		<korean>동기화 과정</korean>
 		<taiwanese>同步進度</taiwanese>
@@ -14055,7 +14056,7 @@
 		<polish>Do góry ^23</polish>
 		<portuguese>Mostrar top ^23</portuguese>
 		<italian>Mostra top ^23</italian>
-		<russian>Дополнительный</russian>
+		<russian>Показать верхние ^23</russian>
 		<chinese>显示顶部 ^23</chinese>
 		<korean>최상위 ^23 보기</korean>
 		<taiwanese>顯示頂層項目 ^23</taiwanese>
@@ -14151,7 +14152,7 @@
 		<polish>Wewnętrzny tor</polish>
 		<portuguese>Pista Interior</portuguese>
 		<italian>Pista Interna</italian>
-		<russian>Инсайдер</russian>
+		<russian>Быстрый путь</russian>
 		<chinese>内圈</chinese>
 		<korean>트랙 안쪽</korean>
 		<taiwanese>內圈</taiwanese>
@@ -15133,7 +15134,7 @@
 		<polish>Jeden wielki bałagan, ciągnący wszystko w dół... nie sądzisz?</polish>
 		<portuguese>Uma grande confusão, de trazer este lugar abaixo... Não achas?</portuguese>
 		<italian>Un gran casino, c'è da soppesare tutto... non pensi?</italian>
-		<russian>Одна большая ошибка, отягощает это место… Ты не думаешь?</russian>
+		<russian>Одна большая ошибка, отягощает это место… Вы не думаете?</russian>
 		<chinese>一场大灾难，无法承受的重量......你不觉得吗？</chinese>
 		<korean>한번의 큰 실수로 공간이 무너앉았습니다...라고 생각지 않으시나요?</korean>
 		<taiwanese> 你不覺得它們已經成為我這破地方難以負荷的重擔了嗎？</taiwanese>
@@ -15213,7 +15214,7 @@
 		<polish>To nie uczciwe, że grzebiesz w moich rzeczach.</polish>
 		<portuguese>Não é justo estares a vasculhar as minhas coisas.</portuguese>
 		<italian>Non è giusto che voi frughiate tra le mie cose.</italian>
-		<russian>Не честно с твоей стороны рыться в моих вещах</russian>
+		<russian>Не честно с вашей стороны рыться в моих вещах</russian>
 		<chinese>让你在我这儿翻东西，对你是不公平的。</chinese>
 		<korean>내 물건을 뒤지는 것은 온당하지 않아요</korean>
 		<taiwanese>為什麼要一直在這兒翻我的舊東西？</taiwanese>
@@ -15277,7 +15278,7 @@
 		<polish>Ty!</polish>
 		<portuguese>Tu!</portuguese>
 		<italian>Tu!</italian>
-		<russian>Ты!</russian>
+		<russian>Вы!</russian>
 		<chinese>你！</chinese>
 		<korean>여보세요!</korean>
 		<taiwanese>你！</taiwanese>
@@ -15293,7 +15294,7 @@
 		<polish>Zaczepiłeś</polish>
 		<portuguese>Tu empurras</portuguese>
 		<italian>Tu colpisci</italian>
-		<russian>Ты тычешь</russian>
+		<russian>Вы тычете</russian>
 		<chinese>你戳它</chinese>
 		<korean>찔러봤어요</korean>
 		<taiwanese>你戳它</taiwanese>
@@ -15309,7 +15310,7 @@
 		<polish>i ty szturchnąłeś</polish>
 		<portuguese>e sentes-te orgulhoso</portuguese>
 		<italian>e hai colpito</italian>
-		<russian>и тычешь</russian>
+		<russian>и тычете</russian>
 		<chinese>你刺它</chinese>
 		<korean>그리고 재촉했어요</korean>
 		<taiwanese>你刺它</taiwanese>
@@ -15373,7 +15374,7 @@
 		<polish>Musisz zrozumieć.</polish>
 		<portuguese>Tens de perceber.</portuguese>
 		<italian>Devi capire.</italian>
-		<russian>Ты должен понять.</russian>
+		<russian>Вы должны понять.</russian>
 		<chinese>你必须明白。</chinese>
 		<korean>이해해야합니다.</korean>
 		<taiwanese>你必須明白。</taiwanese>
@@ -15405,7 +15406,7 @@
 		<polish>Możesz zabrać to wszystko. Nie obchodzi mnie to.</polish>
 		<portuguese>Podes levar isto tudo; não me interessa.</portuguese>
 		<italian>Ti puoi prendere tutto; non m'importa.</italian>
-		<russian>Ты можешь всё забрать; мне всё равно</russian>
+		<russian>Вы можете всё забрать; мне всё равно</russian>
 		<chinese>你可以把这些都拿走，我不在乎。</chinese>
 		<korean>전부 가져가세요; 괘념치 않습니다.</korean>
 		<taiwanese>你可以把這些都拿走；我不在乎。</taiwanese>
@@ -15421,7 +15422,7 @@
 		<polish>Złożyłeś odłamki,</polish>
 		<portuguese>Juntas-te os estilhaços</portuguese>
 		<italian>Rimetti insieme i cocci</italian>
-		<russian>Ты соединил осколки</russian>
+		<russian>Вы соединили осколки</russian>
 		<chinese>你把这些碎片粘到一起</chinese>
 		<korean>조각에 봉착했군요</korean>
 		<taiwanese>你把這些碎片粘到一起</taiwanese>
@@ -16061,7 +16062,7 @@
 		<polish>Zbierz %d klejnotów</polish>
 		<portuguese>Coleccionar %d jóias</portuguese>
 		<italian>Raccogli %d gioielli</italian>
-		<russian>Соберите бриллиантов</russian>
+		<russian>Соберите %d бриллиантов</russian>
 		<chinese>收集 %d 颗珠宝</chinese>
 		<korean>보석 %d개 수집하기</korean>
 		<taiwanese>收集 %d 顆珠寶</taiwanese>
@@ -16749,7 +16750,7 @@
 		<polish>Wyrównaj ^00 z jednej strony ^20 i przesuń do dołu do ^05</polish>
 		<portuguese>Alinha ^00 contra o lado de ^20 e move-te para baixo para ^05</portuguese>
 		<italian>Allinea ^00 su un lato ^20 e muoviti in basso verso ^05</italian>
-		<russian>Выровняйтесь ^00 против стороны^20 и двигайтесь вниз в ^05</russian>
+		<russian>Выровняйтесь ^00 против стороны ^20 и двигайтесь вниз в ^05</russian>
 		<chinese>将 ^00 对齐到 ^20 的一侧，并向下移动到 ^05</chinese>
 		<korean>^00를 ^20의 곁으로 정렬하고 ^05로 밑으로 움직이세요</korean>
 		<taiwanese>將 ^00 對齊到 ^20 的旁邊，並向下移動到 ^05</taiwanese>
@@ -16877,7 +16878,7 @@
 		<polish>Zapewnić bezpieczne przejście dla ^41 do ważnego ^18</polish>
 		<portuguese>Proporciona uma passagem segura para ^41 de volta ao importante ^18</portuguese>
 		<italian>Offri un passaggio sicuro per ^41 dal ritorno da ^18</italian>
-		<russian>Обеспечьте безопасный пусть для ^41 обратно к важному^18</russian>
+		<russian>Обеспечьте безопасный пусть для ^41 обратно к важному ^18</russian>
 		<chinese>为 ^41 提供安全通道返回到重要的 ^18</chinese>
 		<korean>중요한 ^18로 돌아가기 위한 ^41에 대한 안전한 길을 제공하세요</korean>
 		<taiwanese>先將重要的 ^18 移回去，為 ^41 提供安全的路徑</taiwanese>
@@ -16973,7 +16974,7 @@
 		<polish>^05 umożliwia przejście strumieniom światła. Podświetl wszysteki ^25 w ten sposób</polish>
 		<portuguese>^05 permite que feixes de luz passem através. Ilumina todosl ^25 deste modo</portuguese>
 		<italian>^05 consente ai fasci di luce di passare attraverso. Illumina tutti i ^25 in questa direzione</italian>
-		<russian>^05 даёт лучам света пройти насквозь. Осветите все ^25 этим способов</russian>
+		<russian>^05 даёт лучам света пройти насквозь. Осветите все ^25 этим способом</russian>
 		<chinese>^05 允许光线通过。照亮这条路上的所有 ^25</chinese>
 		<korean>^05는 광선이 통과하도록 합니다. 모든 ^25를 이런 식으로 조명하세요.</korean>
 		<taiwanese>^05 允許光線通過。照亮這條路上的所有 ^25</taiwanese>
@@ -16989,7 +16990,7 @@
 		<polish>Przełącz ^36 na ^35 przełamując ^18</polish>
 		<portuguese>Transforma ^36 de volta em ^35 ao partires ^18</portuguese>
 		<italian>Gira ^36 dietro a ^35 rompendo il ^18</italian>
-		<russian>Развернитесь ^36 к ^35 разломав ^18</russian>
+		<russian>Разверните ^36 к ^35, разломав ^18</russian>
 		<chinese>打碎 ^18 将 ^36 变换回 ^35</chinese>
 		<korean>^36을 회전시켜 ^18을 격파함으로써 ^35로 되돌리세요.</korean>
 		<taiwanese>打破 ^18 將 ^36 變換回 ^35</taiwanese>
@@ -17005,7 +17006,7 @@
 		<polish>Popochnij ^38, aby wyrównać go z ^26</polish>
 		<portuguese>Empurra ^38 para que se alinhe com ^26</portuguese>
 		<italian>Sposta il ^38 in modo che si allinei con il ^26</italian>
-		<russian>Толкните ^38 чтобы сровнять с ^26</russian>
+		<russian>Толкните ^38, чтобы сравнять с ^26</russian>
 		<chinese>推动 ^38 让它与 ^26 对齐</chinese>
 		<korean>^38을 밀어 ^26과 정렬시키세요</korean>
 		<taiwanese>推動 ^38 讓它與 ^26 對齊</taiwanese>
@@ -17149,7 +17150,7 @@
 		<polish>^49 musi osiagnąć ^20 zanim zrobi to ^00</polish>
 		<portuguese>O ^49 tem de alcançar o ^20 antes que ^00 o faça</portuguese>
 		<italian>Il ^49 deve raggiungere il ^20 prima che lo faccia il ^00</italian>
-		<russian> ^49 должен достичь ^20 до того как сможет ^00</russian>
+		<russian>^49 должен достичь ^20 до того, как сможет ^00</russian>
 		<chinese>^49 必须在 ^00 前到达 ^20</chinese>
 		<korean>^49는 ^00가 도달하기 전에 ^20에 도달해야합니다</korean>
 		<taiwanese>^49 必須在 ^00 前到達 ^20</taiwanese>
@@ -17165,7 +17166,7 @@
 		<polish>Tylko jeden ^00 może przetrwać</polish>
 		<portuguese>Apenas um ^00 precisa de sobreviver</portuguese>
 		<italian>Solo un ^00 deve sopravvivere</italian>
-		<russian>Для выживания нужен единственный ^00 </russian>
+		<russian>Для выживания достаточно одной ^00</russian>
 		<chinese>只需要存活一个 ^00</chinese>
 		<korean>단지 한개의 ^00가 살아남아야합니다.</korean>
 		<taiwanese>只需要存活一個 ^00</taiwanese>
@@ -17421,7 +17422,7 @@
 		<polish>Zostaw prawidłowy ^42nietknięty, aby zebrać ^19 i wyrównać z ^25</polish>
 		<portuguese>Deixa o correcto ^42 intacto para coleccionar ^19 e alinhar com ^25</portuguese>
 		<italian>Lascia il ^42 intatto per raccogliere ^19 ed allinearlo con ^25</italian>
-		<russian>Покинте правильный ^42 целым, чтобы собрать ^19 и сравнятся ^25</russian>
+		<russian>Сохраните ^42 невредимым, чтобы собрать ^19 и сравнятся ^25</russian>
 		<chinese>合理保留 ^42，在收集 ^19后与 ^25排到对应位置</chinese>
 		<korean>^42는 ^19를 수집하고 ^25와 정렬시키기 위해 건드리지 말고 남겨두세요</korean>
 		<taiwanese>要收集 ^19 時請不要接觸 ^42 並與 ^25 排成一條線</taiwanese>
@@ -17437,7 +17438,7 @@
 		<polish>Unikać ^18</polish>
 		<portuguese>Evitar o ^18</portuguese>
 		<italian>Evita il ^18</italian>
-		<russian>Узбегайте ^18</russian>
+		<russian>Избегайте ^18</russian>
 		<chinese>避开 ^18</chinese>
 		<korean>^18을 회피하세요</korean>
 		<taiwanese>避開 ^18</taiwanese>
@@ -17485,7 +17486,7 @@
 		<polish>Przesunąć ^38 , tak by mógł zostać podświetlony przez ^35</polish>
 		<portuguese>Move ^38 para poder ser iluminado por ^35</portuguese>
 		<italian>Sposta ^38 in modo che possa essere illuminato da ^35</italian>
-		<russian>Передвигайте ^38, что он мог освещаться ^35</russian>
+		<russian>Передвигайте ^38, чтобы он мог освещаться ^35</russian>
 		<chinese>移动 ^38，使它能被 ^35 照亮</chinese>
 		<korean>^38을 움직여 ^35에 의해 조명될 수 있도록 하세요</korean>
 		<taiwanese>移動 ^38，使它能被 ^35 照亮</taiwanese>
@@ -17517,7 +17518,7 @@
 		<polish>Zostaw lewe i prawe ^33 na koniec</polish>
 		<portuguese>Deixe o mais à esquerda e mais à direita ^33 até ao fim</portuguese>
 		<italian>Lascia le ^33 all'estrema destra e all'estrema sinistra per ultime</italian>
-		<russian>Пройдите от самого левого до самого правого^33 до конца</russian>
+		<russian>Пройдите от самого левого до самого правого ^33 до конца</russian>
 		<chinese>留下最左边和最右边的 ^33 直到最后</chinese>
 		<korean>최좌측 및 최우측의 ^38을 마지막까지 남겨두세요</korean>
 		<taiwanese>將最左邊和最右邊的 ^33 留到最後</taiwanese>
@@ -17549,7 +17550,7 @@
 		<polish>Sprawdź, gdzie ^00 pojawi się z ^05 i ^46</polish>
 		<portuguese>Verifica onde ^00 irá emergir ^05 e ^46</portuguese>
 		<italian>Controlla dove ^00 emergerà da ^05 e ^46</italian>
-		<russian>Проверьте где ^00 появится с ^05 до ^46</russian>
+		<russian>Проверьте, где ^00 появится с ^05 до ^46</russian>
 		<chinese>观查 ^00 会从 ^05 和 ^46 的何处出现</chinese>
 		<korean>^00가 ^05와 ^46의 어디에서 솟아나오는지 확인하세요</korean>
 		<taiwanese>檢查 ^00 會從 ^05 和 ^46 的何處出現</taiwanese>
@@ -17581,7 +17582,7 @@
 		<polish>Nie ma możliwości, by ten sam ^00 zniszczył ^18 i podróżował przez ^05</polish>
 		<portuguese>É impossível para o mesmo ^00 destruir ^18 e passar através do ^05</portuguese>
 		<italian>È impossibile per lo stesso ^00 distruggere ^18 e passare attraverso ^05</italian>
-		<russian>Невозможно одинаковым ^00 разрушить ^18 и пройти ^05</russian>
+		<russian>Невозможно одну и ту же ^00 уничножить ^18 и пройти через ^05</russian>
 		<chinese>无法使用同样的 ^00 毁坏 ^18 并穿越过 ^05</chinese>
 		<korean>동일의 ^00이 ^18을 파괴하고 ^05를 통해 움직이기는 불가능합니다</korean>
 		<taiwanese>無法使用同樣的 ^00 破壞 ^18 並穿越過 ^05</taiwanese>
@@ -17597,7 +17598,7 @@
 		<polish>Przesuń ^20, tak by mógł zostać użyty do prawidłowego ustawienia ^00</polish>
 		<portuguese>Move ^20 para poder ser usado e posicionar ^00 correctamente</portuguese>
 		<italian>Sposta ^20 in modo che possa venire usato per posizionare ^00 correttamente</italian>
-		<russian>Двишайте ^20 так, чтобы можно было вернуть ^00 на место</russian>
+		<russian>Двигайте ^20 так, чтобы можно было вернуть ^00 на место</russian>
 		<chinese>推动 ^20，更方便 ^00的通行</chinese>
 		<korean>^20을 움직여 ^00을 정확히 위치시키는 데 이용될 수 있도록 하세요</korean>
 		<taiwanese>移動 ^20，使 ^00 被放置在正確位置</taiwanese>
@@ -17709,7 +17710,7 @@
 		<polish>Pozwól ^41 minąć ^00</polish>
 		<portuguese>Permite ^41 através ^00</portuguese>
 		<italian>Consenti a ^41 di passare ^00</italian>
-		<russian>Позволь ^41 пройти ^00</russian>
+		<russian>Дайте ^41 пройти ^00</russian>
 		<chinese>允许 ^41 通过 ^00</chinese>
 		<korean>^41이 ^00을 지나도록 하세요</korean>
 		<taiwanese>允許 ^41 通過 ^00</taiwanese>
@@ -18621,7 +18622,7 @@ título.</spanish>
 		<polish>Użyj logiki i myślenia lateralnego rozwiązać ponad 150 pomysłowych łamigłówek. Nadaje się dla całej rodziny, ta gra jest doświadczenie, które będzie dla Ciebie przez długi, długi czas.</polish>
 		<portuguese>Usa a lógica e pensamento lateral para resolver os 150 puzzles. Feitos para toda a familia, é uma experiencia que ficará contigo mesmo após o fim.</portuguese>
 		<italian>Usa la logica e il pensiero laterale per risolvere oltre 150 puzzle ingegnosi. Adatto per tutta la famiglia, questo gioco è un'esperienza che farà al caso tuo per molto, molto tempo.</italian>
-		<russian>Используйте логику и нестандартное мышление, чтобы решить более 150 хитроумных головоломок. Подходит для всей семьи, эти ощущения останутся с вами еще долго после того, как вы решите все загадки.</russian>
+		<russian>Используйте логику и нестандартное мышление, чтобы решить более 150 хитроумных головоломок. Подходит для всей семьи, эти ощущения останутся с вами ещё долго после того, как вы решите все загадки.</russian>
 		<chinese>使用逻辑和横向思维能力，解决超过 150 个巧妙设计的谜题。本游戏适合全家一起游玩，在你玩过后，游戏带来的思维体验将长期伴随你。</chinese>
 		<korean>150개가 넘는 기발한 수수께끼를 풀기위해 논리와 간접적인 사고를 사용하세요. 모든 가족에게 적합하며 게임 후에도 기억에 남는 경험이 됩니다.</korean>
 		<taiwanese>使用邏輯和橫向思維能力，解決超過 150 個巧妙設計的謎題。本遊戲適合全家一起遊玩，在您玩過後，遊戲帶來的思維體驗將長期伴隨您。</taiwanese>
@@ -19490,7 +19491,7 @@ título.</spanish>
 		<polish>Aby go użyć w trakcie gry, wybierz ^52 menu Pomoc.</polish>
 		<portuguese>Para usar isto durante um puzzle, prime o ^52 menu de Ajuda.</portuguese>
 		<italian>Per usarlo mentre risolvi un puzzle, seleziona il ^52 del menu Aiuto.</italian>
-		<russian>Используй это при затруднении, выбери ^52 Меню помощи.</russian>
+		<russian>Используйте это при затруднениях, выберите ^52 Меню помощи.</russian>
 		<chinese>要在解谜题过程中使用此道具，请选择 ^52 “帮助”菜单。</chinese>
 		<korean>퍼즐 시 사용하려면, ^52 도움말을 선택하세요.</korean>
 		<taiwanese>要在解謎題過程中使用此道具，請選擇 ^52 “説明”選單。</taiwanese>
@@ -19506,7 +19507,7 @@ título.</spanish>
 		<polish>Aby go użyć w trakcie gry, wybierz ^52 menu Pomoc. Wszystkie ukryte przedmioty zostaną wymienione w zakładce rozwiązania.</polish>
 		<portuguese>Para usar isto durante um puzzle, escolhe o ^52 menu de Ajuda. Todos os objectos escondidos serão listados no separador das soluções.</portuguese>
 		<italian>Per usarlo mentre risolvi un puzzle, seleziona il ^52 del menu Aiuto. Qualsiasi oggetto nascosto verrà mostrato nella tabella delle soluzioni.</italian>
-		<russian>Используй это при затруднении, выбери ^52 Меню помощи. Все спрятанные предметы появятся в таблице решений.</russian>
+		<russian>Используйте это при затруднении, выберите ^52 Меню помощи. Все спрятанные предметы появятся в таблице решений.</russian>
 		<chinese>要在解谜题过程中使用此道具，请选择 ^52 “帮助”菜单。解决方案选项卡下将列出所有隐藏对象。</chinese>
 		<korean>퍼즐 시 사용하려면, ^52 도움말을 선택하세요. 모든 숨겨진 사물이 솔루션 탭에 나열될 것입니다.</korean>
 		<taiwanese>要在解謎題過程中使用此道具，請選擇 ^52 “説明”選單。解決方案選項卡下將列出所有隱藏物件。</taiwanese>
@@ -20235,7 +20236,7 @@ título.</spanish>
 		<id>STR_CLUE_CANDY_LOOP</id>
 		<translate>true</translate>
 		<english>Use one ^00 to break the other ^00 out of a loop, to gain a positional advantage.</english>
-		<russian>Используйте один ^00, чтобы освободить их ^00 из цикла, чтобы получить особые преимущества..</russian>
+		<russian>Используйте один ^00, чтобы освободить другие ^00 из цикла, чтобы получить особые преимущества.</russian>
 		<chinese>使用一个^00在循环中破坏另一个^00，以此等到更佳的位置。</chinese>
 		<taiwanese>使用一個^00在循環中破壞另一個^00，以此方法到達更好的位置。</taiwanese>
 	</stringentry>
@@ -20518,7 +20519,7 @@ título.</spanish>
 		<id>STR_TUTORIAL_SWIPEMOVE_TOUCHPAD</id>
 		<translate>true</translate>
 		<english>Swipe on remote touchpad to move the raindrop  ^00</english>
-		<russian>Проведите по тачпаду, чтобы передвинуться каплю ^00</russian>
+		<russian>Проведите по тачпаду, чтобы передвинуть каплю ^00</russian>
 	</stringentry>
 	<stringentry>
 		<id>STR_CLICK_TOUCHPAD_START</id>
@@ -20542,7 +20543,7 @@ título.</spanish>
 		<id>STR_CLOUD_UNAVAILABLE_REQUIRED_FOR_SAVING</id>
 		<translate>true</translate>
 		<english>iCloud is required for saving progress, but could not be accessed. Please check your network connectivity and that you are signed into iCloud in the Settings app.</english>
-		<russian>Не удалось получить доступ к iCloud, это необходим для сохранения прогресса. Пожалуйста, проверьте ваши настройки сети и то, что вы вошли в iCloud в Настройках.</russian>
+		<russian>Не удалось получить доступ к iCloud, это необходимо для сохранения прогресса. Пожалуйста, проверьте ваши настройки сети и то, что вы вошли в iCloud в Настройках.</russian>
 	</stringentry>
 	<stringentry>
 		<id>STR_HOLD</id>
