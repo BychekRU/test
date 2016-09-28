@@ -132,7 +132,7 @@
 		<polish>Tabela zwycięzców: Perły ^01</polish>
 		<portuguese>Tabela vencedores: Pérolas ^01</portuguese>
 		<italian>Classifica: Perle ^01</italian>
-		<russian>Доска почёта: Жемчужины ^01</russian>
+		<russian>Список лидеров: Жемчужины ^01</russian>
 		<chinese>排行：珍珠 ^01</chinese>
 		<korean>리더보드: 진주 ^01</korean>
 		<taiwanese>排行榜:珍珠^01</taiwanese>
@@ -148,7 +148,7 @@
 		<polish>Tabela zwycięzców: Perfekcjoniści</polish>
 		<portuguese>Tabela vencedores: Perfeitos</portuguese>
 		<italian>Classifica: Perfetti</italian>
-		<russian>Доска почёта: Идеальные</russian>
+		<russian>Список лидеров: Идеальные</russian>
 		<chinese>排行：完美数</chinese>
 		<korean>리더보드: 퍼펙트레벨</korean>
 		<taiwanese>排行榜:完美過關</taiwanese>
@@ -199,7 +199,7 @@
 		<polish>Centrum gry</polish>
 		<portuguese>Centro Jogos</portuguese>
 		<italian>Game Center</italian>
-		<russian>Центр игр</russian>
+		<russian>Game Center</russian>
 		<chinese>Game Center</chinese>
 		<korean>게임 센터</korean>
 		<taiwanese>遊戲中心</taiwanese>
@@ -267,7 +267,7 @@
 		<polish>Dodatki</polish>
 		<portuguese>Extras</portuguese>
 		<italian>Extra</italian>
-		<russian>Бонус</russian>
+		<russian>Дополнительно</russian>
 		<chinese>其它</chinese>
 		<korean>기타</korean>
 		<taiwanese>花絮</taiwanese>
@@ -430,7 +430,7 @@
 		<polish>Te poziomy należy przejść po kolei</polish>
 		<portuguese>Estes níveis devem ser jogados por ordem</portuguese>
 		<italian>Livelli da giocare in sequenza</italian>
-		<russian>В уровни надо играть по порядку</russian>
+		<russian>В уровни следует играть по порядку</russian>
 		<chinese>这些关卡必须按顺序完成</chinese>
 		<korean>순서대로 플레이하셔야 합니다</korean>
 		<taiwanese>必須依序突破任務</taiwanese>
@@ -630,7 +630,7 @@
 		<polish>Poprzednie najlepsze: ruchy %d</polish>
 		<portuguese>Recorde ant.: %d jogadas</portuguese>
 		<italian>Record prec.: %d mosse</italian>
-		<russian>Предыдущий рекорд: %d</russian>
+		<russian>Предыдущий рекорд ходов: %d</russian>
 		<chinese>历史最佳：%d 次移动</chinese>
 		<korean>이전 최고기록: %d번 이동</korean>
 		<taiwanese>先前紀錄: %d次移動</taiwanese>
@@ -662,7 +662,7 @@
 		<polish>Uzyskane wskazówki ^09</polish>
 		<portuguese>Ganhou uma pista ^09</portuguese>
 		<italian>Aiuto ottenuto ^09</italian>
-		<russian>Заработана монета ^09</russian>
+		<russian>Монета заработана ^09</russian>
 		<chinese>提示奖励 ^09</chinese>
 		<korean>힌트 획득 ^09</korean>
 		<taiwanese>獎勵點數^09</taiwanese>
@@ -745,7 +745,7 @@
 		<polish>Perfekcyjne poziomy:</polish>
 		<portuguese>Níveis perfeitos:</portuguese>
 		<italian>Livelli perfetti:</italian>
-		<russian>Идеальных уровней:</russian>
+		<russian>Идеальных пройденных уровней:</russian>
 		<chinese>完美关卡数：</chinese>
 		<korean>퍼펙트 레벨:</korean>
 		<taiwanese>完美過關：</taiwanese>
@@ -783,7 +783,7 @@
 		<polish>Muzyka: Steven Cravis</polish>
 		<portuguese>Música de Steven Cravis</portuguese>
 		<italian>Musica di Steven Cravis</italian>
-		<russian>Звуковое оформление - Steven Cravis</russian>
+		<russian>Звуковое оформление - Стивен Крэвис</russian>
 		<chinese>音乐Steven Cravis</chinese>
 		<korean>Music by Steven Cravis</korean>
 		<taiwanese>音樂: Steven Cravis</taiwanese>
@@ -805,7 +805,7 @@
 		<polish>Hosting: Mark Wrafter</polish>
 		<portuguese>Aloj. na Internet por Mark Wrafter</portuguese>
 		<italian>Web hosting di Mark Wrafter</italian>
-		<russian>Хостинг - Mark Wrafter</russian>
+		<russian>Хостинг - Марк Вафтер</russian>
 		<chinese>网页技术Mark Wrafter</chinese>
 		<korean>Web hosting by Mark Wrafter</korean>
 		<taiwanese>網頁: Mark Wrafter</taiwanese>
@@ -1570,7 +1570,7 @@
 		<polish>Każde rozwiązanie kosztuje ^09 monet</polish>
 		<portuguese>Cada solução custa ^09 moedas.</portuguese>
 		<italian>Ogni soluzione costa ^09 monete.</italian>
-		<russian>Каждое решение стоит ^09 монет.</russian>
+		<russian>Каждое решение стоит ^09 монеты.</russian>
 		<chinese>每次指引将消耗 ^09金币。</chinese>
 		<korean>해결방법은 ^09 코인을 소모합니다.</korean>
 		<taiwanese>每次解答都需要使用 ^09 金幣。</taiwanese>
@@ -1882,7 +1882,7 @@
 		<polish>Nakłuty %d razy</polish>
 		<portuguese>Encravado %d vezes</portuguese>
 		<italian>Punto %d volte</italian>
-		<russian>Проткнитесь %d раза</russian>
+		<russian>Уколитесь %d раза</russian>
 		<chinese>撞钉 %d 次</chinese>
 		<korean>%d 번 가시에 충돌</korean>
 		<taiwanese>被刺破%d次</taiwanese>
@@ -1914,7 +1914,7 @@
 		<polish>Nakłuty %d razy</polish>
 		<portuguese>Encravado %d vezes</portuguese>
 		<italian>Puntp %d volte</italian>
-		<russian>Проткнитесь %d раз</russian>
+		<russian>Уколитесь %d раз</russian>
 		<chinese>撞钉 %d 次</chinese>
 		<korean>%d 번 가시에 충돌</korean>
 		<taiwanese>被刺破%d次</taiwanese>
@@ -1930,7 +1930,7 @@
 		<polish>Bilans strat</polish>
 		<portuguese>Funeral Bill</portuguese>
 		<italian>Pompe funebri</italian>
-		<russian>Счёт за похороны</russian>
+		<russian>Похороны</russian>
 		<chinese>百折不挠</chinese>
 		<korean>도전자</korean>
 		<taiwanese>喪禮歌手</taiwanese>
@@ -1946,7 +1946,7 @@
 		<polish>Nakłuty %d razy</polish>
 		<portuguese>Encravado %d vezes</portuguese>
 		<italian>Punto %d volte</italian>
-		<russian>Проткнитесь %d раз</russian>
+		<russian>Уколитесь %d раз</russian>
 		<chinese>撞钉 %d 次</chinese>
 		<korean>%d 번 가시에 충돌</korean>
 		<taiwanese>被刺破%d次</taiwanese>
@@ -2554,7 +2554,7 @@
 		<polish>Użyj pierścienia %d razy</polish>
 		<portuguese>Utilizar o anel %d vezes</portuguese>
 		<italian>Usa il cerchio %d volte</italian>
-		<russian>Используйте кольца %d раз(а)</russian>
+		<russian>Используйте кольца %d раз</russian>
 		<chinese>使用传送环 %d 次</chinese>
 		<korean>%d 번 링을 통해 이동</korean>
 		<taiwanese>使用傳送環%d次</taiwanese>
@@ -9495,7 +9495,6 @@
 		<polish>%d monet ^09</polish>
 		<portuguese>%d Moeda ^09</portuguese>
 		<italian>%d Moneta ^09</italian>
-		<russian>%d монета  ^09</russian>
 		<chinese>%d 金币 ^09</chinese>
 		<korean>%d 동전 ^09</korean>
 		<taiwanese>%d 金幣 ^09</taiwanese>
@@ -10678,7 +10677,7 @@
 		<polish>Perfekcyjna symetria</polish>
 		<portuguese>Simetria Perfeita</portuguese>
 		<italian>Perfetta Simmetria</italian>
-		<russian>Идеальная симметричность</russian>
+		<russian>Идеальная симметрия</russian>
 		<chinese>完美对称</chinese>
 		<korean>완벽한 대칭</korean>
 		<taiwanese>完美對稱</taiwanese>
@@ -14664,7 +14663,7 @@
 		<polish>Dotknij ekranu, aby rozpocząć</polish>
 		<portuguese>Toca no ecrã para iniciar</portuguese>
 		<italian>Premi sullo schermo per iniziare</italian>
-		<russian>Дотроньтесь до экрана, чтобы начать</russian>
+		<russian>Коснитесь экрана, чтобы начать</russian>
 		<chinese>触摸屏幕来开始</chinese>
 		<korean>시작을 위해 스크린을 터치하세요</korean>
 		<taiwanese>觸碰螢幕開始遊戲</taiwanese>
@@ -14728,7 +14727,7 @@
 		<polish>Przeciąg ekran, aby przesunąć krople deszczu ^00</polish>
 		<portuguese>Bata no ecrã para mover a gota ^00</portuguese>
 		<italian>Strofina la schermo per spostare goccia ^00</italian>
-		<russian>Дотроньтесь до экрана, чтобы сдвинуть каплю ^00</russian>
+		<russian>Коснитесь экрана, чтобы сдвинуть каплю ^00</russian>
 		<chinese>滑动屏幕移动水滴 ^00</chinese>
 		<korean>빗방울을 이동시킬 방향으로 밀어주세요 ^00</korean>
 		<taiwanese>在螢幕上滑動來移動水滴 ^00</taiwanese>
@@ -16446,7 +16445,7 @@
 		<polish>EMituje strumień o długości co najmniej 20 kafelków</polish>
 		<portuguese>Emite um feixe no mínimo de 20 peças de comprimento</portuguese>
 		<italian>Crea un fascio lungo almeno 20 mattonelle</italian>
-		<russian>Испустите свет длинной 20 клеток</russian>
+		<russian>Испустите свет длинной 20 плиток</russian>
 		<chinese>发射一束至少 20 枚砖块长度的光柱</chinese>
 		<korean>빔을 회소한 20 타일 길이로 비추세요</korean>
 		<taiwanese>發射一束至少 20 枚磚塊長度的光柱</taiwanese>
@@ -16622,7 +16621,7 @@
 		<polish>Złota perła ^19 ma niepowtarzalną moc</polish>
 		<portuguese>A pérola de ouro ^19 tem um poder único</portuguese>
 		<italian>La perla d'oro ^19 ha un potere unico</italian>
-		<russian>Золотая жемчужина ^19 обладает уникальной энергией</russian>
+		<russian>Золотая жемчужина ^19 обладает уникальной силой</russian>
 		<chinese>金色珍珠 ^19 具有独特能量</chinese>
 		<korean>골드 진주 ^19는 독보적인 힘이 있습니다</korean>
 		<taiwanese>金色珍珠 ^19 具有獨特能量</taiwanese>
@@ -16702,6 +16701,7 @@
 		<polish>Spróbuj zmienić kierunek wokół pętli</polish>
 		<portuguese>Tenta mudar a direcção a meio caminho da volta</portuguese>
 		<italian>Prova a cambiare parzialmente direzione intorno all'anello</italian>
+		<russian>Попробуйте поменять направление, избегая зацикливания</russian>
 		<chinese>在循环中附近尝试中途更改方向</chinese>
 		<korean>방향을-루프 주변으로 변환하도록 하세요</korean>
 		<taiwanese>嘗試在迴圈中途更改方向</taiwanese>
@@ -16749,6 +16749,7 @@
 		<polish>Wyrównaj ^00 z jednej strony ^20 i przesuń do dołu do ^05</polish>
 		<portuguese>Alinha ^00 contra o lado de ^20 e move-te para baixo para ^05</portuguese>
 		<italian>Allinea ^00 su un lato ^20 e muoviti in basso verso ^05</italian>
+		<russian>Выровняйтесь ^00 против стороны^20 и двигайтесь вниз в ^05</russian>
 		<chinese>将 ^00 对齐到 ^20 的一侧，并向下移动到 ^05</chinese>
 		<korean>^00를 ^20의 곁으로 정렬하고 ^05로 밑으로 움직이세요</korean>
 		<taiwanese>將 ^00 對齊到 ^20 的旁邊，並向下移動到 ^05</taiwanese>
@@ -16876,6 +16877,7 @@
 		<polish>Zapewnić bezpieczne przejście dla ^41 do ważnego ^18</polish>
 		<portuguese>Proporciona uma passagem segura para ^41 de volta ao importante ^18</portuguese>
 		<italian>Offri un passaggio sicuro per ^41 dal ritorno da ^18</italian>
+		<russian>Обеспечьте безопасный пусть для ^41 обратно к важному^18</russian>
 		<chinese>为 ^41 提供安全通道返回到重要的 ^18</chinese>
 		<korean>중요한 ^18로 돌아가기 위한 ^41에 대한 안전한 길을 제공하세요</korean>
 		<taiwanese>先將重要的 ^18 移回去，為 ^41 提供安全的路徑</taiwanese>
@@ -16987,6 +16989,7 @@
 		<polish>Przełącz ^36 na ^35 przełamując ^18</polish>
 		<portuguese>Transforma ^36 de volta em ^35 ao partires ^18</portuguese>
 		<italian>Gira ^36 dietro a ^35 rompendo il ^18</italian>
+		<russian>Развернитесь ^36 к ^35 разломав ^18</russian>
 		<chinese>打碎 ^18 将 ^36 变换回 ^35</chinese>
 		<korean>^36을 회전시켜 ^18을 격파함으로써 ^35로 되돌리세요.</korean>
 		<taiwanese>打破 ^18 將 ^36 變換回 ^35</taiwanese>
@@ -17002,6 +17005,7 @@
 		<polish>Popochnij ^38, aby wyrównać go z ^26</polish>
 		<portuguese>Empurra ^38 para que se alinhe com ^26</portuguese>
 		<italian>Sposta il ^38 in modo che si allinei con il ^26</italian>
+		<russian>Толкните ^38 чтобы сровнять с ^26</russian>
 		<chinese>推动 ^38 让它与 ^26 对齐</chinese>
 		<korean>^38을 밀어 ^26과 정렬시키세요</korean>
 		<taiwanese>推動 ^38 讓它與 ^26 對齊</taiwanese>
@@ -17017,7 +17021,7 @@
 		<polish>Jeden ^35 może popchnąć ^38 do innego ^35</polish>
 		<portuguese>Um ^35 pode empurrar ^38 para o outro ^35</portuguese>
 		<italian>Un ^35 può spostare il ^38 sull'altro ^35</italian>
-		<russian>Одну ^35 можно столкнуть ^38 c другой ^35</russian>
+		<russian>Один ^35 можно столкнуть ^38 c другим ^35</russian>
 		<chinese>一个 ^35 可以推动 ^38 到另一个 ^35的附近</chinese>
 		<korean>한개의 ^35는 ^38을 다른 ^35로 밀 수 있습니다</korean>
 		<taiwanese>一個 ^35 可以推動 ^38 到另一個 ^35</taiwanese>
@@ -17033,6 +17037,7 @@
 		<polish>Górny ^42 musi być w stanie zatrzymać ^43 w prawidłowej pozycji</polish>
 		<portuguese>O mais alto ^42 deve estar intacto para parar o ^43 na posição correcta</portuguese>
 		<italian>Il più alto ^42 deve essere intatto per fermare il ^43 nella posizione giusta</italian>
+		<russian>Самый верхний ^42 должен остаться целым, чтобы остановить ^43 в правильной позиции</russian>
 		<chinese>最上面的 ^42 必须完好无缺，才可在正确位置使 ^43 停下</chinese>
 		<korean>최상부의 ^42는 ^43을 정확한 위치에 정지시키기위해 온전히 보존되어야합니다.</korean>
 		<taiwanese>最上面的 ^42 必須完好無缺，才可在正確位置使 ^43 停下</taiwanese>
@@ -17064,7 +17069,7 @@
 		<polish>Przesunąć ^38, tak by strumień mógł do niego dotrzeć</polish>
 		<portuguese>Empurra o ^38 para que o feixe o possa alcançar</portuguese>
 		<italian>Spingi il ^38 in modo che il fascio possa raggiungerlo</italian>
-		<russian>Сдвиньте ^38, чтобы лучи могли дойти до него</russian>
+		<russian>Толкните ^38, чтобы лучи могли дойти до него</russian>
 		<chinese>推动 ^38，让光线能穿透它</chinese>
 		<korean>^38을 밀어 빛이 도달하도록 하십시오</korean>
 		<taiwanese>推動 ^38，讓光線能照到</taiwanese>
@@ -17080,7 +17085,7 @@
 		<polish>Znajdź pozycję, w które dwa ^35 podświetlają wszystkie ^26</polish>
 		<portuguese>Procura as posições onde os dois ^35 iluminem todos os ^26</portuguese>
 		<italian>Trova le posizioni in cui i due ^35 illuminano il ^26</italian>
-		<russian>Найдите место, где две ^35 осветят все ^26</russian>
+		<russian>Найдите место, где два ^35 осветят все ^26</russian>
 		<chinese>找到两个 ^35 照亮所有 ^26 的位置</chinese>
 		<korean>두개의 ^35가 모든 ^26을 비추는 위치를 찾아보세요</korean>
 		<taiwanese>找到兩個 ^35 照亮所有 ^26 的位置</taiwanese>
@@ -17112,7 +17117,7 @@
 		<polish>Pozwól duchowi  ^49 uderzyć ^04</polish>
 		<portuguese>Permite o espírito ^49que atinja o ^04</portuguese>
 		<italian>Consenti allo spirito ^49 di colpire il ^04</italian>
-		<russian>Дайте духу ^49 столкнуться с ^04</russian>
+		<russian>Дайте духу ^49 ударить  ^04</russian>
 		<chinese>允许灵魂 ^49 撞击 ^04</chinese>
 		<korean>스피릿 ^49가 ^04를 치도록하세요</korean>
 		<taiwanese>引誘守護靈 ^49 撞擊 ^04</taiwanese>
@@ -17144,6 +17149,7 @@
 		<polish>^49 musi osiagnąć ^20 zanim zrobi to ^00</polish>
 		<portuguese>O ^49 tem de alcançar o ^20 antes que ^00 o faça</portuguese>
 		<italian>Il ^49 deve raggiungere il ^20 prima che lo faccia il ^00</italian>
+		<russian> ^49 должен достичь ^20 до того как сможет ^00</russian>
 		<chinese>^49 必须在 ^00 前到达 ^20</chinese>
 		<korean>^49는 ^00가 도달하기 전에 ^20에 도달해야합니다</korean>
 		<taiwanese>^49 必須在 ^00 前到達 ^20</taiwanese>
@@ -17159,7 +17165,7 @@
 		<polish>Tylko jeden ^00 może przetrwać</polish>
 		<portuguese>Apenas um ^00 precisa de sobreviver</portuguese>
 		<italian>Solo un ^00 deve sopravvivere</italian>
-		<russian>Только одна ^00 нужна для выживания</russian>
+		<russian>Для выживания нужен единственный ^00 </russian>
 		<chinese>只需要存活一个 ^00</chinese>
 		<korean>단지 한개의 ^00가 살아남아야합니다.</korean>
 		<taiwanese>只需要存活一個 ^00</taiwanese>
@@ -17191,7 +17197,7 @@
 		<polish>Przesuń ^20, tylko gdy ^49 znajduje się blisko</polish>
 		<portuguese>Empurra o ^20 apenas quando ^49 está perto</portuguese>
 		<italian>Sposta il ^20 solo quando i ^49 sono vicini</italian>
-		<russian>Толкните ^20, когда закрыты ^49</russian>
+		<russian>Толкайте ^20, только когда ^49 закрыты</russian>
 		<chinese>当 ^49 接近时，只推动 ^20</chinese>
 		<korean>^20은 ^49가 닫혀있을 때만 밀어주세요</korean>
 		<taiwanese>只有當 ^49 接近時才推動 ^20</taiwanese>
@@ -17207,7 +17213,7 @@
 		<polish>Pozwól ^49 odwrócić ^48</polish>
 		<portuguese>Deixa o ^49 ligar o ^48</portuguese>
 		<italian>Fai in modo che i ^49 accendano i ^48</italian>
-		<russian>Дайте ^49 стать ^48</russian>
+		<russian>Дайте ^49 включить ^48</russian>
 		<chinese>让 ^49 开启 ^48</chinese>
 		<korean>^49가 ^48을 켜도록 하세요</korean>
 		<taiwanese>讓 ^49 變換成 ^48</taiwanese>
@@ -17223,6 +17229,7 @@
 		<polish>Wybierz trasę, która umożliwi wyjścje z ^05, z dala od ^49</polish>
 		<portuguese>Escolhe uma rota que te permite sair do ^05, para longe do ^49</portuguese>
 		<italian>Scegli un percorso che ti consenta di uscire da ^05, via dai ^49</italian>
+		<russian>Выберите маршрут, который позволит уйти от ^05, прочь от ^49</russian>
 		<chinese>选择一条路径，通过 ^05 传送，并远离 ^49</chinese>
 		<korean>^05에서 ^49에게서 멀어지도록 허용하는 출구 경로를 선택하세요</korean>
 		<taiwanese>選擇一條路徑，讓 ^05 到達出口，並遠離 ^49</taiwanese>
@@ -17238,7 +17245,7 @@
 		<polish>Pomocna dłoń jest potrzebna do przesunięcia ^20</polish>
 		<portuguese>Uma mão para ajudar é necessária para movimentar o ^20</portuguese>
 		<italian>C'è bisongo di una mano per spostare il ^20</italian>
-		<russian>Нужна помощь, чтобы сдвинуть ^20</russian>
+		<russian>Чтобы сдвинуть ^20 нужна помощь</russian>
 		<chinese>要移动到 ^20，你需要援手</chinese>
 		<korean>^20을 움직이기 위해 도움이 필요합니다</korean>
 		<taiwanese>要移動到 ^20，你需要幫助</taiwanese>
@@ -17254,6 +17261,7 @@
 		<polish>^49 może pomóc i może stanowić przeszkodę</polish>
 		<portuguese>O ^49 pode ser uma ajuda e um obstáculo</portuguese>
 		<italian>Il ^49 può essere un aiuto o un ostacolo</italian>
+		<russian>^49 может как помочь, так и помешать.</russian>
 		<chinese>^49 能帮助你，但也可能成为障碍</chinese>
 		<korean>^49는 도움일 수도 있고 장애일 수도 있습니다</korean>
 		<taiwanese>^49 能幫助你，但也可能成為障礙</taiwanese>
@@ -17285,7 +17293,7 @@
 		<polish>Usunąć przeszkody ze ścieżki ^49</polish>
 		<portuguese>Remove os obstáculos do caminho do  ^49</portuguese>
 		<italian>Rimuovi gli ostacoli sul percorso di ^49</italian>
-		<russian>Убирайте препядствия с пути ^49</russian>
+		<russian>Убирайте препядствия на пути ^49</russian>
 		<chinese>移开 ^49 移动路径中的障碍物</chinese>
 		<korean>^49의 경로에서 장애를 제거하세요</korean>
 		<taiwanese>移開 ^49 移動路徑中的障礙物</taiwanese>
@@ -17381,7 +17389,7 @@
 		<polish>Użyć ^02 na swoją korzyść</polish>
 		<portuguese>Usa o ^02 para tua vantagem</portuguese>
 		<italian>Usa ^02 per trarne vantaggio</italian>
-		<russian>Используйте ^02, как свою привелегию</russian>
+		<russian>Используйте ^02, в свою пользу</russian>
 		<chinese>使用 ^02 获得有利地位</chinese>
 		<korean>^20을 사용하여 혜택을 받으세요</korean>
 		<taiwanese>好好利用 ^02</taiwanese>
@@ -17397,7 +17405,7 @@
 		<polish>Jest więcej niż jeden sposób na zebranie lewego ^01</polish>
 		<portuguese>Há mais de uma maneira para coleccionar a esquerda ^01</portuguese>
 		<italian>C'è un modo in più per raccogliere il ^01 rimasto</italian>
-		<russian>Есть больше одного способа собрать оставшиеся ^01</russian>
+		<russian>Есть несколько способов собрать оставшиеся ^01</russian>
 		<chinese>有多种方式收集剩下的 ^01</chinese>
 		<korean>왼쪽 ^01을 수집하기위한 한 개 이상의 방법이 있습니다</korean>
 		<taiwanese>有多種方式收集剩下的 ^01</taiwanese>
@@ -17413,6 +17421,7 @@
 		<polish>Zostaw prawidłowy ^42nietknięty, aby zebrać ^19 i wyrównać z ^25</polish>
 		<portuguese>Deixa o correcto ^42 intacto para coleccionar ^19 e alinhar com ^25</portuguese>
 		<italian>Lascia il ^42 intatto per raccogliere ^19 ed allinearlo con ^25</italian>
+		<russian>Покинте правильный ^42 целым, чтобы собрать ^19 и сравнятся ^25</russian>
 		<chinese>合理保留 ^42，在收集 ^19后与 ^25排到对应位置</chinese>
 		<korean>^42는 ^19를 수집하고 ^25와 정렬시키기 위해 건드리지 말고 남겨두세요</korean>
 		<taiwanese>要收集 ^19 時請不要接觸 ^42 並與 ^25 排成一條線</taiwanese>
@@ -17460,6 +17469,7 @@
 		<polish>Utrzymać ^47</polish>
 		<portuguese>Mantém o ^47 ligado</portuguese>
 		<italian>Tieni il ^47 su</italian>
+		<russian>Держите ^47 включённым</russian>
 		<chinese>保持 ^47 开启</chinese>
 		<korean>^47을 켠채로 두세요</korean>
 		<taiwanese>保持 ^47 開啟</taiwanese>
@@ -17507,6 +17517,7 @@
 		<polish>Zostaw lewe i prawe ^33 na koniec</polish>
 		<portuguese>Deixe o mais à esquerda e mais à direita ^33 até ao fim</portuguese>
 		<italian>Lascia le ^33 all'estrema destra e all'estrema sinistra per ultime</italian>
+		<russian>Пройдите от самого левого до самого правого^33 до конца</russian>
 		<chinese>留下最左边和最右边的 ^33 直到最后</chinese>
 		<korean>최좌측 및 최우측의 ^38을 마지막까지 남겨두세요</korean>
 		<taiwanese>將最左邊和最右邊的 ^33 留到最後</taiwanese>
@@ -17538,6 +17549,7 @@
 		<polish>Sprawdź, gdzie ^00 pojawi się z ^05 i ^46</polish>
 		<portuguese>Verifica onde ^00 irá emergir ^05 e ^46</portuguese>
 		<italian>Controlla dove ^00 emergerà da ^05 e ^46</italian>
+		<russian>Проверьте где ^00 появится с ^05 до ^46</russian>
 		<chinese>观查 ^00 会从 ^05 和 ^46 的何处出现</chinese>
 		<korean>^00가 ^05와 ^46의 어디에서 솟아나오는지 확인하세요</korean>
 		<taiwanese>檢查 ^00 會從 ^05 和 ^46 的何處出現</taiwanese>
@@ -17553,7 +17565,7 @@
 		<polish>Środkowy ^33 jest najtrudniejszy do osiągnięcia. Planuj naprzód</polish>
 		<portuguese>O meio ^33 é o mais difícil alcançar. Planeia com antecedência</portuguese>
 		<italian>Il ^33 di mezzo è il più difficile da raggiungere. Pianifica in anticipo</italian>
-		<russian>В середину ^33 трудно попасть. Думайте заранее</russian>
+		<russian>В середину ^33 трудно попасть. Планируйте заранее</russian>
 		<chinese>中间的 ^33 是最难到达的地点。要提前计划好移动方法</chinese>
 		<korean>중간의 ^33은 가장 도달하기 어렵습니다. 계속 계획하세요</korean>
 		<taiwanese>中間的 ^33 是最難到達的地點。要提前想好移動方法</taiwanese>
@@ -17569,6 +17581,7 @@
 		<polish>Nie ma możliwości, by ten sam ^00 zniszczył ^18 i podróżował przez ^05</polish>
 		<portuguese>É impossível para o mesmo ^00 destruir ^18 e passar através do ^05</portuguese>
 		<italian>È impossibile per lo stesso ^00 distruggere ^18 e passare attraverso ^05</italian>
+		<russian>Невозможно одинаковым ^00 разрушить ^18 и пройти ^05</russian>
 		<chinese>无法使用同样的 ^00 毁坏 ^18 并穿越过 ^05</chinese>
 		<korean>동일의 ^00이 ^18을 파괴하고 ^05를 통해 움직이기는 불가능합니다</korean>
 		<taiwanese>無法使用同樣的 ^00 破壞 ^18 並穿越過 ^05</taiwanese>
@@ -17584,6 +17597,7 @@
 		<polish>Przesuń ^20, tak by mógł zostać użyty do prawidłowego ustawienia ^00</polish>
 		<portuguese>Move ^20 para poder ser usado e posicionar ^00 correctamente</portuguese>
 		<italian>Sposta ^20 in modo che possa venire usato per posizionare ^00 correttamente</italian>
+		<russian>Двишайте ^20 так, чтобы можно было вернуть ^00 на место</russian>
 		<chinese>推动 ^20，更方便 ^00的通行</chinese>
 		<korean>^20을 움직여 ^00을 정확히 위치시키는 데 이용될 수 있도록 하세요</korean>
 		<taiwanese>移動 ^20，使 ^00 被放置在正確位置</taiwanese>
@@ -17599,6 +17613,7 @@
 		<polish>Wybierz swoją trasę z pierwszego pomieszczenia w mądry sposób</polish>
 		<portuguese>Escolhe o teu caminho sabiamente, para saíres da sala</portuguese>
 		<italian>Trova la via d'uscita dalla prima stanza con saggezza</italian>
+		<russian>Выбирайте маршрут из первой комнаты с умом.</russian>
 		<chinese>明智地选择你离开第一间房屋的路线</chinese>
 		<korean>첫 번째 방에서 현명하게 경로를 선택하세요</korean>
 		<taiwanese>明智地選擇你離開第一間房屋的路線</taiwanese>
@@ -17630,7 +17645,7 @@
 		<polish>Nie marnuj ^19</polish>
 		<portuguese>Não desperdices ^19</portuguese>
 		<italian>Non sprecare il ^19</italian>
-		<russian>Не тратьте ^19</russian>
+		<russian>Не растрачивайте ^19</russian>
 		<chinese>不要浪费 ^19</chinese>
 		<korean>^19를 낭비하지 마십시오</korean>
 		<taiwanese>不要浪費 ^19</taiwanese>
@@ -17646,7 +17661,7 @@
 		<polish>Po obu stronach, prawidłowy pierwszy ruch jest kluczowy</polish>
 		<portuguese>Em ambos os lados, o movimento correcto é crucial</portuguese>
 		<italian>In entrambi i lati, la prima mossa corretta è cruciale</italian>
-		<russian>Правильное первое движение важно с обоих сторон</russian>
+		<russian>Правильное первое движение -  важнее всего</russian>
 		<chinese>在两侧，第一步移动是否正确至关重要</chinese>
 		<korean>양측에서, 첫 번째의 정확한 움직임이 결정적입니다</korean>
 		<taiwanese>在兩側，第一步移動是否正確非常重要</taiwanese>
@@ -17678,7 +17693,7 @@
 		<polish>Pierwszym krokiem jest włączenie ^48</polish>
 		<portuguese>O primeiro passo é para ligar o  ^48</portuguese>
 		<italian>Il primo passo è accendere il ^48</italian>
-		<russian>Первый ход запустит ^48</russian>
+		<russian>Первый ход для переключения ^48</russian>
 		<chinese>第一步是开启 ^48</chinese>
 		<korean>첫 번째 스텝은 ^48을 켜기위한 것입니다</korean>
 		<taiwanese>第一步是切換 ^48</taiwanese>
@@ -17694,6 +17709,7 @@
 		<polish>Pozwól ^41 minąć ^00</polish>
 		<portuguese>Permite ^41 através ^00</portuguese>
 		<italian>Consenti a ^41 di passare ^00</italian>
+		<russian>Позволь ^41 пройти ^00</russian>
 		<chinese>允许 ^41 通过 ^00</chinese>
 		<korean>^41이 ^00을 지나도록 하세요</korean>
 		<taiwanese>允許 ^41 通過 ^00</taiwanese>
@@ -17893,7 +17909,7 @@ título.</spanish>
 		<polish>Opuść poziom</polish>
 		<portuguese>Sair do Nível</portuguese>
 		<italian>Livello di Uscita</italian>
-		<russian>Закрыть уровень</russian>
+		<russian>Покинуть уровень</russian>
 		<chinese>退出关卡</chinese>
 		<korean>나가기 레벨</korean>
 		<taiwanese>退出任務</taiwanese>
@@ -18551,7 +18567,7 @@ título.</spanish>
 		<polish>Inspirujące zen gra logiczna, w stanie sprawdzić swoje umiejętności i zdobyć serce!</polish>
 		<portuguese>Um jogo encantador zen de lógica para testar a tua cabeça e capturar o teu coração!</portuguese>
 		<italian>Un incantevole gioco di logica zen in grado di mettere alla prova le tue capacità e catturare il tuo cuore!</italian>
-		<russian>Чарующая головоломка, которая проверит ваши мозги и захватит ваше сердце!</russian>
+		<russian>Чарующая головоломка, которая проверит ваши мозги и покорит ваше сердце!</russian>
 		<chinese>一款迷人的禅宗逻辑游戏，测试你的大脑，俘获你的心！</chinese>
 		<korean>논리적인 황홀한 zen게임은 당신의 두뇌를 시험하고 마음을 사로잡을 것입니다!</korean>
 		<taiwanese>一款迷人的禪學式邏輯遊戲，測試您的大腦，俘獲您的心！</taiwanese>
@@ -18569,7 +18585,7 @@ título.</spanish>
 		<polish>Zapomnij świat. Zakochana w tym uroczym zen puzzle.</polish>
 		<portuguese>Esquece o mundo. Apaixona-te por este jogo de puzzle encantador</portuguese>
 		<italian>Scordati del mondo. Innamorati di questo incantevole puzzle zen.</italian>
-		<russian>Забудьте об остальном мире. Влюбитесь в эту очаровательную головоломку.</russian>
+		<russian>Забудьте обо всём на свете. Погрузитесь в эту успокаивающую головоломку.</russian>
 		<chinese>忘掉周遭世界。爱上这款迷人的禅宗益智游戏。</chinese>
 		<korean>만사를 잊어버리세요. 이 황홀한 zen 퍼즐을 즐겨보세요.</korean>
 		<taiwanese>忘掉周遭世界。愛上這款迷人的禪學式益智遊戲。</taiwanese>
@@ -19538,7 +19554,7 @@ título.</spanish>
 		<polish>Zdobądź 6 rozdziałów w atrakcyjnej cenie!</polish>
 		<portuguese>Compra 6 capitulos a um preço reduzido!</portuguese>
 		<italian>Ottieni 6 capitoli a un prezzo ridotto!</italian>
-		<russian>Получите 6 глав по уменьшенной цене!</russian>
+		<russian>Получите 6 глав по выгодной цене!</russian>
 		<chinese>以特惠价格获得 6 个章节！</chinese>
 		<korean>인하된 가격으로 6 개의 챕터를 취득하세요!</korean>
 		<taiwanese>以特別優惠價格獲得 6 個章節！</taiwanese>
@@ -19586,7 +19602,7 @@ título.</spanish>
 		<polish>Zdobądź Super Rewind i Wykrywacz kamieni w atrakcyjnej cenie!</polish>
 		<portuguese>Consegue o Super Rewind e o Detector de Joias juntos por um preço reduzido!</portuguese>
 		<italian>Ottieni il Super Rewind e il Rilevatore di Gioielli insieme a un prezzo ridotto!</italian>
-		<russian>Получите супер перемотку и детектор бриллиантов вместе по пониженной цене!</russian>
+		<russian>Получите супер перемотку и детектор бриллиантов вместе по выгодной цене!</russian>
 		<chinese>以特惠价格同时获得“超级回退”和“珠宝探测器”！</chinese>
 		<korean>인하된 가격으로 수퍼 되감기 및 보석 탐지기를 함께 취득하세요!</korean>
 		<taiwanese>以特別優惠價格同時獲得“超級回退”和“珠寶探測器”！</taiwanese>
@@ -19826,7 +19842,7 @@ título.</spanish>
 		<polish>Aby przesunąć kroplę deszczu  ^00, należy przeciągnąć myszkę (obsługiwane są też klawiatura i gamepad)</polish>
 		<portuguese>Para mover a gota da chuva ^00 arrastar o rato (teclado / comando também pode ser utilizado)</portuguese>
 		<italian>Per spostare la goccia numero ^00, muovi il mouse (tastiera / anche il gamepad è supportato)</italian>
-		<russian>Чтобы сдвинуть каплю ^00 используйте мышь, клавиатуру или геймпад</russian>
+		<russian>Чтобы сдвинуть каплю ^00 используйте мышь (клавиатуру или геймпад)</russian>
 		<chinese>将水滴^00移动到指定位置</chinese>
 		<korean>빗방울^00을 이동시키기위해 마우스로 드래그하세요 (키보드 / 게임패드로도 이동시킬 수 있습니다)</korean>
 		<taiwanese>將水滴^00移動到指定位置</taiwanese>
@@ -19874,7 +19890,7 @@ título.</spanish>
 		<polish>Aby zetrzeć kurz, naciśnij %s</polish>
 		<portuguese>Pressiona %s para tirar o pó</portuguese>
 		<italian>Premi su %s per rimuovere la polvere</italian>
-		<russian>Нажмите %s, чтобы стереть грязь</russian>
+		<russian>Нажмите %s, чтобы убрать пыль</russian>
 		<chinese>按下%s擦去灰尘</chinese>
 		<korean>먼지를 닦아내기위해 %s를 눌러주세요</korean>
 		<taiwanese>按下%s擦拭灰塵</taiwanese>
@@ -20219,6 +20235,7 @@ título.</spanish>
 		<id>STR_CLUE_CANDY_LOOP</id>
 		<translate>true</translate>
 		<english>Use one ^00 to break the other ^00 out of a loop, to gain a positional advantage.</english>
+		<russian>Используйте один ^00, чтобы освободить их ^00 из цикла, чтобы получить особые преимущества..</russian>
 		<chinese>使用一个^00在循环中破坏另一个^00，以此等到更佳的位置。</chinese>
 		<taiwanese>使用一個^00在循環中破壞另一個^00，以此方法到達更好的位置。</taiwanese>
 	</stringentry>
@@ -20272,7 +20289,7 @@ título.</spanish>
 		<polish>Pulpit</polish>
 		<portuguese>Ambiente de trabalho</portuguese>
 		<italian>Desktop</italian>
-		<russian>Компьютер</russian>
+		<russian>Рабочий стол</russian>
 		<chinese>桌面</chinese>
 		<korean>데스크탑</korean>
 		<taiwanese>桌面</taiwanese>
@@ -20432,7 +20449,7 @@ título.</spanish>
 		<polish>Aby ruszyć, należy przytrzymać lewy przycisk myszki i przesynąć ją w porządanym kierunku</polish>
 		<portuguese>Pressionar e manter premido o botão esquerdo e arrastar na direcção para o movimento</portuguese>
 		<italian>Tieni premuto il tasto sinistro del mouse e spostati nella direzione verso cui vuoi muoverti</italian>
-		<russian>Удерживайте левую кнопку мыши и тяните в направлении движения</russian>
+		<russian>Удерживайте левую кнопку мыши и потяните в направлении движения</russian>
 		<chinese>按住鼠标左键并向某一方向拖动来移动</chinese>
 		<korean>좌측의 마우스 버튼을 잡고 이동방향으로 드래그하세요</korean>
 		<taiwanese>按住滑鼠左鍵並向某一方向拖動來移動</taiwanese>
@@ -20495,6 +20512,7 @@ título.</spanish>
 		<id>STR_PUBLISHED_BY_CIRCLE</id>
 		<translate>true</translate>
 		<english>代理发行\nTorch Game\nCIRCLE Entertainment</english>
+		<russian>代理发行\nTorch Game\nCIRCLE Entertainment</russian>
 	</stringentry>
 	<stringentry>
 		<id>STR_TUTORIAL_SWIPEMOVE_TOUCHPAD</id>
@@ -20524,11 +20542,12 @@ título.</spanish>
 		<id>STR_CLOUD_UNAVAILABLE_REQUIRED_FOR_SAVING</id>
 		<translate>true</translate>
 		<english>iCloud is required for saving progress, but could not be accessed. Please check your network connectivity and that you are signed into iCloud in the Settings app.</english>
-		<russian>Не удалось получить доступ к iCloud для процесса сохранения. Пожалуйста, проверьте ваши настройки сети и то, что вы вошли в iCloud в приложении Настройки.</russian>
+		<russian>Не удалось получить доступ к iCloud, это необходим для сохранения прогресса. Пожалуйста, проверьте ваши настройки сети и то, что вы вошли в iCloud в Настройках.</russian>
 	</stringentry>
 	<stringentry>
 		<id>STR_HOLD</id>
 		<translate>true</translate>
 		<english>HOLD</english>
+		<russian>ДЕРЖАТЬ</russian>
 	</stringentry>
 </stringtable>
